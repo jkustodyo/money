@@ -1,0 +1,543 @@
+!Type:Oth L
+D23/2'05
+T0.00
+CX
+POpening Balance
+L[UNESA WEB]
+^
+D23/2'05
+T-299.00
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-346.21
+SOutros rendimentos:Desc Web
+$47.21
+^
+D24/2'05
+MCOMPRA-DBT
+T299.00
+PWEB pgto
+L[BB Corrente]
+^
+D25/2'05
+T-299.01
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-346.22
+SOutros rendimentos:Desc Web
+$47.21
+^
+D25/2'05
+MPagamento de título
+T299.01
+PWEB pgto
+L[BB Corrente]
+^
+D20/3'05
+T-298.99
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-346.21
+SOutros rendimentos:Desc Web
+$47.22
+^
+D30/3'05
+MPAG TITULO
+T298.99
+PWEB pgto
+L[BB Corrente]
+^
+D22/4'05
+T-299.00
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-346.22
+SOutros rendimentos:Desc Web
+$47.22
+^
+D28/4'05
+MPAG TITULO
+T298.99
+PWEB pgto
+L[BB Corrente]
+^
+D22/5'05
+T-299.00
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-346.22
+SOutros rendimentos:Desc Web
+$47.22
+^
+D31/5'05
+MPAG TITULO
+T299.00
+PWEB pgto
+L[BB Corrente]
+^
+D15/6'05
+T-298.99
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-346.21
+SOutros rendimentos:Desc Web
+$47.22
+^
+D29/6'05
+MPAG TITULO
+T298.99
+PWEB pgto
+L[BB Corrente]
+^
+D22/7'05
+T-319.92
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-370.45
+SOutros rendimentos:Desc Web
+$50.53
+^
+D19/9'05
+T-299.01
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-346.22
+SOutros rendimentos:Desc Web
+$47.21
+^
+D30/9'05
+T319.92
+PWEB pgto
+L[Bradesco Corrente ni]
+^
+D31/10'05
+Msf: 404,43
+T255.95
+PWEB pgto
+L[BB Corrente]
+^
+D22/10'05
+Mok
+T-255.94
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-370.45
+SOutros rendimentos:Desc Web
+$40.41
+SEducação:Bolsa
+E5 * 14,82
+$74.10
+^
+D15/8'05
+Mok
+T-319.92
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-370.45
+SOutros rendimentos:Desc Web
+$50.53
+^
+D22/11'05
+T-255.94
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-370.45
+SOutros rendimentos:Desc Web
+$40.41
+SEducação:Bolsa
+E5 * 14,82
+$74.10
+^
+D28/11'05
+T255.94
+PWEB pgto
+L[TAM credicard]
+^
+D22/12'05
+T-255.93
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-370.45
+SOutros rendimentos:Desc Web
+$40.42
+SEducação:Bolsa
+E5 * 14,82
+$74.10
+^
+D27/12'05
+T255.94
+PWEB pgto
+L[TAM credicard]
+^
+D11/1'06
+T-280.13
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E5 * 14,82
+$76.96
+SOutros rendimentos:Desc Web
+$27.71
+^
+D26/1'06
+T280.13
+PWEB pgto
+L[TAM credicard]
+^
+D4/2'06
+T-280.14
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E5 * 15,39
+$76.95
+SOutros rendimentos:Desc Web
+$27.71
+^
+D17/2'06
+T280.14
+PWEB pgto
+L[TAM credicard]
+^
+D11/3'06
+T-280.13
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E4 * 19,24
+$76.96
+SOutros rendimentos:Desc Web
+$27.71
+^
+D30/3'06
+Mweb05042006
+T280.14
+PWEB pgto
+L[TAM credicard]
+^
+D27/7'05
+T319.93
+PWEB pgto
+L[Bradesco Corrente ni]
+^
+D30/8'05
+T319.92
+PWEB pgto
+L[Bradesco Corrente ni]
+^
+D11/4'06
+T-280.13
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E4 * 19,24
+$76.96
+SOutros rendimentos:Desc Web
+$27.71
+^
+D25/4'06
+Mweb05032006
+T280.13
+PWEB pgto
+L[TAM credicard]
+^
+D11/5'06
+T-280.13
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E4 * 19,24
+$76.96
+SOutros rendimentos:Desc Web
+$27.71
+^
+D29/5'06
+Mweb05052006
+T280.13
+PWEB pgto
+L[TAM credicard]
+^
+D20/6'06
+Mweb05032006
+T280.13
+PWEB pgto
+L[TAM credicard]
+^
+D11/6'06
+T-280.13
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E4 * 19,24
+$76.96
+SOutros rendimentos:Desc Web
+$27.71
+^
+D26/7'06
+Mweb05032006
+T292.45
+PWEB pgto
+L[TAM credicard]
+^
+D11/7'06
+T-280.13
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E4 * 19,24
+$76.96
+SOutros rendimentos:Desc Web
+$27.71
+^
+D11/8'06
+T-292.45
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E4 * 19,24
+$76.96
+SOutros rendimentos:Desc Web
+$15.39
+^
+D23/8'06
+Mweb05032006
+T292.45
+PWEB pgto
+L[TAM credicard]
+^
+D22/9'06
+Mweb05102006
+T292.45
+PWEB pgto
+L[TAM credicard]
+^
+D10/9'06
+T-292.45
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E4 * 19,24
+$76.96
+SOutros rendimentos:Desc Web
+$15.39
+^
+D10/10'06
+Msssssssssssssssssss
+T-292.45
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E5 * 19,24
+$76.96
+SOutros rendimentos:Desc Web
+$15.39
+^
+D31/10'06
+Mweb05102006
+T292.45
+PWEB pgto
+L[TAM credicard]
+^
+D12/11'06
+Msssssssssssssssssss
+T-292.45
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E4 * 19,24
+$76.96
+SOutros rendimentos:Desc Web
+$15.39
+^
+D30/11'06
+Mweb05102006
+T292.45
+PWEB pgto
+L[TAM credicard]
+^
+D1/10'06
+T-33.26
+P########ajuste da conta#########
+^
+D10/12'06
+Msssssssssssssssssss
+T-319.20
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-399.00
+SEducação:Bolsa
+E5 * 19,24
+$79.80
+^
+D5/1'07
+Mweb05102006
+T319.20
+PWEB pgto
+L[TAM credicard]
+^
+D10/1'07
+M1111111111
+T-303.24
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-399.00
+SEducação:Bolsa
+E5 * 19,24
+$79.80
+SOutros rendimentos:Desc Web
+$15.96
+^
+D31/1'07
+Mweb05102006
+T303.24
+PWEB pgto
+L[TAM credicard]
+^
+D10/2'07
+Msssssssssssssssssss
+T-292.45
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-384.80
+SEducação:Bolsa
+E5 * 19,24
+$76.96
+SOutros rendimentos:Desc Web
+$15.39
+^
+D5/3'07
+Mweb05012007
+T319.20
+PWEB pgto
+L[TAM credicard]
+^
+D10/3'07
+T-303.24
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-399.00
+SEducação:Bolsa
+E5 * 19,24
+$79.80
+SOutros rendimentos:Desc Web
+$15.96
+^
+D30/3'07
+Mweb05012007
+T303.24
+PWEB pgto
+L[TAM credicard]
+^
+D10/4'07
+M1111111111
+T-319.20
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-399.00
+SEducação:Bolsa
+E5 * 19,24
+$79.80
+^
+D7/5'07
+Mweb05102006
+T319.20
+PWEB pgto
+L[TAM credicard]
+^
+D5/6'07
+T-319.20
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-399.00
+SEducação:Bolsa
+E5 * 19,24
+$79.80
+^
+D31/5'07
+Mweb05062007
+T303.24
+PWEB pgto
+L[TAM credicard]
+^
+D30/5'07
+T-303.24
+Pms WEB liquida
+LEducação:WEB
+SEducação:WEB
+$-399.00
+SEducação:Bolsa
+E5 * 19,24
+$79.80
+SOutros rendimentos:Desc Web
+$15.96
+^
+D6/8'07
+Mweb06082007 Pagamento de Título
+T319.20
+PWEB pgto
+L[BB Corrente]
+^
+D31/8'07
+Mweb05092007
+T65.44
+PWEB pgto
+L[TAM credicard]
+^
+D1/10'07
+MPagamento de Título
+T65.44
+PWEB pgto
+L[BB Corrente]
+^
+D21/12'07
+MPagamento de Título era: 22/11/2007
+T65.44
+PWEB pgto
+L[Santander Corrente]
+^
+D21/12'07
+MPagamento de Título era: 22/11/2007
+T65.44
+PWEB pgto
+L[Santander Corrente]
+^

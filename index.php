@@ -31,33 +31,24 @@ function separarCampos($texto){
 	$texto=str_replace(chr(10),"",$texto);
 	$arr=explode(chr(13),$texto);
 print_r($arr);echo "<br>";
-//echo "(((($texto))))";
-//return 11111;
 	$str_json="{";
+	$detalhe=0;
 	foreach($arr as $item){
 		$str="";
-		if(substr($item,0,5)=='!Type'	)	$str="{'Tipo'=>'"		.substr($item,6)."'"		;else
-		if(substr($item,0,1)=='L'		)	$str="{'Lancamento'=>'"	.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='P'		)	$str="{'Favorecido'=>'"	.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='D'		)	$str="{'Data'=>'"		.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='T'		)	$str="{'Valor'=>'"		.substr($item,1)."'"		;else
+		if(substr($item,0,5)=='!Type'	)	$str="{'Tipo'=>'"								.substr($item,6)."'"		;else
+		if(substr($item,0,1)=='L'		)	$str="{'Lancamento'=>'"							.substr($item,1)."'"		;else
+		if(substr($item,0,1)=='S'		)	$str="{'Lancamento_".(++$detalhe)."'=>'"		.substr($item,1)."'"		;else
+		if(substr($item,0,1)=='$'		)	$str="{'Valor_".$detalhe."'=>'"					.substr($item,1)."'"		;else
+		if(substr($item,0,1)=='E'		)	$str="{'Memo_".$detalhe."'=>'"					.substr($item,1)."'"		;else
+		if(substr($item,0,1)=='P'		)	$str="{'Favorecido'=>'"							.substr($item,1)."'"		;else
+		if(substr($item,0,1)=='D'		)	$str="{'Data'=>'"								.substr($item,1)."'"		;else
+		if(substr($item,0,1)=='T'		)	$str="{'Valor'=>'"								.substr($item,1)."'"		;else
+		if(substr($item,0,1)=='M'		)	$str="{'Memo'=>'"								.substr($item,1)."'"		;else
+		if(substr($item,0,1)=='N'		)	$str="{'Documento'=>'"							.substr($item,1)."'"		;else
 		if($item!='')						$str="{'Obs'=>'$item'";else continue;
-//											$str="{'Obs'=>'$item'";
 		$str_json.="$str},";
 	}
 	return "$str_json}";
-
-	$ret="";
-	$tam=strlen($texto);
-	for($i=0;$i<$tam;$i++){
-		if($texto[$i]==chr(13))
-			$ret.="@@!!@@";
-		else
-			$ret.=$texto[$i];
-			
-	}
-	return [$arr,$ret];
-	return [$arr,$ret];
 }
 
 ?> 

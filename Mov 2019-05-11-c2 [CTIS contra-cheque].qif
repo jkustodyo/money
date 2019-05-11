@@ -5,26 +5,6 @@ CX
 POpening Balance
 L[CTIS contra-cheque]
 ^
-D31/3'02
-T2,673.14
-PCTIS Contra-cheque
-LSalários e ordenado:Pagamento bruto
-SSalários e ordenado:Pagamento bruto
-E3contos
-$3,000.00
-SDescontos trabalhistas:Contribuição sindical
-Esindiocalizar-se? jamais
-$-100.00
-SDescontos trabalhistas:INSS S-Salário
-$-157.30
-SDescontos trabalhistas:IRRF S-Salário
-$-300.36
-SDescontos trabalhistas:Vale Refeição
-$-24.20
-SSalários e ordenado:SA FGTS
-Efundo de garantia dos tolos
-$255.00
-^
 D5/7'02
 T-2,317.81
 N452242
@@ -378,6 +358,23 @@ SDescontos trabalhistas:Ass méd Depende
 $-228.48
 SSalários e ordenado:SA FGTS
 $333.98
+^
+D31/3'02
+T2,673.14
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,000.00
+SDescontos trabalhistas:Contribuição sindical
+$-100.00
+SDescontos trabalhistas:INSS S-Salário
+$-157.30
+SDescontos trabalhistas:IRRF S-Salário
+$-300.36
+SDescontos trabalhistas:Vale Refeição
+$-24.20
+SSalários e ordenado:SA FGTS
+$255.00
 ^
 D30/4'02
 T2,773.14

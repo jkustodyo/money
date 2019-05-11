@@ -1,0 +1,10585 @@
+!Type:Cash
+D6/2'03
+T0.00
+CX
+POpening Balance
+L[Dinheiro]
+^
+D6/2'03
+Msq 750 - doc 4424888 
+T-700.00
+N2590887630
+PBB -> UBB Depósito
+L[ITAÚ UBB Corrente]
+^
+D7/3'03
+T-70.00
+N8310487630
+PEspaço Feliz
+LEducação:Jardim Escola
+^
+D8/5'03
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D7/5'03
+T-70.00
+PEspaço Feliz
+LEducação:Jardim Escola
+^
+D7/5'03
+Mera de 30
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D8/5'03
+T-2.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D8/5'03
+T-3.00
+PAlmoço a trabalho
+LAlimentação:Restaurantes
+^
+D8/5'03
+MSq 350 - 300(Aluguel) = 50,00 no bolso
+T350.00
+Ppor no bolso
+L[BB Corrente]
+^
+D15/5'03
+MEric Escola, p/ serviço
+T-1.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D15/5'03
+MApostilas de TGA I
+T-2.00
+PFaculdade gastos diversos
+LEducação:Apostilas, cópias diversas
+^
+D15/5'03
+MCad desenho espiral
+T-2.55
+PNi Pedagogia
+LEducação:Pedagogia
+^
+D18/5'03
+Mni: 
+T-20.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D19/5'03
+T1.00
+PTroco Ticket
+LOutros rendimentos:Depositos
+^
+D19/5'03
+M1 Batata + 1 Refri
+T-7.60
+PBatata Inglesa
+LAlimentação:Restaurantes
+^
+D19/5'03
+MExer Contb Custos
+T-0.13
+PFaculdade gastos diversos
+LEducação:Apostilas, cópias diversas
+^
+D23/5'03
+T-37.27
+Pni
+LMiscelânea
+^
+D23/5'03
+T30.00
+Ppor no bolso
+L[BB Corrente]
+^
+D24/5'03
+MClube Water Planet
+T-5.60
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D24/5'03
+MRuffles p/ Eric
+T-1.20
+PGuloseimas
+LDespesas com filho:Doces, salgados, etc
+^
+D26/5'03
+MCavalinho
+T-5.00
+PParks Game - Nova America
+LLazer:Brinquedos e jogos
+^
+D28/5'03
+Mni: p/Fazer exames no NShop
+T-20.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D28/5'03
+T-1.20
+PMoedas
+LAlimentação:Restaurantes
+^
+D6/6'03
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D6/6'03
+MPé de cadeiras e Ganchos de cortinas na Uruguaiana
+T-3.36
+PPlast Rei
+LItens domésticos:Mobiliário
+^
+D9/6'03
+M311, p/ trabalho
+T-1.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D9/6'03
+MEd Central 3oA = 120Grs + 1Choc 0,50
+T-4.24
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D13/6'03
+M27,22
+T27.22
+Pdeposito
+LOutros rendimentos:Depositos
+^
+D11/6'03
+MGastei 3,00
+T-1.00
+PPresentes Ni
+LPresentes diversos:Datas comemorativas
+^
+D19/2'03
+T-2.20
+PDrogaria México
+LSaúde:Remédios
+^
+D16/6'03
+MNi deu din p/ ônibus
+T1.50
+Pdeposito
+LOutros rendimentos:Depositos
+^
+D16/6'03
+M311, p/ trabalho
+T-1.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D16/6'03
+Mum cofrinho de plástico
+T-1.00
+PDespesas domésticas
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D22/8'02
+T-4.08
+PC & A pagamento
+L[C & A cartão]
+^
+D21/1'03
+T-32.80
+PC & A pagamento
+L[C & A cartão]
+^
+D6/2'03
+M. Saque de 750,00 - 700 dep UBB = 50
+T750.00
+Ppor no bolso
+L[BB Corrente]
+^
+D30/1'03
+T140.00
+Ppor no bolso
+L[BB Corrente]
+^
+D10/2'03
+M. de 400,00 - 300,00 do aluguel - 70,00 EspFeliz = 30
+T30.00
+Ppor no bolso
+L[BB Corrente]
+^
+D20/2'03
+T-73.85
+PC & A pagamento
+L[C & A cartão]
+^
+D21/3'03
+Msaldo antes do pagto 43,96
+T-43.96
+PC & A pagamento
+L[C & A cartão]
+^
+D7/8'02
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D9/8'02
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D14/8'02
+Mde 100 - 4,08 do C&A = R$ 95,92 = 100
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D16/8'02
+T430.00
+Ppor no bolso
+L[BB Corrente]
+^
+D17/3'03
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/1'03
+Mde 100 - 32,80(C&A) = 67,20 100
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D1/2'03
+T-1,363.29
+PDespesas diversas (Ajustes)
+^
+D20/5'03
+Msaldo antes do pagto 43,96
+T-114.53
+PC & A pagamento
+L[C & A cartão]
+^
+D21/3'03
+T-26.29
+PDrogasmil
+LSaúde:Remédios
+SSaúde:Remédios
+EMucolin Xpe Ad 14,24  ChNescBall 30g 1,20
+$-11.63
+SSaúde:Anticoncepcional
+EDiane
+$-14.66
+^
+D24/4'03
+T-16.61
+PDrogasmil
+LSaúde:Remédios
+SSaúde:Remédios
+EÓleo Banho Vitam 60ML
+$-1.95
+SSaúde:Anticoncepcional
+EDiane
+$-14.66
+^
+D20/6'03
+Mni: 
+T-17.94
+PChampion Lj001
+LAlimentação:Supermercado
+^
+D10/5'03
+Mni: 
+T-12.05
+PChampion Lj001
+LAlimentação:Supermercado
+^
+D1/5'03
+T-16.00
+PPraia
+LLazer:Diversão
+^
+D4/5'03
+MCompras NShop
+T-15.00
+PDespesas domésticas
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D8/5'03
+Mni: Dia das mães, Eric
+T-15.00
+PDespesas domésticas
+LPresentes diversos:Datas comemorativas
+^
+D18/6'03
+Mni: 
+T-73.75
+PChampion Lj001
+LAlimentação:Supermercado
+^
+D4/4'03
+Mni
+T-11.15
+PChampion Lj001
+LAlimentação:Supermercado
+^
+D21/6'03
+MPão-de-açúcar. 4Metrô + 1(Água)
+T-8.52
+PDespesas domésticas
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D23/6'03
+M3 polenguinhos
+T-1.00
+PDespesas domésticas
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D22/4'03
+MSq 90   50,00 p/ mãe  10,00 Falmonox 
+T90.00
+Ppor no bolso
+L[BB Corrente]
+^
+D22/4'03
+MFalmonox
+T-10.00
+PDespesas domésticas
+LSaúde:Verminozes
+^
+D22/4'03
+MMãe
+T-50.00
+PDespesas domésticas
+LPresentes diversos:Meus parentes
+^
+D27/2'03
+MUni Amox - Amoxicilina 500mg c/21
+T-3.18
+PCristal Drogaria
+LSaúde:Remédios
+SSaúde:Remédios
+EUni Amox - Amoxicilina 500mg c/21
+$17.79
+SSaúde:Verminozes
+E2cx Amplium 500Mg c/8
+$-13.60
+SSaúde:Verminozes
+ENeo Metrodazol 250Mg c/20
+$-7.37
+^
+D6/5'02
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D24/2'03
+Mera de 50,00 - 29,40 de metrô
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D24/2'03
+T-29.40
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D25/2'03
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D25/6'03
+Mqueijo provolone c/Orégano
+T-9.00
+PQueijinho
+LAlimentação:Queijos, iorgutes, etc
+^
+D26/6'03
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/3'03
+T70.00
+Ppor no bolso
+L[BB Corrente]
+^
+D24/4'03
+T-53.15
+PC & A pagamento
+L[C & A cartão]
+^
+D25/10'02
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D31/10'02
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D22/11'02
+T60.00
+Ppor no bolso
+L[BB Corrente]
+^
+D12/11'02
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D11/11'02
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D4/5'03
+T30.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D4/5'03
+M2ônb(2) + Táxi NorteShop-Casa c/compras(10)
+T-12.00
+PDespesas domésticas
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D28/6'03
+MShop Botafogo
+T60.00
+Ppor no bolso
+L[BB Corrente]
+^
+D28/6'03
+Mkit c/ 12 livrinhos (Fábulas encantadas)
+T-11.00
+PDespesas domésticas
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D26/6'03
+T-12.95
+PDespesas domésticas
+LEducação:Informática
+^
+D1/7'03
+MIr ao médico
+T-5.00
+PDespesas domésticas
+LEsposa:Outras despesas
+^
+D27/6'03
+M470,67
+T-445.69
+PDespesas diversas (Ajustes)
+^
+D28/6'03
+MGastos c/ Passeio dev: cx Ni
+T-14.00
+PDespesas domésticas
+LLazer:Diversão
+^
+D6/6'03
+MSaque de 310 - 70(Espaço Feliz) - 10(bolso) = 230(Ni)
+T610.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/6'03
+MSq 310 - 70(Espaço Feliz) - 10(bolso) = 230(Ni)
+T-70.00
+PEspaço Feliz
+LEducação:Jardim Escola
+^
+D6/6'03
+MSq de 310 - 70(Espaço Feliz) - 10(bolso) = 230(Ni) - 17,94(Din.20/6)
+T-230.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+SAlimentação:Feira, sacolão e padaria
+ESq de 310 - 70(Espaço Feliz) - 10(bolso) = 230(Ni) - 17,94(Din.20/6)
+$-74.12
+SAlimentação:Supermercado
+E17,94(Din.20/6)
+$-17.94
+SAlimentação:Feira, sacolão e padaria
+$-137.94
+^
+D2/7'03
+Msf: 275,28
+T400.00
+Ppor no bolso
+L[BB Corrente]
+^
+D2/7'03
+M2/7 11:55
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D2/7'03
+M+ Pq Mônica = 70 + 24 = 94  (6,00??)
+T-100.00
+PEspaço Feliz
+LEducação:Jardim Escola
+^
+D3/7'03
+MPães de queijo
+T-2.00
+PDespesas domésticas
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D4/7'03
+MNi pegou??
+T-3.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D5/7'03
+MNi foi c/Éric na Pça Inhaúma
+T-5.00
+PDespesas domésticas
+LEsposa:Outras despesas
+SEsposa:Outras despesas
+$-2.50
+SDespesas com filho:Brinquedos, educação, diversos
+ERobo chifrudo
+$-2.50
+^
+D7/7'03
+MSunday + água
+T-3.65
+PDespesas domésticas
+LDespesas com filho:Doces, salgados, etc
+^
+D11/7'03
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D10/7'03
+MLevar os 2 na Rodo
+T-4.40
+PDespesas domésticas
+LLazer:Viagens
+^
+D10/7'03
+T-11.95
+PDespesas diversas (Ajustes)
+LMiscelânea
+^
+D11/7'03
+M2 Baguetinhos
+T-0.70
+PPane & Dolces
+LAlimentação:Feira, sacolão e padaria
+^
+D11/7'03
+MCópia Boleto + Comprovante de Pagto p/ Devolução
+T-0.13
+PFaculdade gastos diversos
+LEducação:Apostilas, cópias diversas
+^
+D13/7'03
+M5 pães, Margarina e sacolão
+T-7.15
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D14/7'03
+M0,885 * 10,40 = 9,20 + 0,90 = 10,10
+T-10.10
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D14/7'03
+M4 parafusos p/ Pega ladrão
+T-0.64
+PPalácio das ferramentas
+LItens domésticos:Diversos
+^
+D15/7'03
+Msó 50 + 10 p/táxi
+T-50.00
+PDespesas domésticas
+LAlimentação:Supermercado
+^
+D14/7'03
+Maté rod buscá-los
+T-9.28
+PDespesas domésticas
+LLazer:Viagens
+^
+D15/7'03
+T20.00
+Ppor no bolso
+L[BB Corrente]
+^
+D15/7'03
+M2 CDRW
+T-6.00
+PDiversos
+LDespesas diversas:Diversos
+^
+D15/7'03
+M6 mexiricas
+T-1.00
+PDiversos
+LDespesas diversas:Diversos
+^
+D15/7'03
+T-12.00
+PDespesas domésticas
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D17/7'03
+T70.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D17/7'03
+M4p até NShop
+T-4.80
+PDespesas domésticas
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D17/7'03
+MExp Tubarão
+T-15.00
+PDespesas domésticas
+LLazer:Eventos culturais
+^
+D17/7'03
+T-3.20
+PDespesas domésticas
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D27/6'03
+MTapete 9,99 Lixeira 14,99
+T-24.98
+PCasa e Video - Mobilita Com Ind
+LItens domésticos:Mobiliário
+^
+D21/7'03
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D21/7'03
+MCômoda 130  2Criados 100
+T-30.00
+PCalufe - Móveis e decorações
+LItens domésticos:Mobiliário
+^
+D19/7'03
+MPça Inhaúma
+T-28.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+SAlimentação:Feira, sacolão e padaria
+$-8.65
+SEsposa:Vaidade, vestuário, calçados
+EPlantinha
+$-2.00
+SItens domésticos:Diversos
+EFiltro Suggar
+$-3.85
+SItens domésticos:Mobiliário
+E2 P Retrato
+$-6.50
+SLazer:Fitas e CDs
+EDVD Traffic
+$-3.50
+SDespesas com filho:Brinquedos, educação, diversos
+ECaminhão Controle Fanta
+$-3.50
+^
+D23/7'03
+T-8.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D24/7'03
+MAntena VHF/UHF
+T-10.00
+PDespesas domésticas
+LItens domésticos:Diversos
+^
+D25/7'03
+M8 pilhas
+T-1.00
+PDespesas domésticas
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D30/7'03
+T213.53
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D30/7'03
+Mpg Ni
+T-200.00
+PCalufe - Móveis e decorações
+LItens domésticos:Mobiliário
+^
+D30/7'03
+T-13.53
+PPedagogia
+L[UNESA Pedagogia]
+^
+D29/7'03
+Mp/Ni
+T-22.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D31/7'03
+T10.00
+PDevoluções
+LItens domésticos:Diversos
+^
+D31/7'03
+T-3.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D1/8'03
+T32.00
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D2/8'03
+T-31.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D6/8'03
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/8'03
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D6/8'03
+T-70.00
+PEspaço Feliz
+LEducação:Jardim Escola
+^
+D6/8'03
+Mera R$80,00 - 20,07(8/8) - 30,00(16/8) - 1,70(20/8) - 11,80(21/8)
+T-16.43
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D7/8'03
+M1 Prateleira
+T-1.99
+PDespesas domésticas
+LItens domésticos:Mobiliário
+^
+D7/8'03
+M292, até SM Guanab
+T-1.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D6/8'03
+M292, até SM Shamp
+T-1.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D6/8'03
+M1 Prateleira
+T-1.00
+PDespesas domésticas
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D8/8'03
+T-20.07
+PIntercontinental
+LAlimentação:Supermercado
+^
+D9/8'03
+T-2.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D11/8'03
+MPortaCD
+T-19.00
+PCamelôs & Cia
+LItens domésticos:Diversos
+^
+D11/8'03
+MPortaCD
+T-2.25
+PDespesas domésticas
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D16/8'03
+MTênis
+T-9.99
+PDespesas domésticas
+LDespesas com filho:Calçados, Vestuário etc
+^
+D16/8'03
+T-30.00
+PMonique by Rio
+LEsposa:Vaidade, vestuário, calçados
+^
+D16/8'03
+T-1.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D18/8'03
+T-1.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D20/8'03
+T70.00
+Ppor no bolso
+L[BB Corrente]
+^
+D10/9'03
+Mempréstimo pro Ribamar dia 21/08 de 5 tic
+T40.00
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D21/8'03
+M292, até SM Guanab
+T-1.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D21/8'03
+T-10.00
+PEric
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D20/8'03
+T-1.00
+PDespesas domésticas
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D5/9'03
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D8/9'03
+T-90.00
+PEspaço Feliz
+LEducação:Jardim Escola
+^
+D5/9'03
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D6/9'03
+MÁgua mineral. Era 110 - 5,04(Inter) - 12,91(Inter) - 13,9(Bimbo) - 20(Unifor)
+T-58.15
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D22/8'03
+MColgate
+T-1.10
+PDrogaria México
+LHigiene pessoal:Manutenção
+^
+D25/8'03
+Msf: 30,67
+T-20.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D22/8'03
+T-5.50
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D20/8'03
+T-1.70
+PZPG Burlamaqui Var Ltda
+LAlimentação:Feira, sacolão e padaria
+^
+D21/8'03
+T-11.80
+PBimbo do Brasil Ltda
+LAlimentação:Feira, sacolão e padaria
+^
+D15/8'03
+T-18.30
+PTemParque SA Pq Mônica
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D5/9'03
+M50 bilhetes
+T-94.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D31/8'03
+Msf: 0  ajustes  +13,53
+T-44.20
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D5/7'02
+T730.00
+Ppor no bolso
+L[BB Corrente]
+^
+D5/7'02
+Mera de 730,00, p/ pg aluguel e condominio
+T-295.00
+PSaque
+LMiscelânea
+^
+D5/7'02
+T-370.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D5/7'02
+T-65.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D26/6'03
+T13.53
+PPedagogia
+L[BB Corrente]
+^
+D6/9'03
+MCarioca Shopp : Kombi
+T-5.00
+PDespesas domésticas
+LLazer:Diversão
+^
+D5/9'03
+M8Bat
+T-2.00
+PDiversos
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D9/9'03
+MEng Rainha até serviço
+T-1.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D13/9'03
+T-6.00
+PViagens
+LLazer:Viagens
+^
+D19/9'03
+T200.00
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D19/9'03
+T-30.00
+PTicket descontos
+LDespesas diversas:Decontos Ticket
+^
+D19/9'03
+T-170.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D1/10'03
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D13/10'03
+T98.77
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D13/10'03
+T-17.43
+PTicket descontos
+LDespesas diversas:Decontos Ticket
+^
+D20/9'03
+M2 Fitas (Óleo Lorenzo, Hospedeiros) e 1 DVD (13 Dias)
+T-10.90
+PDespesas domésticas
+LLazer:Fitas e CDs
+^
+D20/9'03
+T-2.80
+Ponibus
+LLazer:Fitas e CDs
+^
+D1/10'03
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D10/9'03
+T-5.04
+PIntercontinental
+LAlimentação:Supermercado
+^
+D11/9'03
+T-12.91
+PIntercontinental
+LAlimentação:Supermercado
+^
+D9/9'03
+T-13.90
+PBimbo do Brasil Ltda
+LAlimentação:Feira, sacolão e padaria
+^
+D29/9'03
+MP/ajudar no pagto da Facu
+T70.00
+Pni
+LEsposa:Outras despesas
+^
+D29/9'03
+T-50.00
+PPedagogia
+L[UNESA Pedagogia]
+^
+D30/9'03
+Msf 22
+T-32.90
+PAjustes Créditos
+^
+D27/9'03
+MSundae no NShop/Mac
+T-3.00
+PDespesas domésticas
+LAlimentação:Queijos, iorgutes, etc
+^
+D1/10'03
+Morçamento
+T-10.00
+PDespesas domésticas
+LSaúde:Dentista
+^
+D6/10'03
+MSaque de 50 + 460  Doc:>  2362385122(50) + 5125585122(460)
+T510.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/10'03
+T980.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D6/10'03
+T-655.40
+PIPVA
+LAutomóvel:Impostos, taxas anuais etc
+^
+D6/10'03
+T-582.53
+PIPVA
+LAutomóvel:Impostos, taxas anuais etc
+^
+D6/10'03
+T-50.00
+Pni
+LEsposa:Mensalidade
+^
+D6/10'03
+M60 - 14,8(Bimbo) - 12(Eric Doces, GChuva) - 15(Academina Roupa)
+T-18.20
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D6/10'03
+T-90.00
+PEspaço Feliz
+LEducação:Jardim Escola
+^
+D9/10'03
+MCópia de chave
+T-5.00
+PCorsa
+LAutomóvel:Manutenção
+^
+D9/10'03
+M*
+T-14.80
+PBimbo do Brasil Ltda
+LAlimentação:Feira, sacolão e padaria
+^
+D10/10'03
+M*Éric festinha
+T-6.00
+PChampion Lj001
+LDespesas com filho:Doces, salgados, etc
+^
+D10/10'03
+M*1 Guarda-chuva
+T-6.00
+PDespesas domésticas
+LAlimentação:Supermercado
+^
+D10/10'03
+M*Academia
+T-15.00
+Pni
+LEsposa:Vaidade, vestuário, calçados
+^
+D10/10'03
+T-2.50
+PEgec Estac NShop
+LAutomóvel:Estacionamento
+^
+D14/10'03
+T-26.00
+PCEG - Gas de cozinha
+LContas a pagar:Gás
+^
+D14/10'03
+T-18.91
+PDespesas domésticas
+LAlimentação:Supermercado
+^
+D16/10'03
+MLâmpada Placa
+T-0.50
+PCorsa
+LAutomóvel:Manutenção
+^
+D15/10'03
+MGizão de cera c/12 para Fono
+T-2.49
+PLojas Magal de Utilidades Ltda
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D17/10'03
+MSaque com Cartão Saque com Cartão
+T70.00
+Ppor no bolso
+L[BB Corrente]
+^
+D17/10'03
+M014-0  transferência de propriedade    59,96
+T-59.96
+PCorsa
+LAutomóvel:Impostos, taxas anuais etc
+^
+D17/10'03
+M018-3  baixa de alienação fiduciária    64,34  66,34
+T-66.34
+PCorsa
+LAutomóvel:Impostos, taxas anuais etc
+^
+D17/10'03
+MMarreiros trocou por din-din
+T23.24
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D17/10'03
+T-40.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D4/11'03
+T-80.00
+PEspaço Feliz
+LEducação:Jardim Escola
+^
+D4/11'03
+M16,50 pão (Bimbo d11), 40 sacolão, 14 água - 80 EFeliz
+T-67.50
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D4/11'03
+M- 22,05 (Lojas Americanas???)
+T-36.95
+Pni
+LEsposa:Mensalidade
+^
+D31/10'03
+Msf: 1157,02 Saque com Cartão Saque com Cartão
+T400.00
+Ppor no bolso
+L[BB Corrente]
+^
+D31/10'03
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D31/10'03
+T-1.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D31/10'03
+Msf: 35,95
+T-80.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D3/11'03
+T250.00
+Ppor no bolso
+L[BB Corrente]
+^
+D4/11'03
+T-10.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D4/11'03
+MTroca do extintor
+T-13.00
+PCorsa
+LAutomóvel:Manutenção
+^
+D4/11'03
+MErli, pg o Frango
+T-10.00
+Pdeposito
+LOutros rendimentos:Depositos
+^
+D5/11'03
+T-3.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D4/11'03
+MControle Remoto
+T-20.00
+PDespesas domésticas
+LAutomóvel:Manutenção
+^
+D5/11'03
+T-1.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D7/11'03
+T-15.00
+PMcDonalds - IPA Com de Alim Ltda
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D8/11'03
+MFilme "Cidade de Deus"
+T-5.00
+PDespesas domésticas
+LLazer:Fitas e CDs
+^
+D19/11'03
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D21/11'03
+T-5.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D21/11'03
+T-6.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D17/11'03
+M7,90 L
+T-15.00
+PRepsol Suburbana
+LAutomóvel:Gasolina
+^
+D11/11'03
+T-16.50
+PBimbo do Brasil Ltda
+LAlimentação:Padaria
+^
+D22/11'03
+T-5.80
+PLAMSA - Linha Amarela S/A
+LAutomóvel:Pedágio
+^
+D22/11'03
+MIngresso
+T-15.00
+PTemParque SA Pq Mônica
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D22/11'03
+MLanche
+T-6.70
+PTemParque SA Pq Mônica
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D20/11'03
+Mdiversos ????  ajustes
+T-12.50
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D27/11'03
+MExtensão Fone de ouvido
+T-5.00
+PDespesas domésticas
+LItens domésticos:Diversos
+^
+D26/11'03
+T-5.20
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D26/11'03
+M20 batoms
+T-5.00
+PBatom
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D25/11'03
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D25/11'03
+M50 bilhetes
+T-94.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D1/12'03
+Msf: 624,80
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D1/12'03
+T-132.80
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+SAlimentação:Feira, sacolão e padaria
+E+ Bimbo(7,20) = 80
+$-72.80
+SEsposa:Mensalidade
+$-60.00
+^
+D1/12'03
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D1/12'03
+Mdez
+T-80.00
+PEspaço Feliz
+LEducação:Jardim Escola
+^
+D1/12'03
+Mjan  usou p/ outros fins
+T-80.00
+PEspaço Feliz
+LEducação:Jardim Escola
+^
+D29/11'03
+MEstac Shop NAmer + complemnto
+T-8.00
+PPasseio
+LAutomóvel:Estacionamento
+SAutomóvel:Estacionamento
+EEstac Shop NAmer + complemnto
+$-3.00
+SAlimentação:Restaurantes
+ERodízio de Pizza c/ Fam da Raissa / raiça
+$-5.00
+^
+D29/11'03
+MRodízio de Pizza c/ Fam da Raissa / raiça
+T32.00
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D1/12'03
+T-5.50
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D5/12'03
+Mde bleid
+T-10.00
+PBrinquedo
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D6/12'03
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/12'03
+MGastos na Uruguaiana c/ Ni e Éric
+T-155.00
+PNatal
+LPresentes diversos:Datas comemorativas
+SPresentes diversos:Datas comemorativas
+EGastos na Uruguaiana c/ Ni e Éric
+$-80.00
+SDespesas com filho:Brinquedos, educação, diversos
+EJeep Ctrl Remoto 09/12
+$-75.00
+^
+D10/12'03
+T-5.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D10/12'03
+T-9.25
+PPasseio
+LAutomóvel:Estacionamento
+SAutomóvel:Estacionamento
+EEstac NShop
+$-2.50
+SAlimentação:Restaurantes
+EMcLanche Feliz
+$-6.75
+^
+D12/12'03
+T-2.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D12/12'03
+MDVD Dragon Balls
+T-10.00
+PNatal
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D20/12'03
+MPres Mateus e Tiago
+T-20.00
+PNatal
+LPresentes diversos:Datas comemorativas
+^
+D22/12'03
+MÓleo de Freio (4,60)
+T-6.00
+P1001 - Autopeças
+LAutomóvel:Manutenção
+^
+D22/12'03
+MMauricio/Jessica pgto do natal
+T30.00
+PGuanabara
+LAlimentação:Supermercado
+^
+D23/12'03
+T-7.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D26/12'03
+T-5.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D20/12'03
+MAjustes
+T-46.00
+PNatal
+LPresentes diversos:Datas comemorativas
+^
+D27/12'03
+MNi pegou 20,00
+T-15.01
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D27/12'03
+MBaygon 300ML
+T-4.99
+PCarrefour
+LItens domésticos:Diversos
+^
+D29/12'03
+Msf: 351,34 ?? (0,02)??
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D4/1'04
+T-22.70
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D29/12'03
+MUnha, etc
+T-20.00
+PDespesas domésticas
+LEsposa:Vaidade, vestuário, calçados
+^
+D31/12'03
+MFeira de Arujá
+T-10.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D29/12'03
+T-7.00
+PLava-Jato, polimento etc
+LAutomóvel:Manutenção
+^
+D29/12'03
+T-22.70
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D2/1'04
+T-62.00
+PDespesas domésticas
+LEsposa:Vaidade, vestuário, calçados
+SEsposa:Vaidade, vestuário, calçados
+ETênis
+$-22.00
+SDespesas com filho:Calçados, Vestuário etc
+ETênis
+$-13.00
+SDespesas com filho:Brinquedos, educação, diversos
+EByBlaide
+$-10.00
+SAutomóvel:Manutenção
+EPalheta
+$-12.00
+SAutomóvel:Estacionamento
+EFlanela
+$-5.00
+^
+D7/1'04
+T750.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/1'04
+M50 bilhetes
+T-94.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D7/1'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D7/1'04
+T-329.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+SAlimentação:Feira, sacolão e padaria
+E+ Bimbo 17,40(8) + 14,60(21) = 80,00
+$-48.00
+SItens domésticos:Diversos
+EHD 40Gb 7200
+$-231.00
+SEsposa:Mensalidade
+E+15(Anticocepa)
+$-35.00
+SSaúde:Anticoncepcional
+$-15.00
+^
+D8/1'04
+T-17.40
+PBimbo do Brasil Ltda
+LAlimentação:Padaria
+^
+D16/12'03
+T-7.20
+PBimbo do Brasil Ltda
+LAlimentação:Padaria
+^
+D10/1'04
+MJéssica, 
+T39.90
+PLedzep
+^
+D10/1'04
+T-7.77
+PIntercontinental
+LAlimentação:Supermercado
+^
+D11/1'04
+MPraia c/ Raiça e família (Pães e Presunto)
+T-3.12
+PChampion Lj001
+LAlimentação:Supermercado
+^
+D12/1'04
+T176.00
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D12/1'04
+T-26.40
+PTicket descontos
+LDespesas diversas:Decontos Ticket
+^
+D6/2'04
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/2'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D6/2'04
+M80 + 14 em moedas = 50 bilhetes = 90,00
+T-80.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D12/1'04
+MLousa mágica
+T-10.00
+Ppresentes Eric
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D11/1'04
+MPraia c/ Raiça e família
+T-15.00
+PGasolina - AC  E.Velha/L.Amarela
+LAutomóvel:Gasolina
+^
+D14/1'04
+T-10.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D16/1'04
+M1,829 * 20,00 = 10,93494 L
+T-20.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D19/1'04
+MPraia c/ Raiça e família
+T-15.00
+PPasseio
+LLazer:Diversão
+^
+D20/1'04
+MIgraja da Penha, pq diversão
+T-10.00
+PPasseio
+LLazer:Diversão
+^
+D20/1'04
+MFrutas e legumes, Ni esqueceu dinheiro
+T-11.12
+PChampion Lj001
+LAlimentação:Supermercado
+^
+D21/1'04
+T-14.60
+PBimbo do Brasil Ltda
+LAlimentação:Padaria
+^
+D26/1'04
+MCartuchos Preto/Color
+T-50.00
+PDespesas domésticas
+LItens domésticos:Diversos
+^
+D27/1'04
+T-1.50
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D24/1'04
+M1,829 * 20,00 = 10,93494 L
+T-20.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D1/2'04
+MLanchonete
+T-10.00
+Pclube Water Planet
+LLazer:Clube
+^
+D30/1'04
+T-5.32
+PWal Mart SuperCenter
+LAlimentação:Supermercado
+^
+D30/1'04
+MPgto da mens FEV/04
+T50.00
+Precebimentos diversos
+LEsposa:Outras despesas
+^
+D3/2'04
+T200.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D3/2'04
+T-18.00
+PCorsa
+LAutomóvel:Manutenção
+SAutomóvel:Manutenção
+EMoto-Táxi
+$-8.00
+SAlimentação:Balas, doces, biscoitos e salgs
+E1L Mel
+$-10.00
+^
+D30/1'04
+MSorvete, água
+T2.50
+PDespesas domésticas
+LDespesas com filho:Doces, salgados, etc
+^
+D3/2'04
+T-160.00
+PAtelier do automóvel
+LAutomóvel:Manutenção
+SAutomóvel:Manutenção
+ELimpeza de Bicos
+$-90.00
+SAutomóvel:Manutenção
+ESensor de Rotação
+$-70.00
+^
+D3/2'04
+MEstac Shop Carioca
+T-2.50
+PCorsa
+LAutomóvel:Estacionamento
+^
+D6/2'04
+T-100.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D3/2'04
+MFiltro de Ar
+T-7.00
+P1001 - Autopeças
+LAutomóvel:Manutenção
+^
+D3/2'04
+Msf 22
+T-45.82
+PDespesas diversas (Ajustes)
+LMiscelânea
+^
+D7/2'04
+M24,35
+T-24.35
+PBimbo do Brasil Ltda
+LAlimentação:Padaria
+^
+D7/2'04
+M+20,00 (?? Ni pegou) +24,35 (Bimbo) + 10,83(Habib)    ==> 80,00
+T-59.67
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+SAlimentação:Feira, sacolão e padaria
+E+20,00 (?? Ni pegou) +24,35 (Bimbo)    ==> 80,00
+$-55.65
+SItens domésticos:Diversos
+E1 Guarda-chuva
+$-10.00
+SItens domésticos:Mobiliário
+E13/2 Rodo de ferro 40 Cm
+$-3.85
+SItens domésticos:Ferramentas
+EChave de boca 6mm
+$-1.00
+SEsposa:Outras despesas
+EMaterial de Escola e 1 Jarra
+$10.83
+^
+D9/2'04
+T-17.50
+Ppresentes Eric
+LDespesas com filho:Brinquedos, educação, diversos
+SDespesas com filho:Brinquedos, educação, diversos
+ECarro ctrl frente e trás
+$-15.00
+SDespesas com filho:Brinquedos, educação, diversos
+E8Pia e 1Bat
+$-2.50
+^
+D14/2'04
+MSolda banco motorista
+T-22.00
+PCorsa
+LAutomóvel:Manutenção
+SAutomóvel:Manutenção
+ESolda banco motorista
+$-20.00
+SAutomóvel:Estacionamento
+E5a boa vista
+$-2.00
+^
+D16/2'04
+M20 rebites 32x5 R$0,80  10 rebites 8x5 R$0,40  ==>  R$1,10
+T-1.10
+PPalácio das ferramentas
+LItens domésticos:Diversos
+^
+D19/2'04
+T-8.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D9/3'04
+T-65.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D16/3'04
+M50 bilhetes
+T-94.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D20/2'04
+MCompras p/ Isabel
+T50.00
+PIsabel Espaço Feliz
+^
+D25/2'04
+M2 Salg Fandangos
+T-2.38
+PCarrefour
+LDespesas com filho:Doces, salgados, etc
+^
+D23/2'04
+T-3.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D28/2'04
+MChave combinada 8mm
+T-2.88
+PChampion Lj001
+LItens domésticos:Ferramentas
+^
+D29/2'04
+Msf 22
+T-10.29
+PDespesas diversas (Ajustes)
+LMiscelânea
+^
+D5/3'04
+T650.00
+Ppor no bolso
+L[BB Corrente]
+^
+D1/3'04
+M3Lamp, parafusos e roelas
+T-6.10
+PPalácio das ferramentas
+LItens domésticos:Diversos
+^
+D2/3'04
+MDimmer Iceberg
+T-7.99
+PCasa e Video - Mobilita Com Ind
+LItens domésticos:Mobiliário
+^
+D5/3'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D16/2'04
+T-10.83
+PHabib Gabriel e Filhos Ltda
+LEsposa:Outras despesas
+^
+D11/3'04
+MAjudar IPVA  sf: 4613,31 SAQUE
+T300.00
+PSaque poupança
+L[BB Poupança]
+^
+D5/3'04
+T111.00
+PSalário EPS -> Bradesco
+L[ni EPS Ativo]
+^
+D8/3'04
+Mpar sapato preto
+T-18.00
+PDespesas domésticas
+LDespesas com filho:Calçados, Vestuário etc
+^
+D8/3'04
+T-6.81
+PDespesas diversas (Ajustes)
+LMiscelânea
+^
+D11/3'04
+T-480.63
+PIPVA
+LAutomóvel:Impostos, taxas anuais etc
+^
+D9/3'04
+MFlauta
+T-1.10
+PCasa Cruz P.E V. Ltda
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D11/3'04
+MCompras p/ Isabel
+T51.00
+PIsabel Espaço Feliz
+^
+D6/4'04
+MSaque com Cartão
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/4'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D8/4'04
+M182,00 no bolso
+T-65.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D15/3'04
+T-70.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D17/3'04
+M3 cxs Lança Tazos
+T-3.00
+PDespesas domésticas
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D27/3'04
+M5 pct Fundo celofane c/10
+T-5.00
+PJosiane
+LJosiane
+^
+D28/3'04
+Mida-volta WaterPlanet + 1,00 Hula-Hula  sf: 92,37
+T-6.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D3/4'04
+MPizza + 6Skol
+T-11.59
+PChampion Lj001
+LItens domésticos:Ferramentas
+^
+D3/4'04
+T-2.37
+PIntercontinental
+LAlimentação:Supermercado
+^
+D4/4'04
+T-10.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D3/4'04
+MSáb-Dom, Filhos da Josiane, Pizza, Refri, Breja, sorvetes 20,00
+T-20.00
+PDespesas domésticas
+LLazer:Diversão
+^
+D6/4'04
+MAniversário, BleByde
+T-15.00
+PDespesas domésticas
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D9/4'04
+T-22.70
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D11/4'04
+T-19.90
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D10/4'04
+M3 Ovos Páscoa, escova, etc
+T-16.13
+PDespesas domésticas
+LLazer:Viagens
+^
+D12/4'04
+T-60.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D13/4'04
+Mp/ Ni comprar p/ gripe
+T-10.00
+PDespesas domésticas
+LSaúde:Remédios
+^
+D15/4'04
+T-10.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D15/4'04
+T-6.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D7/5'04
+MSaque com Cartão
+T250.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/5'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D8/5'04
+T-65.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D7/5'04
+M30 bilhetes
+T-60.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D17/4'04
+MCândida e Sabáo em Pó
+T-3.68
+PChampion Lj001
+LAlimentação:Supermercado
+^
+D21/4'04
+MEsfihas no Abi
+T-20.00
+PPasseio
+LLazer:Diversão
+SLazer:Diversão
+EEsfihas no Abib
+$-8.00
+SAutomóvel:Estacionamento
+ENShopping
+$-3.00
+SEsposa:Outras despesas
+ETroco
+$-9.00
+^
+D23/4'04
+MExtras
+T5.00
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D23/4'04
+T-2.00
+PRio ZooEstacionamento
+LAutomóvel:Estacionamento
+^
+D27/4'04
+Mp/ Viajar Saque com Cartão
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D27/4'04
+M2,00 Ônibus + 14,00 Táxi + 3,00??
+T-17.00
+PViagens à Trabalho
+LDespesas de trabalho:Viagens
+^
+D27/4'04
+MPaiva paga a parte dele
+T45.00
+PGarvey Park Hotel
+LDespesas de trabalho:Viagens
+^
+D27/4'04
+M20 bilhetes
+T-40.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D28/4'04
+T-8.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D1/5'04
+MEsfihas no Abi
+T-11.00
+PPasseio
+LLazer:Diversão
+SLazer:Diversão
+EEsfihas no Abib
+$-3.00
+SAutomóvel:Estacionamento
+ENShopping
+$-3.00
+SDespesas com filho:Brinquedos, educação, diversos
+E3 Bilhetes Play Norte
+$-5.00
+^
+D30/4'04
+T-20.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D6/5'04
+M4 Telas p/ pintura
+T-16.00
+PCasa Cruz P.E V. Ltda
+LEsposa:Outras despesas
+SEsposa:Outras despesas
+E4 Telas p/ pintura
+$-14.00
+SDespesas com filho:Brinquedos, educação, diversos
+EMini by-blaide
+$-2.00
+^
+D5/5'04
+M4 Telas p/ pintura
+T14.00
+PCasa Cruz P.E V. Ltda
+LEsposa:Outras despesas
+^
+D6/5'04
+MMerc Madureira
+T50.00
+PJosiane
+LJosiane
+^
+D6/5'04
+MAcerto da Faculdade R$38,35 + Dinheiro R$71,65
+T110.00
+Ppor no bolso
+L[ni EPS Ativo]
+^
+D8/5'04
+MPça Inhaúma, brinco, bolsa, balão
+T-11.00
+PDespesas domésticas
+LEsposa:Vaidade, vestuário, calçados
+^
+D7/6'04
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/6'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D2/6'04
+M30 bilhetes
+T-60.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D17/5'04
+T160.00
+Ppor no bolso
+L[BB Corrente]
+^
+D21/5'04
+T-50.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D14/5'04
+MDeixar c/ Isabel p/ reunião da Ni
+T-10.00
+PDespesas diversas (Ajustes)
+LDespesas com filho:Babá
+^
+D19/5'04
+T-40.00
+PGarvey Park Hotel
+LDespesas de trabalho:Viagens
+^
+D18/5'04
+MTáxi, Õnibus, refeição
+T-45.00
+PSGIFDespesas
+LDespesas de trabalho:Viagens
+^
+D17/5'04
+T-30.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D28/5'04
+MSaque com Cartão
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D28/5'04
+M2 Dominós 5,50 presentes
+T-11.00
+PDespesas domésticas
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D28/5'04
+MCad Desenho
+T-6.99
+PKalunga
+LEducação:Jardim Escola
+^
+D31/5'04
+T-5.85
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D14/6'04
+Mdia 28/05/2004, emprestado p/ Ribamar R$ 54,60
+T55.00
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D1/6'04
+T-7.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D1/6'04
+T-90.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D2/6'04
+MAniversário da Cecília dia 01/06
+T-3.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D2/6'04
+T-6.70
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D5/6'04
+Mdinheiro da Josiane
+T20.00
+Ppor no bolso
+L[ni EPS Ativo]
+^
+D5/6'04
+MDan Top MarshMellow
+T-5.80
+PMakro
+LDespesas com filho:Doces, salgados, etc
+^
+D8/6'04
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D8/6'04
+T-13.50
+Ppresentes Eric
+LDespesas com filho:Brinquedos, educação, diversos
+SDespesas com filho:Brinquedos, educação, diversos
+E2 QCabeças
+$-3.00
+SDespesas com filho:Festas de aniversário
+EMenina SuperPoder
+$-5.00
+S
+EJosiane
+$-5.50
+^
+D5/7'04
+MSaque com Cartão Saque com Cartão
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D5/7'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D8/7'04
+T-65.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D18/6'04
+M19 bilhetes
+T-38.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D10/6'04
+T-70.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D12/6'04
+MChave de vela
+T-3.00
+PCorsa
+LAutomóvel:Manutenção
+^
+D14/6'04
+T-21.06
+P########ajuste da conta#########
+^
+D14/6'04
+MVolta da secretária (sei lá quem) dia 14/06
+T-2.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D15/6'04
+T-1.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D15/6'04
+MPasta de dente
+T-2.10
+PDespesas domésticas
+LHigiene pessoal:Manutenção
+SHigiene pessoal:Manutenção
+EPasta de dente
+$-1.10
+SDespesas de trabalho:Refeição
+$-1.00
+^
+D16/6'04
+T-33.00
+PBrinquedo
+LDespesas com filho:Brinquedos, educação, diversos
+SDespesas com filho:Brinquedos, educação, diversos
+EPatinete
+$-32.00
+SAutomóvel:Manutenção
+EBarra p/Chave de vela
+$-1.00
+^
+D21/6'04
+T1,000.00
+Ppor no bolso
+L[BB Corrente]
+^
+D21/6'04
+M75,00 com André Bandarra
+T75.00
+PEmprestimo
+LMiscelânea
+^
+D21/6'04
+MP72
+T-1,071.00
+PBEEK Informática Ltda - ME
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D22/6'04
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D22/6'04
+T-75.00
+PEmprestimo
+LMiscelânea
+^
+D22/6'04
+T-10.00
+PBradesco transferência
+L[Bradesco Poup ni]
+^
+D22/6'04
+MAniversário da Thais dia 23/06
+T-3.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D24/6'04
+MTransf p/Ribamar, p/ Ag: 3608-0  cc: 130897-1 (Efigenia B D Soares)
+T55.00
+Ppor no bolso
+L[BB Corrente]
+^
+D9/7'04
+T-70.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D26/6'04
+T-3.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D28/6'04
+MEspelho
+T-10.00
+PCasa e Video - Mobilita Com Ind
+LItens domésticos:Mobiliário
+^
+D30/6'04
+MAniversário da Fátima Dolores dia 01/07
+T-5.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D29/6'04
+T-10.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D29/6'04
+M3 CDRW 3,00 + 4 CDR 1,50 = 15,00
+T-15.00
+PDespesas domésticas
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D7/7'04
+MAniversário da Rô dia 07/07
+T-3.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D9/7'04
+T-4.10
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D9/7'04
+MSaque com Cartão Saque com Cartão
+T120.00
+Ppor no bolso
+L[BB Corrente]
+^
+D9/7'04
+Mera para sacolão e Padaria
+T-60.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D12/7'04
+T-3.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D12/7'04
+MArgila exp 2Kg  -  Pedra pomes para vaso
+T-3.94
+PLeroy Merlin
+LEsposa:Outras despesas
+^
+D10/7'04
+MFesta Junina da "Espaço Feliz"
+T-10.00
+PDespesas domésticas
+LLazer:Diversão
+^
+D9/7'04
+M35 bilhetes
+T-70.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D13/7'04
+M3mFio(3,00); 4Plug (4,00); 2CDRs LC (2,80)
+T-9.80
+PDespesas domésticas
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D7/8'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D7/8'04
+T-65.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D7/8'04
+M40 bilhetes
+T-80.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D7/8'04
+T-30.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D20/7'04
+T-5.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D21/7'04
+T550.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D22/7'04
+MMemory Stick 256 310,00 + Case 80,00
+T-390.00
+PPaula Viana
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D22/7'04
+T-19.90
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D20/7'04
+M??????????????
+T-25.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D28/7'04
+MSJ Meriti - Shop Grande Rio 
+T60.00
+Ppor no bolso
+L[BB Corrente]
+^
+D28/7'04
+M2 Pizza e 1 Guarana 2L
+T-16.29
+PSendas Distribuidora SA
+LAlimentação:Supermercado
+^
+D24/7'04
+MLançar aqui a folha de gastos da Ni
+T-152.00
+PPasseio
+LItens domésticos:Mobiliário
+SItens domésticos:Mobiliário
+EImãs de geladeira
+$-5.00
+SItens domésticos:Mobiliário
+Epanos de prato
+$-7.00
+SItens domésticos:Mobiliário
+Ecapas gás e água
+$-10.00
+SItens domésticos:Roupas
+E4 pares meias pretas
+$-5.00
+SEsposa:Vaidade, vestuário, calçados
+EBlusinhas
+$-22.00
+SDespesas com filho:Calçados, Vestuário etc
+ETênis
+$-18.00
+SEsposa:Vaidade, vestuário, calçados
+ETênis
+$-25.00
+SAutomóvel:Estacionamento
+EZona Azul 2Hrs
+$-5.00
+SDespesas com filho:Calçados, Vestuário etc
+E2cj Moletons
+$-35.00
+SPresentes diversos:Meus parentes
+E2 vestidos, Iasmin e Beatriz
+$-20.00
+^
+D23/7'04
+MVó q deu p/Tênis do Éric
+T20.00
+Precebimentos diversos
+LOutros rendimentos:Presentes recebidos
+^
+D30/7'04
+M12 bilhetes
+T-24.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D31/7'04
+T-12.00
+PCinema em Casa
+LLazer:Cinema e locação de vídeo
+^
+D3/8'04
+T-15.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D3/8'04
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D3/8'04
+M8 Baterias + 1 Carregador
+T-80.00
+PDespesas domésticas
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D3/8'04
+Mfoi no dia 1o
+T-10.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D6/8'04
+MSaque com Cartão Saque com Cartão
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D12/8'04
+M6 Polenguinhos
+T-2.00
+PDespesas domésticas
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D12/8'04
+MAniversário do Sérgio Figueredo e Marquinhos dia 12/08
+T-3.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D2/9'04
+MSaque com Cartão Saque com Cartão
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D2/9'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D4/9'04
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D3/9'04
+M40 bilhetes
+T-80.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D12/8'04
+T-12.50
+PDespesas domésticas
+LDespesas com filho:Brinquedos, educação, diversos
+SDespesas com filho:Brinquedos, educação, diversos
+EPula Pula 6min
+$-10.00
+SAutomóvel:Estacionamento
+EGrande Rio
+$-2.50
+^
+D15/8'04
+MGastos 20,00 de feira
+T-10.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D10/8'04
+Mera para sacolão e Padaria
+T-20.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D17/8'04
+T28.53
+P########ajuste da conta#########
+^
+D19/8'04
+T-10.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D19/8'04
+T-6.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D29/8'04
+T-10.77
+PWal Mart SuperCenter
+LAlimentação:Supermercado
+^
+D3/9'04
+MColgate
+T-2.80
+PDrogaria México
+LHigiene pessoal:Manutenção
+SHigiene pessoal:Manutenção
+EColgate 50G
+$-1.20
+SHigiene pessoal:Manutenção
+EEscova de Dente
+$-1.60
+^
+D6/9'04
+MSaque com Cartão Saque com Cartão
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/9'04
+Mbermuda
+T-7.90
+PTysler
+LItens domésticos:Roupas
+^
+D7/9'04
+MBatata, cebola, abóbora e acem
+T-11.72
+PChampion Lj001
+LAlimentação:Feira, sacolão e padaria
+^
+D7/9'04
+T-9.48
+PCasa e Video - Mobilita Com Ind
+LDespesas com filho:Doces, salgados, etc
+SDespesas com filho:Doces, salgados, etc
+E2 Pickup Rangers
+$-4.99
+SAlimentação:Balas, doces, biscoitos e salgs
+ECx Bombom
+$-4.49
+^
+D7/9'04
+M10,005L x 1,999 = 20,00
+T-20.00
+PPosto - NSenhora das Vitórias
+LAutomóvel:Gasolina
+^
+D9/9'04
+M40 parafusos, 2 Fech de Gaveta e 8 L
+T-13.20
+PPalácio das ferramentas
+LItens domésticos:Diversos
+^
+D4/9'04
+T-40.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D8/9'04
+MDinheiro 50 + 20
+T70.00
+PJosiane Cheques
+LJosiane:Cheques
+^
+D4/9'04
+T-10.00
+PDisk Video The Palms Ltda-ME
+LLazer:Cinema e locação de vídeo
+SLazer:Cinema e locação de vídeo
+$-6.00
+SAlimentação:Balas, doces, biscoitos e salgs
+E2 sorvetes
+$-4.00
+^
+D9/9'04
+T-6.50
+PDisk Video The Palms Ltda-ME
+LLazer:Cinema e locação de vídeo
+SLazer:Cinema e locação de vídeo
+EMulta
+$-4.50
+SAlimentação:Balas, doces, biscoitos e salgs
+E2 sorvetes
+$-2.00
+^
+D15/9'04
+MAdaptador de tomada
+T-2.65
+PPalácio das ferramentas
+LItens domésticos:Diversos
+^
+D17/9'04
+T-10.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D19/9'04
+MBolo
+T-1.60
+PIntercontinental
+LAlimentação:Supermercado
+^
+D19/9'04
+T-30.00
+PMcDonalds - IPA Com de Alim Ltda
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D6/10'04
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/10'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D6/10'04
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D26/9'04
+T-10.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D26/9'04
+MÉric e Lucas da tia Josi
+T-20.00
+PMcDonalds - IPA Com de Alim Ltda
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D1/9'04
+T-59.23
+P########ajuste da conta#########
+^
+D27/9'04
+Msf: 2873,94
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D27/9'04
+M4 Pilhas AA Duracell
+T-7.00
+PFotoDigital
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D27/9'04
+MMeu Niver, torta e bebida
+T-38.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D27/9'04
+M3 todynhos
+T-2.57
+PWal Mart SuperCenter
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D30/9'04
+T-1.60
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D30/9'04
+MDia da secretária
+T-3.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D2/10'04
+T-20.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D1/10'04
+MCartucho preto (20 + 25)
+T-45.00
+PDespesas escolares
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D6/10'04
+M40 bilhetes
+T-80.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D7/10'04
+MPortaCD
+T-42.00
+PCamelôs & Cia
+LItens domésticos:Foto, cinema, armazém e instala
+SItens domésticos:Foto, cinema, armazém e instala
+E20 caps de CDs
+$-7.00
+SItens domésticos:Foto, cinema, armazém e instala
+E5 mídias Fujifilm DVDr
+$-20.00
+SItens domésticos:Foto, cinema, armazém e instala
+EAplicador CDpply
+$-10.00
+SItens domésticos:Foto, cinema, armazém e instala
+EEtiquetas c/50
+$-5.00
+^
+D9/10'04
+MMotoquinha no NAmerica
+T-5.00
+PEric
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D7/11'04
+T550.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/11'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D8/11'04
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D7/11'04
+M40 bilhetes
+T-80.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D14/10'04
+Mp/estac Aeroporto
+T-10.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D18/10'04
+M2,00 Ônibus + 35,00 Táxi + 8,00 Almoço + 6,50 Escova
+T-51.50
+PViagens à Trabalho
+LDespesas de trabalho:Viagens
+^
+D13/10'04
+Mnão sei onde foi parar 50 pratas
+T-67.98
+P########ajuste da conta#########
+^
+D14/10'04
+T60.00
+Ppor no bolso
+L[BB Corrente]
+^
+D18/10'04
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D19/10'04
+MUniforme
+T-40.00
+PJEPS
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D19/10'04
+MCabo USB p/Câmera Digital
+T-10.00
+PLivraria Ciência Moderna Ltda
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D23/10'04
+T-50.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D25/11'04
+MCr Dental, escova, etc  ?????
+T-4.77
+PAmericanas Lojas SA
+LDespesas de trabalho:Viagens
+^
+D29/10'04
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D29/10'04
+MSão Cristóvão, passeio no Centro c/Éric
+T-30.90
+PCorsa
+LAutomóvel:Gasolina
+SAutomóvel:Gasolina
+ESão Cristóvão, passeio no Centro c/Éric
+$-20.00
+SAutomóvel:Estacionamento
+EFlanelinha
+$-2.00
+SAlimentação:Restaurantes
+EBob´s
+$-8.90
+^
+D29/10'04
+M2,9 + 9,8 + 6,8
+T-57.10
+PViagens
+LAutomóvel:Pedágio
+SAutomóvel:Pedágio
+E2,9 + 9,8 + 6,4
+$-19.10
+SLazer:Viagens
+ELembrancinha 4,00, Pão 3,00  Flanelinha 1,00
+$-8.00
+SAlimentação:Restaurantes
+EPizzaria
+$-30.00
+^
+D3/11'04
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/11'04
+MFonte 300W p/PC
+T-15.00
+PDespesas domésticas
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D13/11'04
+MLançar aqui a folha de gastos da Ni
+T-3.40
+PPasseio
+LDespesas com filho:Doces, salgados, etc
+SDespesas com filho:Doces, salgados, etc
+E2 pastéis e 2 caldo
+$-2.00
+SDespesas com filho:Brinquedos, educação, diversos
+Ebrinquedo
+$-1.40
+^
+D11/11'04
+MGastos c/Casa comida 16 p/pessoa
+T-30.00
+PViagens
+LLazer:Viagens
+^
+D1/12'04
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D25/12'04
+T-32.00
+PCEG - Gas de cozinha
+LContas a pagar:Gás
+^
+D1/12'04
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D1/12'04
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D13/12'04
+M35 bilhetes
+T-70.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D13/11'04
+M???
+T-45.10
+PDespesas diversas (Ajustes)
+LAlimentação:Feira, sacolão e padaria
+^
+D17/11'04
+T-5.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D18/11'04
+M2 Chips c/Piner
+T-2.40
+PEric
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D21/11'04
+T-15.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D20/11'04
+M2 Chips c/Piner + 1,00 Padaria
+T-3.40
+PEric
+LDespesas com filho:Brinquedos, educação, diversos
+SDespesas com filho:Brinquedos, educação, diversos
+E2 Chips c/Piner + 1,00 Padaria
+$-2.40
+SAlimentação:Feira, sacolão e padaria
+$-1.00
+^
+D26/11'04
+T-5.00
+PSesc EU
+LHigiene pessoal:Odontologia
+^
+D19/11'04
+T-5.00
+PSesc EU
+LHigiene pessoal:Odontologia
+^
+D24/11'04
+MPaletra UML, 1Kg Açúcar
+T-1.70
+PDespesas domésticas
+^
+D29/11'04
+MEncadernação, resfriado
+T-20.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D8/11'04
+Majudar a Ni, 2 chs 98 + 90 + 50dinheiro ajud pg/Faculdade
+T50.00
+PPedagogia
+L[ni EPS Ativo]
+^
+D1/12'04
+M37,990 Litros a 2,19L = 83,20
+T-83.20
+PCarrefour V.Carvalho
+LAutomóvel:Gasolina
+^
+D1/12'04
+MInseticida
+T-5.99
+PIntercontinental
+LAlimentação:Supermercado
+^
+D5/12'04
+T-22.00
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D1/12'04
+T-25.10
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D3/12'04
+MTietê, ir até o Kibe
+T-20.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D7/12'04
+MSaque com Cartão
+T150.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/12'04
+MBarroco
+T-10.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D7/12'04
+M75,44
+T-65.94
+PDespesas diversas (Ajustes)
+^
+D7/12'04
+M7 .. 10  (9 + 10 + 5,5 + 6)
+T-30.50
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D12/12'04
+T-20.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+SAlimentação:Feira, sacolão e padaria
+$-12.00
+SLazer:Cinema e locação de vídeo
+EI-Robo, Garfield, Nem q a vaca tussa
+$-8.00
+^
+D12/12'04
+MTripé
+T-10.00
+PDiversos
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D3/12'04
+MBijús, tia da Ni
+T-20.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D14/12'04
+T-10.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D17/12'04
+T70.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D17/12'04
+T-50.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D17/12'04
+MJarra da Cafeteira
+T-19.00
+PAMA´s Rio B&D e Arno
+LItens domésticos:Mobiliário
+^
+D17/12'04
+T-3.20
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D17/12'04
+M16 .. 17 (8,00 + 5,50)
+T-13.50
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D17/12'04
+MSaque com Cartão
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D18/12'04
+T-7.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+SAlimentação:Feira, sacolão e padaria
+EMelancia
+$-4.00
+SItens domésticos:Mobiliário
+ECópia de chave
+$-2.00
+SDespesas com filho:Doces, salgados, etc
+$-1.00
+^
+D12/11'04
+T-5.00
+PSesc EU
+LHigiene pessoal:Odontologia
+^
+D22/10'04
+Mtenho: 50,00 6aF 18:00  sf: 54,50??
+T-10.00
+PSesc EU
+LHigiene pessoal:Odontologia
+^
+D18/12'04
+MVasinho
+T-2.88
+PHabib Gabriel e Filhos Ltda
+LEsposa:Coisas p-casa
+^
+D19/12'04
+M75,44
+T2.58
+PDespesas diversas (Ajustes)
+^
+D19/12'04
+T-4.00
+PPosto Abastecimento
+LAutomóvel:Gasolina
+^
+D19/12'04
+T-16.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D19/12'04
+T-2.90
+Pponte - Rio/Niterói
+LAutomóvel:Pedágio
+^
+D7/1'05
+MSaque com Cartão
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/1'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D7/1'05
+T-105.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+SContas a pagar:Condomínio
+$-80.00
+SAutomóvel:Manutenção
+EControle remoto
+$-25.00
+^
+D21/12'04
+M2 suporte do escapamento
+T-12.00
+PCorsa
+LAutomóvel:Manutenção
+^
+D22/12'04
+T-15.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+SAlimentação:Feira, sacolão e padaria
+EPães, Motadela e queijo
+$-3.00
+SLazer:Viagens
+EDeixei c/Ni p/Passear c/Dilma,mãe
+$-12.00
+^
+D22/12'04
+MSaque com Cartão
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D23/12'04
+T-30.00
+PPasseio
+LLazer:Diversão
+SLazer:Diversão
+EIlha fiscal
+$-20.00
+SAutomóvel:Estacionamento
+$-10.00
+^
+D25/12'04
+T-10.00
+PPosto Redentor
+LAutomóvel:Gasolina
+^
+D24/12'04
+MShop Botafogo
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D31/12'04
+T-18.50
+PPark NShop
+LDespesas com filho:Brinquedos, educação, diversos
+SDespesas com filho:Brinquedos, educação, diversos
+E2 passaportes
+$-16.00
+SAlimentação:Balas, doces, biscoitos e salgs
+$-1.50
+SAutomóvel:Estacionamento
+$-1.00
+^
+D2/1'05
+T-10.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D4/1'05
+M3 .. 4 (8,00 + 6,50)
+T-14.50
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D7/1'05
+M10 CDs
+T-10.00
+PCamelôs & Cia
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D7/1'05
+MResistência Ducha Corona
+T-4.70
+PPalácio das ferramentas
+LItens domésticos:Mobiliário
+^
+D10/1'05
+MBolo
+T-5.50
+PBolos, Salgados
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D9/1'05
+Mpg ônibus
+T-10.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D11/1'05
+Mdos 260,00 da Pedagogia, 10,00 emprestei p/ônibus
+T50.00
+PPedagogia
+L[ni EPS Ativo]
+^
+D11/1'05
+T-10.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D11/1'05
+M40 bilhetes
+T-80.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D15/1'05
+Mconectores p/Fios
+T-5.50
+PC&C Casa e Contrução Ltda
+LItens domésticos:Mobiliário
+^
+D15/1'05
+MNShop 
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D9/2'05
+MSaque com Cartão
+T700.00
+Ppor no bolso
+L[BB Corrente]
+^
+D9/2'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D9/2'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D1/2'05
+T-25.00
+P5186-Telemar Linha 2230-5186
+LContas a pagar:Telefone
+^
+D9/2'05
+M40 bilhetes
+T-40.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D20/1'05
+T-20.00
+PAuto Posto Netuno Ltda
+LAutomóvel:Gasolina
+^
+D19/1'05
+Mpg ônibus, só 10,00 + 40 do uniforme
+T-10.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D20/1'05
+MCopa
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D22/1'05
+T-2.90
+Pponte - Rio/Niterói
+LAutomóvel:Pedágio
+^
+D22/1'05
+T-10.00
+PPasseio
+LAlimentação:Restaurantes
+^
+D23/1'05
+T-17.50
+P########ajuste da conta#########
+^
+D21/1'05
+MTaberna das massas
+T-15.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D27/1'05
+MSaque com Cartão
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D27/1'05
+MMcDonald´s
+T-9.25
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D28/1'05
+MÉric e Lucas da tia Josi
+T-13.50
+PMcDonalds - IPA Com de Alim Ltda
+LDespesas com filho:Doces, salgados, etc
+SDespesas com filho:Doces, salgados, etc
+EMegatrom
+$-10.00
+SAlimentação:Restaurantes
+ESundae
+$-3.50
+^
+D30/1'05
+T-11.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D29/1'05
+MPres p/Tábata
+T-8.90
+PHabib Gabriel e Filhos Ltda
+LEducação:Jardim Escola
+^
+D29/1'05
+Mlava-rápido
+T-2.00
+PCorsa
+LAutomóvel:Manutenção
+^
+D1/2'05
+MMcDonald´s
+T-3.90
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D4/2'05
+MSaque com Cartão
+T30.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/2'05
+T-25.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D10/2'05
+MTeresópolis
+T-20.00
+PPasseio
+LLazer:Viagens
+^
+D11/2'05
+Movo-maltine
+T-3.90
+PGuloseimas
+LDespesas de trabalho:Não-reembolsadas
+^
+D11/2'05
+T-11.35
+PDroga Pacheco Jamyr Vasconcellos
+LSaúde:Anticoncepcional
+^
+D19/1'05
+Mpg ônibus, só 10,00 + 40 do uniforme
+T-40.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D2/3'05
+MSaque com Cartão
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D2/3'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D3/3'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D6/3'05
+T-10.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D2/3'05
+M40 bilhetes
+T-90.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D12/2'05
+MTeresópolis, almoço
+T-10.50
+PPasseio
+LAlimentação:Restaurantes
+^
+D16/2'05
+MSaque com Cartão
+T150.00
+Ppor no bolso
+L[BB Corrente]
+^
+D16/2'05
+T-200.00
+PGarvey Park Hotel
+LDespesas de trabalho:Viagens
+^
+D19/2'05
+M5,70 mercado
+T-20.00
+PBimbo do Brasil Ltda
+LAlimentação:Padaria
+^
+D18/2'05
+T-42.20
+PViagens à Trabalho
+LDespesas de trabalho:Viagens
+^
+D21/2'05
+MSaque com Cartão
+T60.00
+Ppor no bolso
+L[BB Corrente]
+^
+D24/2'05
+M3 chás, 1 bisc
+T-6.28
+PLFD 2003 Com Alim Ltda
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D25/2'05
+MCOMPRA-DBT
+T-10.30
+PRest Parione
+LDespesas de trabalho:Refeição
+^
+D2/3'05
+MSh, Chá, Plax
+T-11.45
+PDroga Pacheco Jamyr Vasconcellos
+LHigiene pessoal:Manutenção
+^
+D23/2'05
+T-55.50
+P########ajuste da conta#########
+^
+D26/2'05
+T-100.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D2/3'05
+T-20.97
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D5/3'05
+T-3.20
+PDespesas diversas (Ajustes)
+LAlimentação:Balas, doces, biscoitos e salgs
+SAlimentação:Balas, doces, biscoitos e salgs
+E7 pães qj + mate
+$-2.00
+SSaúde:Anticoncepcional
+ECamisinha
+$-1.20
+^
+D4/3'05
+MLgo Machado
+T-19.90
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+SDespesas de trabalho:Refeição
+ELgo Machado
+$-16.00
+SAlimentação:Balas, doces, biscoitos e salgs
+$-3.90
+^
+D6/3'05
+MCampo S.Cristóvão
+T-22.00
+PPasseio
+LAlimentação:Restaurantes
+SAlimentação:Restaurantes
+Ecomida: Campo S.Cristóvão
+$-16.00
+SDespesas de trabalho:Não-reembolsadas
+Eonibus: Campo S.Cristóvão
+$-6.00
+^
+D9/3'05
+Maj pg o gás
+T-10.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D11/3'05
+MSAQ CARTAO
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D11/3'05
+MMala e cuia
+T-22.60
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D12/3'05
+T-20.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D7/4'05
+MSAQ CARTAO
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/4'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D7/4'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D13/4'05
+M40 bilhetes
+T-60.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D16/3'05
+Mlevar Éric até Tomas Coelho
+T-2.00
+PJEPS - Levar Éric
+LEducação:Jardim Escola
+^
+D17/3'05
+T-46.00
+P########ajuste da conta#########
+^
+D21/3'05
+MSAQ CARTAO
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D23/3'05
+MRabico Flores, Margarida
+T-26.00
+PEscolares
+LEducação:WEB
+SEducação:WEB
+ECalculadora
+$-10.00
+SDespesas com filho:Brinquedos, educação, diversos
+EBexiga c/ Hélice
+$-3.00
+SAlimentação:Balas, doces, biscoitos e salgs
+$-1.00
+SLazer:Fitas e CDs
+E4 MiniVCDs da Coca-cola
+$-12.00
+^
+D21/3'05
+T-150.00
+PClinica Odontológica
+LSaúde:Dentista
+^
+D30/3'05
+MAndréia
+T-3.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D2/4'05
+MSaque com Cartão
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D2/4'05
+Mkombi 2,00 táxi do Guana até casa
+T-12.00
+PTaxi
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D2/4'05
+MPres Iuri
+T-10.00
+Ppresentes Eric
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D1/4'05
+T-18.30
+P########ajuste da conta#########
+^
+D3/4'05
+T-10.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D7/4'05
+T-17.00
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D8/4'05
+T-80.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D19/4'05
+MCamis 'Os Incríveis'
+T-5.00
+PEric
+LDespesas com filho:Calçados, Vestuário etc
+^
+D12/4'05
+MSAQ CARTAO
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D27/4'05
+Mdia 27=1,4+1,8  26=1,8 25=1,0
+T-6.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D28/4'05
+Msorvete
+T-1.50
+PMcDonalds - Com de Alim Ltda
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D13/2'05
+T-11.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D6/5'05
+MSAQ CARTAO
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/5'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D6/5'05
+M36 bilhetes
+T-81.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D8/5'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D5/5'05
+T-58.50
+P########ajuste da conta#########
+^
+D7/5'05
+MCoréia, no PAM p/Besitasil
+T-6.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D6/5'05
+T-8.95
+PRestaurante WestFalia
+LDespesas de trabalho:Refeição
+^
+D8/5'05
+Mida-volta NShop
+T-6.00
+PPasseio
+LDespesas de trabalho:Não-reembolsadas
+^
+D11/5'05
+T-5.50
+PPilão Rest Pilão de Pedra
+LDespesas de trabalho:Refeição
+^
+D16/5'05
+MSaque com Cartão
+T30.00
+Ppor no bolso
+L[BB Corrente]
+^
+D16/5'05
+T-4.15
+PPilão Rest Pilão de Pedra
+LDespesas de trabalho:Refeição
+^
+D17/5'05
+MSAQ CARTAO
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D19/5'05
+MNi e Éric
+T-175.00
+PPlano de Saúde
+LSaúde:Plano de saúde
+^
+D18/5'05
+T-4.95
+PPilão Rest Pilão de Pedra
+LDespesas de trabalho:Refeição
+^
+D17/5'05
+T-4.95
+PPilão Rest Pilão de Pedra
+LDespesas de trabalho:Refeição
+^
+D12/5'05
+T-5.00
+PPilão Rest Pilão de Pedra
+LDespesas de trabalho:Refeição
+^
+D13/5'05
+T-5.00
+PPilão Rest Pilão de Pedra
+LDespesas de trabalho:Refeição
+^
+D2/5'05
+T60.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D19/5'05
+MAR, Multa de trâsito do Jr
+T-2.95
+Pect
+LAutomóvel:Impostos, taxas anuais etc
+^
+D19/5'05
+T-8.80
+PRestaurante WestFalia
+LDespesas de trabalho:Refeição
+^
+D20/5'05
+T-6.50
+PRestaurante WestFalia
+LDespesas de trabalho:Refeição
+^
+D6/6'05
+MSAQ CARTAO
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D25/6'05
+T-50.70
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D7/6'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D6/6'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D31/5'05
+T-134.20
+P########ajuste da conta#########
+^
+D30/5'05
+T-4.45
+PPilão Rest Pilão de Pedra
+LDespesas de trabalho:Refeição
+^
+D27/5'05
+MSAQ CARTAO
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D11/6'05
+M40 bilhetes
+T-80.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D31/5'05
+MFotos p/Vovós
+T-1.60
+Pect
+LAutomóvel:Impostos, taxas anuais etc
+^
+D6/6'05
+T-5.60
+PRestaurante WestFalia
+LDespesas de trabalho:Refeição
+^
+D5/5'05
+MSAQ CARTAO
+T10.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/6'05
+T-7.50
+PPilão Rest Pilão de Pedra
+LDespesas de trabalho:Refeição
+^
+D10/6'05
+T-4.20
+PPilão Rest Pilão de Pedra
+LDespesas de trabalho:Refeição
+^
+D17/6'05
+T45.00
+PArte das massas
+LDespesas de trabalho:Refeição
+^
+D20/6'05
+MNi e Éric
+T-25.00
+PPlano de Saúde
+LSaúde:Plano de saúde
+^
+D20/6'05
+T-5.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D22/6'05
+M3 copos do Guilherme - guigui
+T-7.00
+PDespesas domésticas
+LItens domésticos:Diversos
+^
+D1/7'05
+MSaque com Cartão
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D1/7'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D2/7'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D31/7'05
+Meram: 190,00
+T-177.65
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D1/7'05
+M40 bilhetes
+T-90.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D8/8'05
+MSaque com Cartão
+T400.00
+Ppor no bolso
+L[BB Corrente]
+^
+D5/8'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D8/8'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D14/7'05
+MNi e Éric
+T-175.00
+PPlano de Saúde
+LSaúde:Plano de saúde
+^
+D2/7'05
+T-20.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D13/7'05
+M????? era p/quê??? SAQ CARTAO
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D8/8'05
+M40 bilhetes * 2,25
+T-90.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D15/8'05
+T-130.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D22/6'05
+MSaque com Cartão
+T160.00
+Ppor no bolso
+L[BB Corrente]
+^
+D22/6'05
+T-150.00
+PClinica Odontológica
+LSaúde:Dentista
+^
+D6/7'05
+MSAQ CARTAO
+T30.00
+Ppor no bolso
+L[BB Corrente]
+^
+D11/7'05
+MSAQ CARTAO
+T1,000.00
+Ppor no bolso
+L[BB Corrente]
+^
+D11/7'05
+MP4
+T-950.00
+Prippers equipamenos e informát
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D10/7'05
+T-40.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D11/7'05
+MTáxi 10,00  Luiz Veiga 25,00
+T-35.00
+PTaxi
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D18/7'05
+MSaque com Cartão
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D14/7'05
+T-5.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D18/7'05
+T-200.00
+PClinica Odontológica
+LSaúde:Dentista
+^
+D15/7'05
+Mcorte curto
+T-10.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D16/7'05
+MControle da Mitsubishi 29"
+T-25.00
+PImpério dos controles
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D16/7'05
+Mc/Filho, no Poli
+T-9.95
+Pbob´s
+LAlimentação:Restaurantes
+^
+D18/7'05
+MSaque com Cartão
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D22/7'05
+T28.00
+PRest Parione
+LDespesas de trabalho:Refeição
+^
+D29/7'05
+MSaque com Cartão
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D29/7'05
+MMS --> Aeroporto
+T-20.00
+PTaxi
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D3/8'05
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D10/8'05
+MNi e Éric
+T-175.00
+PPlano de Saúde
+LSaúde:Plano de saúde
+^
+D9/8'05
+MSAQ CARTAO
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D9/8'05
+M1h no Criança Mania
+T-10.00
+PEric
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D25/8'05
+MSAQ CARTAO
+T120.00
+Ppor no bolso
+L[BB Corrente]
+^
+D26/8'05
+MSaque com Cartão
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/9'05
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/9'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D5/9'05
+T-155.00
+P########ajuste da conta#########
+^
+D12/8'05
+MSAQ CARTAO
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/9'05
+MSaque com Cartão
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/9'05
+MV.Isabel até NAmer --> NAmer até VIsabel
+T-25.00
+PTaxi
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D9/9'05
+MSAQ CARTAO
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D8/9'05
+MSAQ CARTAO
+T220.00
+Ppor no bolso
+L[BB Corrente]
+^
+D8/9'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D8/9'05
+M40 bilhetes * 2,25
+T-90.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D9/9'05
+MInscr cursinho
+T-86.00
+Pni
+LEsposa:Mensalidade
+^
+D7/10'05
+MSAQ CARTAO
+T800.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/10'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D7/10'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D13/10'05
+M40 bilhetes * 2,25
+T-45.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D10/10'05
+MNi e Éric
+T-180.00
+PPlano de Saúde
+LSaúde:Plano de saúde
+^
+D30/9'05
+T-69.00
+P########ajuste da conta#########
+^
+D16/9'05
+T30.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D1/10'05
+T-6.40
+PLAMSA - Linha Amarela S/A
+LAutomóvel:Pedágio
+^
+D2/10'05
+T60.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D3/10'05
+MPasteur
+T-10.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D3/10'05
+M10 bilhetes * 2,25
+T-22.50
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D1/10'05
+T-23.60
+P########ajuste da conta#########
+^
+D4/10'05
+MNAmer
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D7/10'05
+MDuda baixa de averbação
+T-80.00
+PUNO
+LAutomóvel:Impostos, taxas anuais etc
+^
+D10/10'05
+T-9.30
+PBimbo do Brasil Ltda
+LAlimentação:Padaria
+^
+D8/10'05
+T-70.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D11/10'05
+M10 DVDs-R (20,00)   2 DVD-RW  (7,00) = 27,00
+T-27.00
+PCamelôs & Cia
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D20/10'05
+MSAQ CARTAO
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D20/10'05
+T-200.00
+PClinica Odontológica
+LSaúde:Dentista
+^
+D22/10'05
+MÓleo de Peroba
+T-4.19
+PIntercontinental
+LAlimentação:Supermercado
+^
+D23/10'05
+M10,50 feira 4,00 padaria
+T-14.50
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D25/10'05
+M10 bilhetes * 2,25
+T-22.50
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D29/10'05
+M2miojo, achoc nescau 2.79
+T-3.57
+PIntercontinental
+LAlimentação:Supermercado
+^
+D1/11'05
+MSAQ CARTAO
+T250.00
+Ppor no bolso
+L[BB Corrente]
+^
+D30/10'05
+T-20.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D3/11'05
+M4 aplicações de Flúor
+T-120.00
+PClinica Odontológica
+LSaúde:Dentista
+^
+D3/11'05
+MCurso de Caxias, etc
+T-50.00
+Pni
+LEsposa:Mensalidade
+^
+D3/11'05
+M11 DVDs-R
+T-20.90
+PCamelôs & Cia
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D3/11'05
+M20 bilhetes * 2,25
+T-45.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D30/10'05
+T-41.94
+Pajuste da conta *-*-*-*-*-*-*-*
+^
+D7/11'05
+MSAQ CARTAO
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D21/11'05
+MNi e Éric
+T-95.00
+PPlano de Saúde
+LSaúde:Plano de saúde
+SSaúde:Plano de saúde
+ENi e Éric
+$-185.00
+SEducação:Matrícula, inscrição e taxas div
+ENi 50 + 40 p/Caxia
+$90.00
+^
+D21/11'05
+M40 bilhetes * 2,25
+T-22.50
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D7/11'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D7/11'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D10/11'05
+Maparar as pontas
+T-10.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D11/11'05
+T-24.40
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D15/11'05
+T-24.40
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D16/11'05
+MSAQ CARTAO
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D17/11'05
+MDuda transferência
+T-72.00
+PUNO
+LAutomóvel:Impostos, taxas anuais etc
+^
+D17/11'05
+MCartucho epson C45 preto
+T-20.00
+PGold Home
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D18/11'05
+Mjogo Palhetas
+T-20.00
+PUNO
+LAutomóvel:Manutenção
+^
+D19/11'05
+MSr Incrível
+T-15.00
+PCamelôs & Cia
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D20/11'05
+T-15.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D19/11'05
+MSaque com Cartão
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D21/11'05
+M2 Lâp e 1SoqLantFarol UNO
+T-5.55
+PVianauto Autopeças
+LAutomóvel:Manutenção
+^
+D25/11'05
+M2 bilhetes * 2,25
+T-4.50
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D2/12'05
+MNi e Éric
+T-180.00
+PPlano de Saúde
+LSaúde:Plano de saúde
+^
+D1/12'05
+MSAQ CARTAO
+T900.00
+Ppor no bolso
+L[BB Corrente]
+^
+D25/12'05
+T-0.01
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D2/12'05
+T-80.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D1/12'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D28/11'05
+MSAQ CARTAO
+T70.00
+Ppor no bolso
+L[BB Corrente]
+^
+D30/11'05
+T-143.25
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D1/12'05
+M40 bilhetes * 2,25
+T-90.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D1/12'05
+MPl Captura Encore ENLTV-FM
+T-120.00
+P3R Informática
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D28/11'05
+M10 bilhetes * 2,25
+T-22.50
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D2/12'05
+T40.23
+PArte das massas
+LDespesas de trabalho:Refeição
+^
+D2/12'05
+MSAQ CARTAO
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D2/12'05
+T-700.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D11/11'05
+MSAQ CARTAO
+T90.00
+Ppor no bolso
+L[BB Corrente]
+^
+D11/11'05
+MSaque com Cartão
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/12'05
+MCabo "Y" p/ligar 2a HD no P4HT
+T-5.00
+PTCS Fereira Informática
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D5/12'05
+MNAmer Estácio, c/Ni falar c/2 profs
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D19/11'05
+T-298.30
+P########ajuste da conta#########
+^
+D14/12'05
+MPlaca de Som
+T59.00
+PDespesas domésticas
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D15/12'05
+MAntena
+T-10.00
+PDespesas domésticas
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D14/12'05
+MSAQ CARTAO
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D14/12'05
+T-62.43
+Pajuste da conta *-*-*-*-*-*-*-*
+^
+D17/12'05
+Mcongonhas
+T-5.00
+PMinas Park Ap Estacion Ltda
+LAutomóvel:Estacionamento
+^
+D16/12'05
+MCOMPRA-DBT
+T-54.00
+PParmê
+LAlimentação:Restaurantes
+^
+D19/12'05
+Mcinto
+T-9.90
+PDespesas domésticas
+LItens domésticos:Calçados
+^
+D23/12'05
+Msuco 3,49  refri 2,09
+T-5.58
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D20/12'05
+Mfone de ouvido
+T-9.90
+PDespesas domésticas
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D20/12'05
+Msundae
+T-2.95
+PMcDonalds - Com de Alim Ltda
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D20/12'05
+T-4.23
+PDrogaria
+LSaúde:Remédios
+^
+D22/12'05
+Mdipirona
+T-2.54
+PDrogaria
+LSaúde:Remédios
+^
+D21/12'05
+MSaque com Cartão
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D23/12'05
+MTáxi, Õnibus, refeição
+T-20.00
+PSGIFDespesas
+LDespesas de trabalho:Viagens
+^
+D26/12'05
+T8.50
+PPilão Rest Pilão de Pedra
+LDespesas de trabalho:Refeição
+^
+D7/11'05
+T30.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D7/11'05
+T-30.00
+Pajuste da conta *-*-*-*-*-*-*-*
+^
+D17/12'05
+T-27.90
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D25/12'05
+T-24.40
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D28/12'05
+Msf: 2059,03
+T400.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/1'06
+M41 bilhetes * 2,20
+T-90.20
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D28/12'05
+T-300.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D9/1'06
+T-82.80
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D15/1'06
+Msf: 10,00
+T-10.55
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D28/12'05
+T-14.10
+PAlmoço a trabalho
+LDespesas de trabalho:Refeição
+^
+D28/12'05
+Msf: 95,00 ??
+T-182.99
+Pajuste da conta *-*-*-*-*-*-*-*
+^
+D31/12'05
+T-20.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D31/12'05
+Mida-volta NShop
+T-16.00
+PPasseio
+LDespesas de trabalho:Não-reembolsadas
+^
+D20/12'05
+M??????? Saque com Cartão
+T60.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/1'06
+T-20.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D4/1'06
+M10 bilhetes * 2,20
+T-22.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D4/1'06
+MSAQ CARTAO
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D12/1'06
+MSaque com Cartão
+T1,000.00
+Ppor no bolso
+L[BB Corrente]
+^
+D11/1'06
+MSAQ CARTAO
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D12/1'06
+MPlaca Sis530, Gabinete + Fonte
+T-170.00
+PComputech-Mar
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D12/1'06
+M???
+T-22.26
+PUBB
+^
+D12/1'06
+T-800.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D12/1'06
+MCartucho Epson  C45
+T-19.00
+PSimanorth Inf Ltda
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D12/1'06
+T-4.25
+PItalBar café Rest
+LDespesas de trabalho:Refeição
+^
+D11/1'06
+MDVD Evolução
+T-27.00
+PDespesas domésticas
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D13/1'06
+T-19.49
+P########ajuste da conta#########
+^
+D6/2'06
+MSaque com Cartão
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/2'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D15/2'06
+T-57.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D7/2'06
+M40 bilhetes * 2,2
+T-88.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D14/1'06
+MMcLanche Feliz
+T-9.45
+PMcDonalds - Com de Alim Ltda
+LDespesas com filho:Doces, salgados, etc
+^
+D14/1'06
+Mflanelinha em Caxias
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D17/1'06
+MSaque com Cartão
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D17/1'06
+M4 cadernos univ capa dura
+T-12.00
+PEscolares
+LDespesas com filho:Educação, livros, cadernos
+^
+D18/1'06
+Msf: 42,63
+T450.00
+Ppor no bolso
+L[BB Corrente]
+^
+D18/1'06
+T-452.23
+PIPVA
+LAutomóvel:Impostos, taxas anuais etc
+^
+D20/1'06
+Mcompra efetuada dia 20/01/2006
+T-2.10
+PGuanabara
+LAlimentação:Supermercado
+^
+D22/1'06
+MÉric c/Raissa no NAmer
+T-10.00
+Pbob´s
+LAlimentação:Restaurantes
+^
+D24/1'06
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D24/1'06
+MModem DSL-502G
+T-179.00
+PBoanerges Distr Informática
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D25/1'06
+MFiltro de LInha c/3 bocas
+T-12.80
+PRBS mat de construção Ltda
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D25/1'06
+M0,24 * 14m fio fone = 3,50 + pregos p/fixar 1,20
+T-4.70
+PPalácio das ferramentas
+LItens domésticos:Mobiliário
+^
+D25/1'06
+M5 DVDs
+T-9.00
+PCamelôs & Cia
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D26/1'06
+M3 bejamim P2
+T-6.00
+PCamelôs & Cia
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D27/1'06
+MItália
+T-4.10
+Psorvete
+^
+D28/1'06
+T-18.07
+PDespesas domésticas
+LItens domésticos:Foto, cinema, armazém e instala
+SItens domésticos:Foto, cinema, armazém e instala
+EOturador de vaso
+$-3.00
+SItens domésticos:Foto, cinema, armazém e instala
+ECimentcola
+$-4.00
+SAlimentação:Feira, sacolão e padaria
+$-11.07
+^
+D3/2'06
+T50.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D3/2'06
+T-16.00
+PCartório
+LEsposa:Gastos c- Trabalho
+^
+D18/1'06
+MSAQ CARTAO
+T2,500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D18/1'06
+T-2,400.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D4/2'06
+MGNV gás p/seu Tião até Caxias 10,00  1,00 pão
+T-11.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D6/2'06
+Mc/Éric, enquanto Ni colava Grau
+T-9.00
+P10 pastéis
+LAlimentação:Restaurantes
+^
+D10/2'06
+MSAQ CARTAO
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D10/2'06
+MPS1 por 250,00  2232-2243 ver joystick
+T-200.00
+PPS1
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D12/2'06
+T-20.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D14/2'06
+MSAQ CARTAO
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D14/2'06
+Mp/Luiz
+T-20.00
+PPS1
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D7/3'06
+MSAQ CARTAO
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/3'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D7/3'06
+M41 bilhetes * 2,2
+T-90.20
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D31/3'06
+T-122.55
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D4/10'05
+Mflanelinha em Caxias
+T-3.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D4/10'05
+M4 lâmpadas
+T-2.00
+P1001 - Autopeças
+LAutomóvel:Manutenção
+^
+D4/10'05
+T-19.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D23/2'06
+Mmens do Éric
+T-11.00
+PSesc HidroNatação
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D22/8'04
+T20.00
+PCheque compensado - Cheque compe
+L[Bradesco Corrente ni]
+^
+D22/8'04
+T-20.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D23/2'06
+T30.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D2/3'06
+MSAQ CARTAO
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/3'06
+T-30.00
+PBolso da NI
+L[ni EPS Ativo]
+^
+D1/3'06
+T-50.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D27/9'05
+M?????
+T35.00
+PCheque compensado - Cheque compe
+L[Bradesco Corrente ni]
+^
+D3/3'06
+T-36.50
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D11/3'06
+MNAmer
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D13/3'06
+MMcLanche Feliz  "Buzz"
+T-9.45
+PMcDonalds - Com de Alim Ltda
+LDespesas com filho:Doces, salgados, etc
+^
+D13/3'06
+MSAQ CARTAO
+T70.00
+Ppor no bolso
+L[BB Corrente]
+^
+D12/3'06
+T-10.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D17/3'06
+T-2.30
+PDrogasmil
+LSaúde:Remédios
+SSaúde:Remédios
+ERecipiente Xix
+$-1.00
+SAlimentação:Balas, doces, biscoitos e salgs
+Ebalas
+$-1.30
+^
+D17/3'06
+M30,2 Litros a 2,349L = 70,10
+T-69.92
+PRepsol Posto Diego - Cascadura
+LAutomóvel:Gasolina
+^
+D21/3'06
+MSaque com Cartão
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D23/3'06
+MSaque com Cartão
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D25/3'06
+MSaque com Cartão
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D26/3'06
+T-7.56
+PExtra Suburbana
+LAlimentação:Supermercado
+^
+D23/3'06
+MRodo até Aero JK, DF
+T-20.00
+PTaxi
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D27/3'06
+T-4.00
+PPark Manager Plus
+LAutomóvel:Estacionamento
+^
+D28/3'06
+MChupeta RN
+T-3.67
+PDrogasmil
+LSaúde:Remédios
+^
+D5/4'06
+MSaque com Cartão
+T850.00
+Ppor no bolso
+L[BB Corrente]
+^
+D5/4'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D30/4'06
+T-28.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D4/4'06
+Mera 185,40
+T-175.40
+P########ajuste da conta#########
+^
+D4/4'06
+Mpassagens da Cris
+T-5.00
+PSesc HidroNatação
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D3/4'06
+M2,00 no Méir (Pediatra da Letícia) + 2,00 na Pilar
+T-4.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D3/4'06
+Mabs 
+T-1.45
+PDroga Pacheco Jamyr Vasconcellos
+LHigiene pessoal:Manutenção
+^
+D6/4'06
+M4,50 p/ônibus
+T-304.50
+PCristiane
+LEsposa:Empregada
+^
+D5/4'06
+Mporta p/60 CDs
+T-23.00
+PCamelôs & Cia  Quadra B  box 193
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D7/4'06
+MSaque com Cartão
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/4'06
+Mdepósito p/pagar ??
+T-200.00
+Pni
+L[Bradesco Poup ni]
+^
+D15/4'06
+Mcons freio-de-mão
+T-50.00
+PItao Car auto center
+LAutomóvel:Manutenção
+^
+D18/4'06
+MSAQ CARTAO
+T70.00
+Ppor no bolso
+L[BB Corrente]
+^
+D24/4'06
+Mp/ajuda??
+T-80.00
+PMãe
+LSaúde:Auxilio convênio Mãe
+^
+D9/5'06
+T450.00
+Ppor no bolso
+L[BB Corrente]
+^
+D10/5'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D11/5'06
+T-82.80
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D28/4'06
+Mdia das mães na JEPS
+T-30.00
+PJEPS
+LEsposa:Datas comemorativas
+^
+D28/4'06
+Mcabo força SATA
+T-5.00
+PLYNX
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D24/4'06
+MSaque com Cartão
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D24/4'06
+M42 bilhetes * 2,25
+T-99.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D10/4'06
+MSAQ CARTAO
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D27/4'06
+Msf: 1015,34
+T60.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/5'06
+MPomada Letícia
+T-8.95
+PDroga Pacheco Jamyr Vasconcellos
+LSaúde:Remédios
+^
+D4/5'06
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D4/5'06
+Mrev Seninha + rev Flash
+T-8.00
+PEscolares
+LDespesas com filho:Educação, livros, cadernos
+^
+D4/5'06
+Mc/CDROM PH Linux
+T-11.90
+PRevista
+LLazer:Livros, jornais e revistas
+^
+D8/5'06
+T-7.90
+Pcastelo Grill
+LDespesas de trabalho:Refeição
+^
+D8/5'06
+T-153.25
+P########ajuste da conta#########
+^
+D10/5'06
+M1Kg Pinhão
+T-3.00
+PMerc Expr A Jato Ltda
+LAlimentação:Supermercado
+^
+D12/5'06
+M4pilhas Alca
+T-8.49
+PIntercontinental
+LAlimentação:Supermercado
+^
+D15/5'06
+MChupeta RN
+T-3.68
+PDrogasmil
+LSaúde:Remédios
+^
+D19/5'06
+T200.00
+PK6 II 500
+LOutros rendimentos:Venda Computador
+^
+D21/5'06
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D21/5'06
+Msinal na compra
+T-100.00
+PPalio Week 2001
+LAutomóvel:Palio Weekend
+^
+D18/5'06
+MSaque com Cartão
+T120.00
+Ppor no bolso
+L[BB Corrente]
+^
+D23/5'06
+MMulta Caxias sinal vermelho
+T-3.05
+Pect
+LAutomóvel:Impostos, taxas anuais etc
+^
+D25/5'06
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D6/6'06
+MSaque com Cartão
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/6'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D8/6'06
+T-40.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D7/6'06
+M41 bilhetes * 2,2
+T-90.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D31/5'06
+T-242.78
+P########ajuste da conta#########
+^
+D23/5'06
+Msinal na compra
+T100.00
+PPalio Week 2001
+LAutomóvel:Palio Weekend
+^
+D28/5'06
+T-11.70
+PMister Sheik
+LAlimentação:Restaurantes
+^
+D28/5'06
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D30/5'06
+Msf: 1506,66
+T60.00
+Ppor no bolso
+L[BB Corrente]
+^
+D30/5'06
+M4 capas de DVD
+T-4.00
+PCamelôs & Cia
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D24/5'06
+T-100.00
+PTransporte
+LEducação:Transporte
+^
+D7/6'06
+MÁlbum seleção 3,90  10pc figurinhas 0,60
+T-10.00
+PEric
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D13/6'06
+MSAQ CARTAO
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D13/6'06
+Mbanho de sol verde amarelo
+T-10.00
+PLeticia
+LDespesas com filho:Calçados, Vestuário etc
+^
+D13/6'06
+M10pc figurinhas 
+T-6.00
+PEric
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D14/6'06
+Mñ pasava cartão
+T-5.00
+PCasarão 13 restaurante
+LDespesas de trabalho:Refeição
+^
+D24/6'06
+MPão de forma 1,39Dna Erli, café caboclo 2,99
+T-4.38
+PIntercontinental
+LAlimentação:Supermercado
+^
+D21/6'06
+Mcópia CDROM q Mário comprou p/filho 
+T-7.50
+PRevista
+LLazer:Livros, jornais e revistas
+^
+D19/6'06
+Mcapuccino + trident 1,5  SDU
+T-5.00
+Pcafé
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D21/6'06
+Mpão de mel, balas
+T-3.48
+PAmericanas Lojas SA
+LDespesas de trabalho:Viagens
+^
+D30/6'06
+Msf: 5550,92
+T350.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/7'06
+M41 bilhetes * 2,2
+T-90.20
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D19/6'06
+MSAQ CARTAO
+T150.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/7'06
+T-100.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D30/6'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D2/7'06
+Msucrilhos
+T-4.38
+PGuanabara
+LAlimentação:Supermercado
+^
+D7/7'06
+MSAQ CARTAO Saque com Cartão
+T250.00
+Ppor no bolso
+L[BB Corrente]
+^
+D14/7'06
+M5 iorgutes
+T-4.40
+PRoque Supermercado
+LAlimentação:Supermercado
+^
+D12/7'06
+M8,3368 Litros a 2,399
+T-20.00
+P6616534-Posto Kim
+LAutomóvel:Gasolina
+^
+D13/7'06
+MBike, mídias, plugs etc, Sta Ifigênia
+T-144.00
+PDiversos
+LItens domésticos:Foto, cinema, armazém e instala
+SItens domésticos:Foto, cinema, armazém e instala
+EDVDs virgens
+$-70.00
+SItens domésticos:Ferramentas
+EPlugs, comutador 3x1
+$-19.00
+SDespesas com filho:Brinquedos, educação, diversos
+ESuporte Bike
+$-55.00
+^
+D17/7'06
+Mzerar
+T-55.66
+P########ajuste da conta#########
+^
+D18/7'06
+MSAQ CARTAO Saque com Cartão
+T130.00
+Ppor no bolso
+L[BB Corrente]
+^
+D19/7'06
+Mrecarga tinta HP 1315 preto
+T-15.00
+PINK Brasil
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D28/7'06
+C*
+Mcompensar os 4mil do terreno
+T-500.00
+Pni
+L[HSBC Corrente]
+^
+D19/7'06
+Mcaneta
+T-5.00
+PCamelôs & Cia
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D21/7'06
+M3 CDs MP3
+T-20.00
+PCDs MP3
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D21/7'06
+T-12.00
+PRestaurante
+LAlimentação:Restaurantes
+^
+D22/7'06
+M2sc Tangerina + Padaria
+T-10.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D27/7'06
+Msf: 1099,56
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D20/7'06
+MSAQ CARTAO
+T2,500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D20/7'06
+T-2,019.00
+PDEL GÁS
+LAutomóvel:Palio Weekend
+^
+D20/7'06
+Mida Del Gás até Metro e volta
+T-20.00
+PTaxi
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D26/7'06
+MSaque com Cartão
+T3,669.02
+Ppor no bolso
+L[BB Corrente]
+^
+D26/7'06
+Mmateriais
+T-3,100.00
+PRocha e Silva
+LPatrimônios:Materiais
+^
+D26/7'06
+M002-7 mudança de características
+T-71.86
+Pduda
+LAutomóvel:Impostos, taxas anuais etc
+^
+D26/7'06
+Mref: 2001/2/3/4/5
+T-169.02
+PTerreno IPTU
+LImpostos:IPTU Q29 L30
+^
+D25/7'06
+M200
+T-79.00
+P########ajuste da conta#########
+^
+D26/7'06
+T-300.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D25/7'06
+T-200.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D1/8'06
+T-108.14
+P########ajuste da conta#########
+^
+D8/8'06
+MSaque com Cartão
+T400.00
+Ppor no bolso
+L[BB Corrente]
+^
+D5/8'06
+Minstalar relé p/kit gás
+T-20.00
+PProtCarro
+LAutomóvel:Seguro
+^
+D22/7'06
+T-250.00
+N5901
+PCartório Soares Pereira
+LItens domésticos:Patrimônio
+^
+D8/8'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D25/8'06
+T-0.01
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D15/8'06
+M40 bilhetes * 2,2
+T-88.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D8/8'06
+MMichelle
+T-20.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D11/8'06
+MSAQ CARTAO
+T1,200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D12/8'06
+T-1,000.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D6/9'06
+MSAQUE TAA
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/9'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D21/9'06
+M41 bilhetes * 2,2
+T-92.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D12/8'06
+Mperf eric, leticia. creme p/ni
+T-100.00
+PErli
+LDespesas com filho:Babá
+^
+D17/8'06
+Mcasa-trabalho  16,17,18
+T-6.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D20/8'06
+T-20.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D21/8'06
+Mcasa-trabalho  21..
+T-2.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D21/8'06
+MSAQ CARTAO
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D23/8'06
+MSaque com Cartão
+T120.00
+Ppor no bolso
+L[BB Corrente]
+^
+D23/8'06
+Mrecorrer multa
+T-22.00
+PNARCISO recur multas de Trânsito
+LAutomóvel:Impostos, taxas anuais etc
+^
+D23/8'06
+Maparar as pontas  ???
+T0.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D22/8'06
+Mp/Ni
+T-10.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D25/8'06
+MSAQUE TAA
+T700.00
+Ppor no bolso
+L[BB Corrente]
+^
+D26/8'06
+T-700.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D26/8'06
+MPão, mortadela, queijo e refrigerante
+T-9.02
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D26/8'06
+M3 cds, Cars, Sem Floresta e Incríveis
+T-10.00
+PCamelôs & Cia
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D28/8'06
+Mcasa-trabalho  28..
+T-4.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D31/8'06
+Maplicação bimestral anti-alérgico
+T-20.00
+PCENTRO MEDICO DE ALERGIA E DERMA
+LSaúde:Dentista
+^
+D31/8'06
+Mera 70,00
+T-40.00
+P########ajuste da conta#########
+^
+D4/9'06
+Mcasa-trabalho  4..
+T-4.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D20/9'06
+Maplicação bimestral anti-alérgico
+T-50.00
+PCENTRO MEDICO DE ALERGIA E DERMA
+LSaúde:Dentista
+^
+D22/9'06
+T750.00
+PTitulo Capitalização
+LEsposa:Previdência
+^
+D27/9'06
+T-100.00
+Pcobrir conta
+L[HSBC Corrente]
+^
+D23/9'06
+T-600.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D6/10'06
+MSAQUE TAA
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D2/10'06
+T550.00
+Ppor no bolso
+L[BB Corrente]
+^
+D2/10'06
+MSAQUE TAA
+T1,000.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/10'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D5/10'06
+MSAQUE TAA
+T600.00
+Ppor no bolso
+L[BB Corrente]
+^
+D5/10'06
+T-144.52
+P########ajuste da conta#########
+^
+D2/10'06
+T-1,500.00
+PConcreto CP-construções
+LItens domésticos:Patrimônio
+^
+D5/10'06
+Mcompensar os 1980 do concreto
+T-550.00
+Pni
+L[HSBC Corrente]
+^
+D6/10'06
+MSAQUE TAA
+T400.00
+Ppor no bolso
+L[BB Corrente]
+^
+D30/9'06
+T-50.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D7/10'06
+M12,47 a 1,119 ==> 11,15 M3
+T-13.00
+PPosto Abastecimento
+LAutomóvel:Gasolina
+^
+D8/10'06
+MNShop, a Ni se perdeu e não voltou p/me achar, que chato
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D1/1'20
+T-0.01
+PSaque
+LDespesas diversas:Zerar SALDO
+^
+D11/10'06
+T-150.00
+PSulMarido América -$$$$$$$$$$$$$
+^
+D11/10'06
+MInscrição Ni e Josiane, p/Rio
+T-100.00
+PInscrição
+LEsposa:Gastos c- Trabalho
+^
+D11/10'06
+T539.04
+PAções Telefone 6436-5248
+LOutros rendimentos:Opção de ações de funcionário
+^
+D11/10'06
+Mdesinflex 50mg  Urologista q passou
+T-9.15
+PDroga Pacheco Jamyr Vasconcellos
+LSaúde:Remédios
+^
+D7/11'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D15/11'06
+T-9.79
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D10/11'06
+M30 bilhetes * 2,30
+T-69.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D13/10'06
+T-40.00
+PLava-Jato, polimento etc
+LAutomóvel:Manutenção
+^
+D22/9'06
+T-3.00
+PAplicação anti-alérgico
+LSaúde:Alergias
+^
+D29/9'06
+T-3.45
+PAplicação anti-alérgico
+LSaúde:Alergias
+^
+D6/10'06
+T-3.45
+PAplicação anti-alérgico
+LSaúde:Alergias
+^
+D13/10'06
+T-3.45
+PAplicação anti-alérgico
+LSaúde:Alergias
+^
+D14/10'06
+Mmateriais
+T-42.00
+PRocha e Silva
+LPatrimônios:Materiais
+^
+D14/10'06
+MAlmoço c/Éric, em Pq Pta
+T-8.00
+PRestaurante
+LAlimentação:Restaurantes
+^
+D14/10'06
+MLetícia, antibiótico, Pneumonia, diag no PAM
+T-18.50
+PDrogaria MAX - Lider Inhaúma
+LSaúde:Remédios
+^
+D16/10'06
+Ma 1,119 ==> 9,14 M3
+T-10.25
+PPosto Abastecimento
+LAutomóvel:Gasolina
+^
+D19/10'06
+MJoelho 90 sold 32 TIGRE
+T-2.85
+PLeroy Merlin
+LEsposa:Outras despesas
+^
+D24/10'06
+Mmão-de-obra instalar Kit-embreagem
+T-150.00
+PLuiz marido da Marta
+LAutomóvel:Manutenção
+^
+D20/10'06
+T-700.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D17/10'06
+MRescisão
+T550.12
+Ppor no bolso
+L[ni EPS Ativo]
+^
+D23/10'06
+MPAG TITULO
+T30.00
+Ppor no bolso
+L[BB Corrente]
+^
+D23/10'06
+MSedex p/Tijuca da Insc N.Iguaçú
+T-9.50
+PInscrição
+LEsposa:Gastos c- Trabalho
+^
+D10/10'06
+MNi q deu
+T100.00
+Ppor no bolso
+L[ni EPS Ativo]
+^
+D27/10'06
+T-550.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D25/10'06
+T7.49
+PMoedas
+^
+D25/10'06
+Maparar as pontas
+T-9.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D24/3'06
+Maparar as pontas
+T-10.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D25/10'06
+MPqPta até Central
+T-4.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D29/10'06
+MNAmer, Parmê, Éric brinca no McDonald, Domingão
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D23/10'06
+MPqPta até Central 23, 24 e 26
+T-12.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D31/12'09
+T-0.01
+PCurso i2
+LEducação:Cursos
+^
+D6/11'06
+MPqPta até Central
+T-4.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D3/10'06
+M3 Iorg Itambé
+T-2.37
+PVianense Supermercados
+LAlimentação:Supermercado
+^
+D8/11'06
+T-2.60
+PAplicação anti-alérgico
+LSaúde:Alergias
+^
+D9/11'06
+MPqPta até Central
+T-4.20
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D6/11'06
+MSAQUE TAA
+T60.00
+Ppor no bolso
+L[BB Corrente]
+^
+D15/11'06
+M3 quentinhas
+T-15.00
+PTerreno
+LAlimentação:Restaurantes
+^
+D14/11'06
+MNAmer, aula de LSW
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D1/12'06
+T-360.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D7/12'06
+T0.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D7/12'06
+M41 bilhetes * 2,2
+T-90.20
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D20/11'06
+MIorgute
+T-2.69
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D17/11'06
+MNovalgina 500Mg 10c ->5,86 desc 1,31
+T-4.55
+PDroga Cristal
+LSaúde:Remédios
+^
+D21/11'06
+Mvan PqPta até Central
+T-4.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D21/11'06
+MNAmer, aula de LSW
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D22/11'06
+MNAmer, aula de LSW
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D23/11'06
+Mvan PqPta até Central
+T-4.20
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D23/11'06
+T-58.60
+P########ajuste da conta#########
+^
+D21/11'06
+MÁgua Oxigenada 10v
+T-1.00
+PDroga Cristal
+LSaúde:Remédios
+^
+D23/11'06
+Mfoi de R$ 900,00
+T900.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/11'06
+MSAQUE TAA
+T480.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/12'06
+MSAQUE TAA
+T120.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/12'06
+MSuco, 3 achocs
+T-3.76
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D9/12'06
+MFiltro óleo 16v
+T-9.80
+P1001 - Autopeças
+LAutomóvel:Manutenção
+^
+D28/11'06
+MÁgua Oxigenada 10v
+T-0.55
+PDroga Rofas - NAÇÕES
+LSaúde:Remédios
+^
+D15/12'06
+Mpedra p/basculante
+T-21.00
+PAZ de Paus - Portal das Pedras
+LPatrimônios:Materiais
+^
+D16/12'06
+M2 diárias pedreiro, 1 ajudante
+T-150.00
+PJorge - Rafael Pereira Machado
+LPatrimônios:Pedreiro
+^
+D15/12'06
+T1,000.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D18/12'06
+T-166.69
+P########ajuste da conta#########
+^
+D18/12'06
+T200.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D18/12'06
+Mmulta
+T-68.10
+PPalio Week 2001 multas
+LAutomóvel:Manutenção
+^
+D18/12'06
+Mmulta
+T-68.10
+PPalio Week 2001 multas
+LAutomóvel:Manutenção
+^
+D18/12'06
+MJantar c/Diretoria DataSus
+T-20.00
+Ppresentes
+LDespesas de trabalho:Não-reembolsadas
+^
+D19/12'06
+M10m3 aterro
+T-550.00
+PBitinho
+LPatrimônios:Aterro
+^
+D23/12'06
+M10m3 aterro espalhar
+T-150.00
+POtacílio
+LPatrimônios:Aterro
+^
+D25/1'07
+MSAQUE TAA
+T30.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/1'07
+T-100.00
+PDespesas domésticas
+LAlimentação:Feira, sacolão e padaria
+^
+D12/1'07
+M41 bilhetes * 2,2
+T-12.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D23/11'06
+T-500.00
+Pcobrir conta
+L[HSBC Corrente]
+^
+D22/12'06
+MAchoc Damata 3x 0,70
+T-2.10
+PGuanabara
+LAlimentação:Supermercado
+^
+D31/12'06
+M7,08M3 a R$ 1,249
+T-8.84
+P15312704- carreteiro rev petróle
+LAutomóvel:GNV
+^
+D28/12'06
+Msf: 2175,77
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/1'07
+MSAQUE TAA
+T1,000.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/1'07
+T-800.00
+PGesseiro - José Vitório
+LPatrimônios:Pedreiro
+^
+D6/1'07
+T-150.00
+PJorge - Rafael Pereira Machado
+LPatrimônios:Pedreiro
+^
+D6/1'07
+Meu? em din?
+T-8.00
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D7/1'07
+M2 coristina
+T-4.34
+PDroga Rofas - NAÇÕES
+LSaúde:Remédios
+^
+D15/1'07
+M10m3 aterro espalhar
+T-50.00
+POtacílio
+LPatrimônios:Aterro
+^
+D8/1'07
+Msf: 67,50
+T-25.02
+P########ajuste da conta#########
+^
+D9/1'07
+M2 coletor urina neném
+T-2.00
+PDroga Rio D'Ouro
+LSaúde:Remédios
+^
+D7/2'07
+MSAQUE TAA
+T400.00
+Ppor no bolso
+L[BB Corrente]
+^
+D25/2'07
+M41 bilhetes * 2,2
+T-0.01
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D16/1'07
+MSAQUE TAA
+T450.00
+Ppor no bolso
+L[BB Corrente]
+^
+D13/1'07
+M???
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D18/1'07
+Mfitas adesivas
+T-8.20
+PLojas Magal de Utilidades Ltda
+LPatrimônios:Materiais
+^
+D16/1'07
+T-400.00
+Pveiga Luiz Menezes Veiga Neto
+^
+D21/1'07
+T-3.50
+PLAMSA - Linha Amarela S/A
+LAutomóvel:Pedágio
+^
+D20/1'07
+MNAmer, comprar presente p/filha da Tia Elaine
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D20/1'07
+MTampa Reserv Radiador
+T-3.80
+P1001 - Autopeças
+LAutomóvel:Manutenção
+^
+D20/1'07
+MSundae
+T-4.95
+PMcDonalds - Com de Alim Ltda
+LAlimentação:Balas, doces, biscoitos e salgs
+^
+D22/1'07
+Msf: 0
+T-26.05
+P########ajuste da conta#########
+^
+D31/1'07
+T20.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D30/1'07
+Msf: 40,27
+T30.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/2'07
+Mparquinho c/Viviane
+T-10.00
+PEric
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D3/2'07
+Mpára-quedas
+T-5.00
+PEric
+LDespesas com filho:Brinquedos, educação, diversos
+^
+D5/2'07
+Msf: 0
+T-65.00
+P########ajuste da conta#########
+^
+D3/2'07
+MSAQUE TAA
+T1,000.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/2'07
+M????
+T-1,200.00
+PGesseiro - José Vitório
+LPatrimônios:Pedreiro
+^
+D5/2'07
+T550.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D5/2'07
+MTermostato água Radiador, correias dentada, filtro gasolina
+T-320.00
+PLuiz marido da Marta
+LAutomóvel:Manutenção
+^
+D23/2'07
+MSAQUE TAA
+T20.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/2'07
+T-379.50
+PIPVA
+LAutomóvel:Impostos, taxas anuais etc
+^
+D6/2'07
+Miv
+T-8.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D7/2'07
+Mvan PqPta até Central
+T-4.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D9/2'07
+T40.00
+L[ni Dinheiro]
+^
+D8/2'07
+T-8.20
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D10/2'07
+T600.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D10/2'07
+T-450.00
+PJorge - Rafael Pereira Machado
+LPatrimônios:Pedreiro
+^
+D7/3'07
+MSAQUE TAA
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D21/3'07
+M3 bilhetes * 2,1
+T-6.30
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D21/3'07
+T-65.79
+PAmpla - Ampla - Ampla - Ampla -
+LContas a pagar:Eletricidade
+^
+D16/2'07
+MDepósito Online
+T-100.00
+Pdepositar BB
+L[BB Corrente]
+^
+D16/2'07
+Mde 12 à 16/02 vans e ônibus
+T-32.80
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D16/2'07
+Msf: 37,00
+T-15.54
+P########ajuste da conta#########
+^
+D9/2'07
+Mde 5 à 9/02 vans e ônibus
+T-32.80
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D19/2'07
+T-3.40
+Pponte - Rio/Niterói
+LAutomóvel:Pedágio
+^
+D20/2'07
+MRio da Ostras, cerveja na casa da Rúbia
+T-10.00
+^
+D19/2'07
+MMaricá / Itaipuaçu
+T-9.60
+^
+D22/2'07
+T-12.20
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D11/2'07
+MPão e Manteiga
+T-1.76
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D22/2'07
+MColgate
+T-2.30
+PDrogaria México
+LHigiene pessoal:Manutenção
+SHigiene pessoal:Manutenção
+ESorriso 50G
+$-0.90
+SHigiene pessoal:Manutenção
+EEscova de Dente
+$-1.40
+^
+D26/2'07
+MSAQUE TAA
+T20.00
+Ppor no bolso
+L[BB Corrente]
+^
+D1/3'07
+MSAQUE TAA
+T20.00
+Ppor no bolso
+L[BB Corrente]
+^
+D27/2'07
+Mda LVerm p/Av Brasil, às 22:00hs
+T-5.00
+PTaxi
+LDespesas diversas:Taxi, ônibus, passeios e compras
+^
+D27/2'07
+T-8.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D26/2'07
+T-10.00
+PFeira
+LAlimentação:Feira, sacolão e padaria
+^
+D28/2'07
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D2/3'07
+T50.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D2/3'07
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D5/3'07
+Msf: 27,00
+T-32.09
+P########ajuste da conta#########
+^
+D3/3'07
+M30m3 espalhar com trator
+T-20.00
+PAlan -trator p/espalhar aterro-
+LPatrimônios:Aterro
+^
+D5/3'07
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D6/3'07
+T-4.20
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D5/2'07
+MSAQUE TAA
+T1,000.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/2'07
+T-700.00
+PJorge - Rafael Pereira Machado
+LPatrimônios:Pedreiro
+^
+D3/2'07
+Mzzzzzzzzzzzzzzzzzz  1 caminhão Saibro
+T-100.00
+PNILCIMAR
+LPatrimônios:Aterro
+^
+D3/2'07
+Mzzzzzzzzzzzzzzzzz  
+T-200.00
+PMudança
+LPatrimônios:Outros
+^
+D7/3'07
+T-4.20
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D6/3'07
+Msf: 10,00
+T-9.30
+P########ajuste da conta#########
+^
+D7/3'07
+MEsposa do Gesseiro no dia 5/3/7, ia trocar a Viviane por ela
+T-20.00
+PDiarista
+LEsposa:Empregada
+^
+D8/3'07
+MSAQUE TAA
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D8/3'07
+M50,00 instalação
+T-76.00
+PTV à cabo SKY rSeis
+^
+D31/12'09
+T0.00
+PSantos
+^
+D30/3'07
+Mmensalidade do Éric PAG TITULO
+T-95.00
+PEric - CIOB - Éric
+LDespesas com filho:Educação, livros, cadernos
+^
+D15/3'07
+MSAQUE TAA
+T20.00
+Ppor no bolso
+L[BB Corrente]
+^
+D19/3'07
+Mref: 2001/2/3/4/5
+T-84.93
+PTerreno IPTU
+LImpostos:IPTU Q29 L30
+^
+D7/4'07
+M41 bilhetes * 2,2
+T-0.01
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D16/3'07
+T400.00
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D18/3'07
+MComemorar Aniv da Jéssica, na Penha
+T52.00
+PParmê
+LAlimentação:Restaurantes
+^
+D18/3'07
+M14,244 M3 a R$ 1,138
+T-16.21
+P16784758 APML Engenho da  Rainha
+LAutomóvel:GNV
+^
+D19/3'07
+T-130.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D22/3'07
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D23/3'07
+MKit Vigilância
+T-193.00
+^
+D29/3'07
+T139.25
+Ppor no bolso
+L[Bradesco Poupança Éric]
+^
+D30/3'07
+Mref: 2001/2/3/4/5
+T-84.09
+PTerreno IPTU
+LImpostos:IPTU Q29 L30
+^
+D30/3'07
+Mmensalidade do Éric 1a Série
+T-95.00
+PEric - CIOB - Éric
+LDespesas com filho:Educação, livros, cadernos
+^
+D23/3'07
+T70.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D28/3'07
+Msfce: -486,22
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D3/4'07
+Maparar as pontas
+T-10.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D7/4'07
+T200.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D7/4'07
+Mbrinquedos (pisc bolinha, pula-pula)
+T-130.00
+Pfesta
+^
+D7/4'07
+MFotos
+T-60.00
+PCristiane Machado Fotógrafa
+LLazer:Diversão
+^
+D30/4'07
+Msf: 141,03
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D8/4'07
+Mzeros
+T-113.62
+P########ajuste da conta#########
+^
+D31/3'07
+M1/3 8,4   7/3 8,7   9/3 8,2+4,0   16/3 32,6  23/3 16,8
+T-87.10
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D10/4'07
+MSAQUE TAA
+T900.00
+Ppor no bolso
+L[BB Corrente]
+^
+D10/4'07
+T-800.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D30/4'07
+M9..13
+T-41.40
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D10/4'07
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D10/4'07
+MEspanador, fitas
+T-5.00
+PBazar unico do Passeio
+LItens domésticos:Diversos
+^
+D9/4'07
+MSAQUE TAA
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D4/4'07
+MSAQUE TAA
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D14/4'07
+MMineiro
+T-31.00
+PCEG - Gas de cozinha
+LContas a pagar:Gás
+^
+D15/4'07
+Msf: 42,00
+T-97.00
+P########ajuste da conta#########
+^
+D18/4'07
+MSAQUE TAA
+T70.00
+Ppor no bolso
+L[BB Corrente]
+^
+D17/4'07
+MSAQUE TAA
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D18/4'07
+MLimpeza da
+T-50.00
+PLuiz marido da Marta
+LAutomóvel:Manutenção
+^
+D24/4'07
+MSAQUE TAA
+T70.00
+Ppor no bolso
+L[BB Corrente]
+^
+D21/4'07
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D24/4'07
+MPl Som 5.1 GoldShip22
+T-39.00
+PNova Max
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D13/7'06
+MExaustor  Blower Power
+T-10.00
+PCeretti Informática Ltda
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D30/4'07
+M2Kg de açúcar
+T-2.78
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D6/5'07
+Msf: 42,00
+T-149.32
+P########ajuste da conta#########
+^
+D7/5'07
+M111
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D7/5'07
+T-4.60
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D8/5'07
+M111
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D8/5'07
+MPl Rede Encore p/K6 2 500
+T-10.50
+PHH agabe prod serv ltda
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D7/5'07
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D9/5'07
+Ma Ni veio
+T12.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D8/5'07
+M10,58 M3 a R$ 1,299
+T-13.75
+PPosto REGINAS Ltda
+LAutomóvel:GNV
+^
+D11/5'07
+Msó3
+T12.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D9/5'07
+MMônica, gastos c/ddd
+T70.00
+P7342-Telemar Linha 3653-7342
+LContas a pagar:Telefone
+^
+D9/5'07
+MPlauto, 50% do rádio
+T-50.00
+PDespesas diversas (Ajustes)
+LDespesas de trabalho:Não-reembolsadas
+^
+D12/5'07
+M??? da ducha ?? skina da suburbana c/e.velha
+T-12.50
+PPosto Qualquer
+LAutomóvel:GNV
+^
+D11/5'07
+M??? da ducha ?? skina da suburbana c/e.velha
+T-13.20
+PPosto Qualquer
+LAutomóvel:GNV
+^
+D17/5'07
+MFórum TRT 5x100
+T-5.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D14/5'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D15/5'07
+M12 +12
+T24.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D16/5'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D16/5'07
+M2 mon VGA
+T-40.00
+PCamelôs & Cia
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D18/5'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D18/5'07
+MGlória e NAmérica
+T-5.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D16/5'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D21/5'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D21/5'07
+MGlória e NAmérica
+T-5.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D22/5'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D22/5'07
+MGlória + pão doce 1,20
+T-3.20
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D23/5'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D23/5'07
+MGlória e NAmérica
+T-5.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D24/5'07
+M8 + 16
+T24.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D24/5'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D25/5'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D25/5'07
+T-10.00
+P11884843 Posto Forza II
+LAutomóvel:GNV
+^
+D25/5'07
+MGlória e NAmérica
+T-5.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D26/5'07
+Mpressão estava 180
+T-12.00
+P14093111- São Jorge Sta Cruz
+LAutomóvel:GNV
+^
+D28/5'07
+Mp/Ni
+T-20.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D28/5'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D29/5'07
+M2v
+T32.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D28/5'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D29/5'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D29/5'07
+MAppai
+T-55.15
+PPlano de Saúde
+LSaúde:Plano de saúde
+^
+D30/5'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D30/5'07
+T-10.00
+P11884800 Posto Forza I
+LAutomóvel:GNV
+^
+D30/5'07
+MGlória e NAmérica
+T-5.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D10/5'07
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D10/5'07
+T25.00
+P########ajuste da conta#########
+^
+D31/5'07
+T28.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D31/5'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D30/5'07
+T-10.00
+P14093111- São Jorge Sta Cruz
+LAutomóvel:GNV
+^
+D1/6'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D1/6'07
+MGlória e NAmérica
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D1/6'07
+Mp/Ni
+T-10.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D28/5'07
+T350.00
+Ppor no bolso
+L[BB Corrente]
+^
+D28/5'07
+T-100.00
+PMonica
+LEsposa:Empregada
+^
+D3/6'07
+T-20.00
+PTransporte - Sr Fernando
+LEducação:Transporte
+^
+D2/6'07
+Msf: 42,00
+T-284.10
+P########ajuste da conta#########
+^
+D4/6'07
+MSr Jorge ñ veio, tive que voltar por Sta Cruz, etc
+T18.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D4/6'07
+MRMéxico e NAmérica
+T-5.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D5/6'07
+MSr Jorge ñ veio, tive que voltar por Sta Cruz, etc
+T18.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D6/6'07
+MSr Jorge ñ veio, tive que voltar por Sta Cruz, etc
+T18.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D5/6'07
+M10 varas
+T-30.00
+PTerreno outros gastos
+LPatrimônios:Outros
+^
+D6/6'07
+Mespalhar
+T-20.00
+PTerreno outros gastos
+LPatrimônios:Aterro
+^
+D5/6'07
+Mparafusos p/bomba sapo
+T-10.00
+PPalácio dos parafusos Ltda
+LItens domésticos:Diversos
+^
+D8/6'07
+Mbomba d´água máq de lavar
+T-10.00
+PCamelôs & Cia
+LItens domésticos:Diversos
+^
+D11/6'07
+T70.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D11/6'07
+MNAmérica
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D12/6'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D12/6'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D14/6'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D13/6'07
+T8.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D14/6'07
+Mpistola cola-q 4,90  3xBastão 1,00
+T-5.90
+PDing Show
+LItens domésticos:Diversos
+^
+D14/6'07
+M5m Tela p/janelas
+T-5.00
+PImpério das pelúcias
+LItens domésticos:Diversos
+^
+D12/6'07
+MSaque no TAA - 13/06 11:22 SAA-PEDRO LESSA
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D13/6'07
+T-150.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D13/6'07
+M2 Jimo 3,29   Insert 4,99   M.Verde 1,99
+T-13.38
+PMulti Market
+LAlimentação:Supermercado
+^
+D17/6'07
+M135
+T-10.00
+P14093111- São Jorge Sta Cruz
+LAutomóvel:GNV
+^
+D18/6'07
+T12.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D18/6'07
+MNovalgina 10Ml 6,19  + dipirona comp c/4  1,35
+T-7.00
+PDrogaria México
+LSaúde:Remédios
+^
+D19/6'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D19/6'07
+MSaque no TAA - 19/06 12:42 SAA-VINTE CINCO AGOS
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D19/6'07
+Mentrada. RGI
+T-300.00
+PCartório Soares Pereira
+LItens domésticos:Patrimônio
+^
+D21/6'07
+Mida 16 + volta 400, um Peruano
+T20.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D21/6'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D20/6'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D20/6'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D21/6'07
+MDEPOSITO DINHEIRO CX.EXPR.ENVELOPE TAC
+T-170.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D21/6'07
+Msf: 27,00
+T-482.22
+P########ajuste da conta#########
+^
+D25/6'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D25/6'07
+MM3 a R$ 1,279
+T-14.00
+P6498604-auto posto Quatro Amigos
+LAutomóvel:GNV
+^
+D25/6'07
+T-3.00
+Pagua mineral
+LAlimentação:Água Mineral
+^
+D26/6'07
+T32.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D26/6'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D26/6'07
+MEsterilair
+T-10.00
+Psucatas
+LItens domésticos:Diversos
+^
+D22/6'07
+M3 mata moscas
+T-2.10
+PLojas Magal de Utilidades Ltda
+LPatrimônios:Materiais
+^
+D26/6'07
+M2Leite, sardinha, sabão em pó
+T-11.54
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D21/6'07
+Mcabo 15x15 monitor
+T-8.90
+PINK House Brasil
+LItens domésticos:Foto, cinema, armazém e instala
+^
+D11/6'07
+Mem Caxias????
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D18/6'07
+Meu e Éric, assitir Shrek terceiro dub
+T-14.00
+PKinoplex
+LLazer:Cinema e locação de vídeo
+^
+D18/6'07
+MNAmer, AV3, c/Éric Shrek terceiro dub
+T-3.50
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D28/6'07
+Mida Sr Jorge ñ veio, mas Blitz parou e quase multou, volta Passeio, c/3
+T20.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D28/6'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D26/6'07
+Msf:  335,98  Saque no TAA - 26/06 13:19 MIN.SAUDE
+T70.00
+Ppor no bolso
+L[BB Corrente]
+^
+D29/6'07
+Mida Sr Jorge ñ veio, veio Ana, Juliana, Inês e Dna Ana
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D29/6'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D2/7'07
+MSr Jorge, Ana, Inês e Sra das 5:30AM
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D2/7'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D10/7'07
+MSaque no TAA - 10/07 09:17 SAA-VINTE CINCO AGOS
+T360.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/7'07
+T16.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D3/7'07
+MGlória
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D3/7'07
+MRose Petronilho
+T-14.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D5/7'07
+T-4.20
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D10/7'07
+Mentrada. RGI
+T-300.00
+PCartório Soares Pereira
+LItens domésticos:Patrimônio
+^
+D9/7'07
+T50.00
+Ppor no bolso
+L[ni Dinheiro]
+^
+D16/7'07
+MQualicola
+T-6.00
+PRocha e Silva
+LPatrimônios:Materiais
+^
+D21/7'07
+MViaParque
+T-4.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D25/7'07
+MSaque no TAA - 25/07 15:51 SAA-DUQUE DE CAXIAS
+T250.00
+Ppor no bolso
+L[BB Corrente]
+^
+D26/7'07
+T-150.00
+PMauro
+LPatrimônios:Pedreiro
+^
+D3/8'07
+M8 + 8,2 + 8,2 + (4,2+3,5) + 8,4
+T-40.50
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D15/8'07
+T-45.00
+PTransporte - Sr Fernando
+LEducação:Transporte
+^
+D26/7'07
+Mcomprar material
+T-120.00
+PAirltom - Fazer portão de ferro
+LPatrimônios:Terreno
+^
+D15/8'07
+T-0.01
+Ppor no bolso
+^
+D7/8'07
+T-2.90
+Pdois e noventa
+LDespesas de trabalho:Refeição
+^
+D3/8'07
+T-4.70
+Pdois e noventa
+LDespesas de trabalho:Refeição
+^
+D10/8'07
+M8,4 + 8,2 + 8,2 + 8,2 + 8,2
+T-41.20
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D7/8'07
+M10 CDRs
+T-5.00
+PCamelôs & Cia
+LItens domésticos:Diversos
+^
+D9/8'07
+T-4.70
+Pdois e noventa
+LDespesas de trabalho:Refeição
+^
+D17/8'07
+M8,4 + (4,2 + 2,2 + 1,5 + 3) + (4,2 + 4,4 + 1,5 + 3) + 4,0 + 6,2 + 1,5+3
+T-47.10
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D10/8'07
+T-100.00
+PBolso da NI
+L[ni Dinheiro]
+^
+D6/7'07
+MSaque no TAA - 29/08 12:26 MIN.SAUDE
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D23/7'07
+M*SAQUE BCO 24H 21/07 09:59 MERCADAO RIO
+T210.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D30/7'07
+Msf: 3482,13   Banco 24 Horas
+T210.00
+Ppor no bolso
+L[BB Corrente]
+^
+D12/8'07
+M3 mesas, p/dia dos pais
+T-15.00
+Pcarícia piscina clube
+^
+D17/8'07
+Maparar as pontas
+T-10.00
+PCabelo
+LHigiene pessoal:Manutenção
+^
+D20/8'07
+MSaque no TAA - 13/08 16:14 MIN.SAUDE
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D17/8'07
+MSaque no TAA - 17/08 16:33 SAA-RIO
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D24/8'07
+M8,4 + 8,4 + (4,2 + 2,2 + 1,5) + (4,2 + 2,2 + 1,5 + 3) + 8,4
+T-44.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D24/8'07
+MEscova Oral-B
+T-4.10
+PDrogaria México
+LSaúde:Remédios
+^
+D25/8'07
+M2PQueijo, Ades, Kinder Ovo
+T-9.56
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D31/8'07
+M8,4*5
+T-42.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D22/8'07
+Msf: 4777,68
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D3/9'07
+MLimpeza da
+T-50.00
+PLuiz marido da Marta
+LAutomóvel:Manutenção
+^
+D6/9'07
+M8,4 + 8,4 + (4,2 + 2,2 + 1,5)  (carona c/Ni) + 8,4
+T-33.10
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D8/9'07
+MMineiro
+T-31.00
+PCEG - Gas de cozinha
+LContas a pagar:Gás
+^
+D6/8'07
+MSaque no TAA - 06/08 17:21 MIN.SAUDE
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D20/8'07
+MSaque no TAA - 20/08 12:13 SAA-CINELANDIA
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D6/8'07
+M330,00
+T-330.00
+PAirltom - Fazer portão de ferro
+LPatrimônios:Terreno
+^
+D15/9'07
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D14/9'07
+M8,4 + 8,4 + (4,2 +2,0 + 1,5 + 3,0) + (4,2 +2,0 + 1,5 + 3,0)
+T-33.10
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D21/9'07
+M(4,2 + 2,2 + 1,5) + 8,4 + (4,2 + 2,2) + 8,4 + 8,2
+T-39.10
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D17/9'07
+MSaque no TAA - 17/09 17:51 MIN.SAUDE
+T40.00
+Ppor no bolso
+L[BB Corrente]
+^
+D28/9'07
+M8,4 + 8,4 + (4,2 + 2,2 + 1,5) + 8,4 + 8,4
+T-41.50
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D12/10'07
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D29/9'07
+T-20.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D29/9'07
+T-15.00
+P14093111- São Jorge Sta Cruz
+LAutomóvel:GNV
+^
+D29/9'07
+Mem mãos da Lúcia
+T-100.00
+PMauro
+LPatrimônios:Pedreiro
+^
+D27/9'07
+T-4.21
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D3/9'07
+MSaque no TAA - 03/09 17:27 MIN.SAUDE
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D24/9'07
+Msf: 3294,55   Saque - 24/09 17:41 MIN.SAUDE  doc: 36901912
+T540.00
+Ppor no bolso
+L[BB Corrente]
+^
+D5/10'07
+M8,4 + 8,4 + (4,2 + 2,2 + 1,5) + 8,4 + 8,4
+T-41.50
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D4/10'07
+T-250.00
+PMauro
+LPatrimônios:Pedreiro
+^
+D1/10'07
+MBanco 24 Horas
+T140.00
+Ppor no bolso
+L[BB Corrente]
+^
+D2/10'07
+M250,00 p/Mauro Saque no TAA - 02/10 17:28 SAA-PEDRO LESSA
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D5/10'07
+Mhot pocket, saduíche
+T-3.99
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D10/10'07
+MSaque no TAA - 10/10 15:16 SAA-PEDRO LESSA
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D11/10'07
+MPai Cláudio Cunha
+T-10.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D11/10'07
+M8,4 + 8,4 + (4,2 + 2,2 + 1,5) + 8,4
+T-33.10
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D21/10'07
+T-50.00
+PMauro
+LPatrimônios:Pedreiro
+^
+D22/10'07
+MSaque no TAA - 22/10 17:17 SAA-PEDRO LESSA
+T80.00
+Ppor no bolso
+L[BB Corrente]
+^
+D29/10'07
+MSaque no TAA - 29/10 16:38 SAA-RIO
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D10/11'07
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D28/11'07
+Msf: 266,94   Saque no TAA - 28/11 08:27 HOTEL KUBISTCHEK
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D8/11'07
+M*SAQUE CAIXA AUT 08/11 21:06 AG. NILO PE
+T70.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D13/11'07
+T30.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D10/11'07
+T70.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D8/11'07
+M*SAQUE CAIXA AUT 12/11 12:49 AG. NILO PE
+T220.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D10/12'07
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D10/12'07
+T30.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D26/11'07
+Mjanta, Burger King
+T-10.50
+PSGIFDespesas
+LDespesas de trabalho:Viagens
+^
+D26/11'07
+Mescova de dente, droga Vison
+T-1.85
+PSGIFDespesas
+LDespesas de trabalho:Viagens
+^
+D11/12'07
+M*SAQUE CAIXA AUT 11/12 14:01 AG. TREZE D
+T50.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D11/12'07
+MShampoo
+T-5.95
+PDrogaria México
+LItens domésticos:Diversos
+^
+D6/12'07
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D22/11'07
+M*SAQUE CAIXA AUT 22/11 14:24 AG. CASTELO
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D27/12'07
+Msf: 93,76  Saque no TAA - 27/12 10:39 IBIASSUCE
+T200.00
+Ppor no bolso
+L[BB Corrente]
+^
+D13/12'07
+T180.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D24/12'07
+T380.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D11/1'08
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D14/1'08
+T-50.00
+PBolso da NI
+L[ni Dinheiro]
+^
+D14/1'08
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D18/1'08
+T-2,715.00
+P########ajuste da conta#########
+^
+D22/1'08
+T470.59
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D22/1'08
+T-70.59
+PTicket descontos
+LDespesas diversas:Decontos Ticket
+^
+D24/1'08
+T6,500.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D24/1'08
+T1,000.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D25/1'08
+T-8,000.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D25/1'08
+T-830.00
+Pdeposito Santander
+L[Santander Corrente]
+^
+D21/1'08
+T-42.00
+Ponibus
+LDespesas de trabalho:Não-reembolsadas
+^
+D29/1'08
+MR$ 137,25 Endosso p/cláusula 35, c/Ronaldo Renove 2139-9200
+T-130.00
+PPalio Week 2001 - seguro
+LAutomóvel:Seguro
+^
+D28/1'08
+T210.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D1/2'08
+MNAmer
+T-4.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D29/1'08
+MNAmer
+T-4.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D28/1'08
+MNAmer
+T-2.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D22/12'07
+M6,70    8:42  9:41  10:36
+T-20.10
+PCONCER
+LAutomóvel:Pedágio
+^
+D26/1'08
+MBonsucesso, suspendi o carro p/ver barulho
+T-10.00
+PGNV
+LAutomóvel:GNV
+^
+D5/3'08
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D8/2'08
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D9/2'08
+MConserta roda amassada na Av Brasil, mais montar pneu novo do seguro
+T-9.00
+Pconsertar pneu
+LAutomóvel:Manutenção
+^
+D12/2'08
+T500.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D12/2'08
+T-379.50
+PIPVA
+LAutomóvel:Impostos, taxas anuais etc
+^
+D12/2'08
+Mref: 2008
+T-84.09
+PTerreno IPTU
+LImpostos:IPTU Q29 L30
+^
+D12/2'08
+Msf: 49,00
+T-262.90
+P########ajuste da conta#########
+^
+D13/2'08
+Mcarona p/Guilherme até Aeroporto
+T-22.00
+PGNV
+LAutomóvel:GNV
+^
+D15/2'08
+Mida 16  volta 13,5
+T34.00
+PLotada
+LAutomóvel:PqPta x Passeio
+^
+D15/2'08
+T-4.50
+PLotada-Vinicius
+LAutomóvel:PqPta x Passeio
+^
+D25/2'08
+T-20.00
+P14093111- São Jorge Sta Cruz
+LAutomóvel:GNV
+^
+D23/2'08
+T-21.00
+P11884843 Posto Forza II
+LAutomóvel:GNV
+^
+D27/2'08
+Mna Av Brasil, 19:00, da Central p/casa
+T-15.00
+PGNV
+LAutomóvel:GNV
+^
+D3/3'08
+T-20.00
+P14093111- São Jorge Sta Cruz
+LAutomóvel:GNV
+^
+D3/3'08
+Mc/Dna Margarete e Vanderlei (carro apreendido)
+T-15.00
+P11884800 Posto Forza I
+LAutomóvel:GNV
+^
+D10/3'08
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D28/3'08
+MSaque no TAA - 26/03 13:30 MIN.SAUDE
+T500.00
+Ppor no bolso
+L[BB Corrente]
+^
+D28/3'08
+Msf: -2645,09 Saque no TAA - 25/03 14:46 MIN.SAUDE
+T800.00
+Ppor no bolso
+L[BB Corrente]
+^
+D4/4'08
+Mna Av Brasil, 19:00, da Central p/casa
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D25/4'08
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D21/4'08
+T-25.00
+P14093111- São Jorge Sta Cruz
+LAutomóvel:GNV
+^
+D18/4'08
+MSQ ATM REDE SAQUE ATM INTERAG
+T420.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D24/1'08
+MSQ ATM REDE
+T1,000.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D6/3'08
+MSQ ATM REDE
+T1,000.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D7/3'08
+MSQ ATM REDE
+T1,000.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D12/4'08
+M150 lot
+T-500.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D19/4'08
+M100 lot
+T-500.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D4/4'08
+T-500.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D28/3'08
+T-500.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D21/3'08
+T-500.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D14/3'08
+T-500.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D28/4'08
+T-4.70
+PSal e Tal - restaurante
+LDespesas de trabalho:Refeição
+^
+D7/5'08
+MSAQUE POR CAIXA I SAQUE POR CAIXA I
+T3,100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D6/5'08
+Mganha Jornal
+T-20.00
+P11884800 Posto Forza I
+LAutomóvel:GNV
+^
+D8/5'08
+T-5.00
+P11884800 Posto Forza I
+LAutomóvel:GNV
+^
+D10/5'08
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D9/5'08
+M60+70+70+32,56
+T232.56
+PTicket por Dinheiro
+L[Vale Refeição]
+^
+D5/5'08
+MCAIXA24H
+T1,500.00
+Ppor no bolso
+L[Caixa Corrente]
+^
+D9/5'08
+MDEPOSITO EM DINHE DEPOSITO EM DINHE DEPOSITO EM DINHE DEPOSITO EM DINHE
+T-500.00
+Pdeposito Santander
+L[Santander Corrente]
+^
+D15/5'08
+T-18.50
+P11884800 Posto Forza I
+LAutomóvel:GNV
+^
+D15/5'08
+T-10.00
+PSal e Tal - restaurante
+LDespesas de trabalho:Refeição
+^
+D7/5'08
+MDEPOSITO DINHEIRO CX.EXPR.ENVELOPE TAC
+T-1,000.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D7/5'08
+MDEPOSITO DINHEIRO CX.EXPR.ENVELOPE TAC
+T-1,000.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D23/5'08
+Mpraia da Barra, perdi minha Sony P72
+T-7.30
+PLAMSA - Linha Amarela S/A
+LAutomóvel:Pedágio
+^
+D23/5'08
+T-11.50
+PGNV
+LAutomóvel:GNV
+^
+D24/5'08
+Mconserto máq lavar, Placa a base de troca
+T-40.00
+Pmaq Lavar - refr Pedro e Si
+LItens domésticos:Diversos
+^
+D10/6'08
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D14/5'08
+MDEPOSITO EM DINHE DEPOSITO EM DINHE DEPOSITO EM DINHE DEPOSITO EM DINHE
+T-100.00
+Pdeposito Santander
+L[Santander Corrente]
+^
+D30/5'08
+Msf: 148,63
+T-100.00
+Pdeposito Santander
+L[Santander Corrente]
+^
+D3/7'08
+MCAIXA24H sta cruz SAQ OL B24 SAQ OL B24
+T140.00
+Ppor no bolso
+L[Caixa Corrente]
+^
+D3/7'08
+MFiesta, foi R$ 13,00   -   ainda perdi o troco R$ 7,00
+T-20.00
+Pextintor
+LAutomóvel:Manutenção
+^
+D3/7'08
+T-78.50
+Pduda
+LAutomóvel:Impostos, taxas anuais etc
+^
+D10/7'08
+Mmensalidade
+T-25.00
+PTV à cabo SKY rSeis
+^
+D10/7'08
+MSAQ LOTER SAQ LOTER
+T1,000.00
+Ppor no bolso
+L[Caixa Corrente]
+^
+D3/8'08
+T-170.00
+Pbicicleta da Ni
+LItens domésticos:Bicicleta
+^
+D1/8'08
+M0,666 alcartra + 0,260 alho branco
+T-7.16
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D12/8'08
+MPosto Cruz Vermelha
+T-10.00
+Pposto AMA
+LAutomóvel:GNV
+^
+D13/8'08
+T-10.00
+P11884843 Posto Forza II
+LAutomóvel:GNV
+^
+D20/8'08
+T-15.00
+PGNV
+LAutomóvel:GNV
+^
+D8/5'08
+MDEP DINHEIRO    000057
+T-800.00
+Pdepositar HSBC
+L[HSBC Corrente]
+^
+D8/5'08
+MDEP DINHEIRO    000058
+T-1,000.00
+Pdepositar HSBC
+L[HSBC Corrente]
+^
+D7/8'08
+MDEPOSITO DINHEIRO CX.EXPR.ENVELOPE TAC DEPOSITO DINHEIRO CX.EXPR.ENVELOPE TAC
+T-1,000.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D7/8'08
+MDEPOSITO DINHEIRO CX.EXPR.ENVELOPE TAC DEPOSITO DINHEIRO CX.EXPR.ENVELOPE TAC
+T-1,000.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D4/8'08
+M*SAQUE BCO 24H 03/08 12:48 FEIRA NOVA S. *SAQUE BCO 24H 03/08 12:48 FEIRA NOVA S.
+T140.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D25/8'08
+M*SAQUE CAIXA TB 25/08 10:04 POUPATEMPO G *SAQUE CAIXA TB 25/08 10:04 POUPATEMPO G
+T120.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D18/8'08
+M*SAQUE CAIXA AUT 18/08 17:49 AG. TREZE D *SAQUE CAIXA AUT 18/08 17:49 AG. TREZE D
+T200.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D23/9'08
+T-15.00
+P11884800 Posto Forza I
+LAutomóvel:GNV
+^
+D17/9'08
+MSAQUE ATM INTERAG
+T50.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D30/10'08
+MTRANSFERENCIA DE TRANSFERENCIA DE TRANSFERENCIA DE
+T-300.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D6/11'08
+MSAQUE ATM INTERAG SAQUE ATM INTERAG SAQUE ATM INTERAG
+T380.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D7/11'08
+MSAQUE ATM INTERAG SAQUE ATM INTERAG SAQUE ATM INTERAG
+T500.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D13/11'08
+MSAQUE ATM INTERAG SAQUE ATM INTERAG
+T250.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D3/10'08
+MDepósito Online
+T-70.00
+Pdepositar BB
+L[BB Corrente]
+^
+D3/4'08
+MSaque no TAA - 03/04 15:09 MIN.SAUDE Saque no TAA - 03/04 15:09 MIN.SAUDE
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D11/3'08
+MSaque no TAA - 11/03 12:45 SAA-CINELANDIA
+T100.00
+Ppor no bolso
+L[BB Corrente]
+^
+D10/3'08
+MDepósito Online
+T-280.00
+Pdepositar BB
+L[BB Corrente]
+^
+D10/7'08
+MDEPOSITO EM DINHE
+T-700.00
+Pdeposito Santander
+L[Santander Corrente]
+^
+D5/12'08
+MSAQUE ATM INTERAG
+T40.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D9/12'08
+Msf: 357,92   SAQUE ATM INTERAG SAQUE ATM INTERAG SAQUE ATM INTERAG
+T380.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D19/12'08
+MCoroa provisória
+T-150.00
+PJuliana Cinelli de Figueiredo
+LSaúde:Dentista
+^
+D17/12'08
+MMarlom, vulcão das massas
+T-17.00
+PAniversário
+LDespesas de trabalho:Aniversários, lanches etc
+^
+D24/12'08
+MSAQUE ATM INTERAG SAQUE ATM INTERAG
+T200.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D25/9'08
+MDEPOSITO EM DINHE
+T-230.00
+Pdeposito Santander
+L[Santander Corrente]
+^
+D4/12'08
+MSaque no TAA - 04/12 17:58 SAA-PEDRO LESSA
+T300.00
+Ppor no bolso
+L[BB Corrente]
+^
+D7/1'09
+M3 tubos 40mm de esgoto + 1 joelho
+T-17.50
+PRocha e Silva
+LPatrimônios:Materiais
+^
+D16/1'09
+MSAQUE NO BANCO 24 SAQUE NO BANCO 24 SAQUE NO BANCO 24
+T500.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D16/1'09
+T-400.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D16/1'09
+MPastilhas de freio 20,00  Instalar lâmpada 10,00
+T-30.00
+PLuiz marido da Marta
+LAutomóvel:Manutenção
+^
+D16/1'09
+MMelancia, 2geleia, lanterna
+T-9.49
+PIntercontinental
+LAlimentação:Supermercado
+^
+D17/1'09
+Mpedra p/banheira
+T-16.00
+PAZ de Paus - Portal das Pedras
+LPatrimônios:Materiais
+^
+D27/1'09
+M18:50 posto Shell, Av Brasil
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D3/2'09
+M18:50 posto Shell, Av Brasil
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D5/2'09
+M18:50 posto Shell, Av Brasil
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D21/1'09
+MSAQUE NO BANCO 24
+T600.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D2/2'09
+MSAQUE NO BANCO 24 SAQUE NO BANCO 24 SAQUE NO BANCO 24
+T300.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D6/2'09
+MSAQUE ATM INTERAG SAQUE ATM INTERAG SAQUE ATM INTERAG
+T380.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D8/12'08
+T-3.65
+PLAMSA - Linha Amarela S/A
+LAutomóvel:Pedágio
+^
+D3/1'09
+Mida e volta
+T-7.70
+PLAMSA - Linha Amarela S/A
+LAutomóvel:Pedágio
+^
+D18/2'09
+Msf: 88,04   Depósito Online Depósito Online Depósito Online
+T-100.00
+Pdepositar BB
+L[BB Corrente]
+^
+D25/2'09
+Msf: -1633,96 SAQUE NO BANCO 24
+T420.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D27/3'09
+MTroca da mangueia do retorno da água
+T-30.00
+PLuiz marido da Marta
+LAutomóvel:Manutenção
+^
+D28/2'09
+MConserto da frente WeekEnd, batida na tras de uma van na Uruga c/Pres Vargas
+T-500.00
+PLuiz marido da Marta
+LAutomóvel:Manutenção
+^
+D9/4'09
+M20:20 posto repsol, Av Brasil
+T-8.50
+PGNV
+LAutomóvel:GNV
+^
+D10/4'09
+M5,55 M3 a R$ 1,699  fez: ?km   ainda tinha reserva
+T-9.42
+PPosto - Boa Viagem Ltda
+LAutomóvel:GNV
+^
+D10/4'09
+M2,3 M3 a R$ 1,78  fez: ?km  secou
+T-5.00
+PGNV
+LAutomóvel:GNV
+^
+D24/4'09
+T-50.00
+PTerapia
+LSaúde:Terapia
+^
+D17/4'09
+T-40.00
+PTerapia
+LSaúde:Terapia
+^
+D4/3'09
+T-15.00
+PTerapia
+LSaúde:Terapia
+^
+D16/3'09
+T-60.00
+PTerapia
+LSaúde:Terapia
+^
+D23/3'09
+T-40.00
+PTerapia
+LSaúde:Terapia
+^
+D31/3'09
+T-50.00
+PTerapia
+LSaúde:Terapia
+^
+D6/4'09
+T-60.00
+PTerapia
+LSaúde:Terapia
+^
+D8/5'09
+T-50.00
+PTerapia
+LSaúde:Terapia
+^
+D5/5'09
+M40 + 20 p/cinema
+T-60.00
+PBolso da NI
+L[ni Dinheiro]
+^
+D4/5'09
+M???
+T-20.00
+PBolso da NI
+L[ni Dinheiro]
+^
+D24/4'09
+Msf: 62,53   Saque no TAA - 24/04 10:52 SAA-PEDRO LESSA
+T50.00
+Ppor no bolso
+L[BB Corrente]
+^
+D16/5'09
+Malinhamento, cambagem lado esquerdo do Palio
+T-40.00
+PBias car auto center
+LAutomóvel:Manutenção
+^
+D18/5'09
+T70.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D14/6'09
+Mtorneira água mineral
+T-1.99
+PCasa e Video - Mobilita Com Ind
+LItens domésticos:Patrimônio
+^
+D30/6'09
+Mchave ALLEN curta 12mm  32.000m
+T-4.35
+PPalácio da ferramenta - MÁQUINAS
+LItens domésticos:Mobiliário
+^
+D31/7'09
+M8,5 * 3 + 3,7 + 4,2
+T-33.40
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D2/8'09
+M8,8 * 3 + 3,9
+T-30.30
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D16/7'09
+M*SAQUE CAIXA AUT 16/07 17:05 AG. CASTELO *SAQUE CAIXA AUT 16/07 17:05 AG. CASTELO
+T300.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D16/7'09
+MPistão embreagem hidráulica 150,00 + MO 60,00
+T-210.00
+PLuiz marido da Marta
+LAutomóvel:Manutenção
+^
+D3/8'09
+Msf: 319,52  *SAQUE CAIXA AUT 03/08 18:16 AG. CASTELO 
+T60.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D5/6'09
+MSAQUE ATM INTERAG
+T160.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D8/8'09
+T-350.00
+PBolso da NI
+L[ni Dinheiro]
+^
+D6/8'09
+Msf: 51,33
+T380.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D31/7'09
+MSAQUE ATM INTERAG SAQUE ATM INTERAG
+T50.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D22/4'09
+T-210.00
+Pdeposito UBB
+L[ITAÚ UBB Corrente]
+^
+D5/9'09
+M6:00 hs ?? +/-
+T-7.25
+PGNV
+LAutomóvel:GNV
+^
+D8/9'09
+M*SAQUE CAIXA AUT 08/09 14:48 AG. CASTELO 
+T500.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D9/9'09
+M*SAQUE CAIXA AUT 09/09 18:19 AG. SENADOR
+T410.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D19/9'09
+M10:00 minha entra e do Eric
+T-18.00
+PBienal do Livro
+LDespesas com filho:Educação, livros, cadernos
+^
+D1/10'09
+MTRANSFERENCIA DE TRANSFERENCIA DE
+T-480.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D6/10'09
+Msf: 322,35  SAQUE ATM INTERAG SAQUE ATM INTERAG SAQUE ATM INTERAG
+T1,000.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D6/10'09
+T-650.00
+PBolso da NI
+L[ni Dinheiro]
+^
+D19/10'09
+Mpresente de aniversário
+T-50.00
+Pmae
+^
+D21/10'09
+T-10.00
+P11884800 Posto Forza I
+LAutomóvel:GNV
+^
+D18/10'09
+M8,8 + 8,8 + 8,8 + 3,9 + 4,3
+T-34.60
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D19/10'09
+M3,9 + 8,8 + 8,8 + 8,8
+T-30.30
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D27/10'09
+T-10.00
+PGNV
+LAutomóvel:GNV
+^
+D3/11'09
+M8:29
+T-15.00
+PPosto METTA
+LAutomóvel:GNV
+^
+D24/9'09
+MDepósito Online
+T-110.00
+Pdepositar BB
+L[BB Corrente]
+^
+D3/11'09
+M*SAQUE BCO 24H 31/10 15:26 CELMA PQ PAUL
+T210.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D6/11'09
+M*CHEQUE CAIXA 06/11 13:19 AG NILO PECANH
+T5,500.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D10/11'09
+M*SAQUE CAIXA AUT 10/11 16:11 AG. SENADOR
+T210.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D16/11'09
+M*SAQUE CAIXA AUT 16/11 18:14 AG. SENADOR *SAQUE CAIXA AUT 16/11 18:14 AG. SENADOR
+T40.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D17/11'09
+Msf: 55,18  *SAQUE CAIXA AUT 17/11 13:05 AG. NILO PE *SAQUE CAIXA AUT 17/11 13:05 AG. NILO PE
+T500.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D17/11'09
+Msf: 22,86  SAQUE ATM INTERAG SAQUE ATM INTERAG SAQUE ATM INTERAG
+T300.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D17/11'09
+Mcheque voltou
+T-800.00
+PMarcio Piscinas
+^
+D7/11'09
+MCobertura da casa
+T-5,000.00
+Pedivaldo
+^
+D27/10'09
+MSAQUE ATM INTERAG
+T380.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D22/11'09
+M*SAQUE BCO 24H 22/11 13:43 CELMA PQ PAUL
+T280.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D22/11'09
+T-200.00
+PClaudecir PEDREIRO - PEDREIRO -
+LPatrimônios:Pedreiro
+^
+D21/11'09
+MOlaria, Juba
+T-20.40
+PGNV
+LAutomóvel:GNV
+^
+D30/11'09
+M*SAQUE CAIXA AUT 30/11 13:24 AG. NILO PE
+T40.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D1/12'09
+M*SAQUE CAIXA AUT 01/12 13:39 AG. AVENIDA
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D4/12'09
+M*CHEQUE CAIXA 04/12 11:02 AG NILO PECANH *CHEQUE CAIXA 04/12 11:02 AG NILO PECANH *CHEQUE CAIXA 04/12 11:02 AG NILO PECANH
+T4,500.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D7/12'09
+M*SAQUE CAIXA AUT 07/12 15:32 AG. CASTELO *SAQUE CAIXA AUT 07/12 15:32 AG. CASTELO
+T200.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D14/12'09
+M*SAQUE CAIXA AUT 14/12 18:13 AG. CASTELO *SAQUE CAIXA AUT 14/12 18:13 AG. CASTELO
+T500.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D16/12'09
+M*SAQUE CAIXA AUT 16/12 18:09 AG. CASTELO *SAQUE CAIXA AUT 16/12 18:09 AG. CASTELO
+T410.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D17/12'09
+Msf: 1224,51  *SAQUE CAIXA 15:15 CASTELO *SAQUE CAIXA 15:15 CASTELO
+T500.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D17/3'10
+MDEP. INTERAGENCIA
+T-160.00
+Pdeposito UBB
+L[ITAÚ UBB Corrente]
+^
+D11/1'10
+M*SAQUE BCO 24H 09/01 13:12 RODOVIARIA PA *SAQUE BCO 24H 09/01 13:12 RODOVIARIA PA
+T350.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D16/3'10
+MSAQUE ATM INTERAG
+T250.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D19/1'10
+M8,8 * 3 + 3,9
+T-30.30
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D30/12'09
+M8,8 * 3 + 3,9 + 4,3
+T-34.60
+PNova Dutra
+LAutomóvel:Pedágio
+^
+D8/5'10
+MAv Brasil, voltando de Botafogo, visitar Jéssica
+T-13.00
+PGNV
+LAutomóvel:GNV
+^
+D16/4'10
+MSAQUE ATM INTERAG SAQUE ATM INTERAG
+T300.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D27/5'10
+MP Repsol, Penha, voltando de Eng Rainha, conserto Ar
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D1/6'10
+MW Luiz, 
+T-10.00
+P11884843 Posto Forza IV
+LAutomóvel:GNV
+^
+D16/4'10
+M*SAQUE CX ITAU 16/04 16:10 6014 *SAQUE CX ITAU 16/04 16:10 6014
+T112.48
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D2/6'10
+Msf: 46,40 SAQUE ATM INTERAG
+T50.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D19/6'10
+T-5.00
+PGNV
+LAutomóvel:GNV
+^
+D22/6'10
+T220.64
+Ppor no bolso
+L[BB Corrente]
+^
+D25/6'10
+Machoc 1,99   café pilão 250gr 2,79
+T-4.78
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D18/11'09
+MDEP.DIN.ENV.TAC
+T-50.00
+Pdeposito UBB
+L[ITAÚ UBB Corrente]
+^
+D5/7'10
+M7:20 - posto shel antes do Shop Caxias
+T-5.00
+PGNV
+LAutomóvel:GNV
+^
+D14/7'10
+M7:20 - posto BR antes do Shop Caxias
+T-5.00
+PGNV
+LAutomóvel:GNV
+^
+D16/6'10
+MSAQUE NO BANCO 24
+T70.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D28/6'10
+MSAQUE ATM INTERAG
+T80.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D12/7'10
+MSAQUE ATM INTERAG
+T200.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D14/8'10
+T5,200.00
+PFiesta
+LAutomóvel:Fieta
+^
+D16/8'10
+T-5,422.00
+PSandero
+LAutomóvel:Sandero
+^
+D8/9'10
+M8:hs ???
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D30/9'10
+M19hs
+T-10.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D3/9'10
+MSAQUE ATM INTERAG
+T400.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D4/8'10
+MSAQUE NO BANCO 24 SAQUE NO BANCO 24
+T140.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D5/8'10
+MTRANSF VALOR P/ C TRANSF VALOR P/ C
+T1,000.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D28/9'10
+MSAQUE ATM INTERAG
+T150.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D27/9'10
+MSAQUE ATM INTERAG
+T380.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D8/10'10
+M19hs
+T-10.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D5/10'10
+M19hs
+T-10.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D4/10'10
+M19hs
+T-10.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D27/9'10
+MDEP.DINH.
+T-350.00
+Pdeposito Santander->Caixa
+L[Caixa Corrente]
+^
+D15/10'10
+M19:30hs
+T-12.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D14/10'10
+M19:10hs
+T-12.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D13/10'10
+M19:05hs
+T-11.50
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D19/10'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D18/10'10
+M19:30hs
+T-12.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D27/10'10
+MSAQUE 24H 05807755 SAQUE 24H 05807755
+T210.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D25/10'10
+MSAQUE 24H 06004899 23/10 SAQUE 24H 06004899 23/10
+T140.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D25/10'10
+MCEI     000562 SAQUE CEI     000562 SAQUE
+T40.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D21/10'10
+MSAQUE CARTAO MAGNETICO SAQUE CARTAO MAGNETICO
+T4,020.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D5/11'10
+M19:30hs
+T-12.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D4/11'10
+M19:30hs
+T-12.50
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D31/12'19
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D3/11'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D31/12'19
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D31/12'19
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D26/10'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D25/10'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D28/10'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D22/10'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D29/10'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D27/10'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D21/10'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D20/10'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D20/12'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D14/12'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D15/12'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D16/12'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D17/12'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D22/12'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D21/12'10
+M19:30hs
+T-15.00
+PprimeiroPosto primeiro do Brasil
+LAutomóvel:GNV
+^
+D21/12'10
+Mp/ Sr Geraldo e Sr João do estacionamento da glória
+T-10.00
+Pcaixinha de natal
+^
+D17/1'11
+M8:hs
+T-5.00
+PGNV
+LAutomóvel:GNV
+^
+D17/1'11
+M19:hs
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D10/1'11
+M8:hs torci o pé, Ni me buscou p/casa
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D13/1'11
+M19:hs
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D10/2'11
+MSAQUE CARTAO MAGNETICO
+T2,000.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D12/5'11
+MCEI     000004 DINHEIRO 
+T-240.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D26/5'11
+M100R$ fábio
+T-210.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D5/6'11
+T-100.00
+Pveiga Luiz Menezes Veiga Neto
+^
+D6/5'11
+MSAQUE ATM INTERAG
+T200.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D18/3'11
+T200.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D7/7'11
+Mmensalidade julho ???
+T-10.00
+PLeticia
+LDespesas com filho
+^
+D14/9'11
+T-15.00
+PGNV
+LAutomóvel:GNV
+^
+D13/9'11
+T-15.00
+PGNV
+LAutomóvel:GNV
+^
+D11/1'12
+T700.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D8/11'11
+M18:07
+T-12.00
+PCelular 9357-8912
+LContas a pagar:Celular
+^
+D12/1'12
+M19:46
+T-4.18
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D13/12'11
+M13:11  amigo oculto da danca
+T-9.99
+PLojas Magal de Utilidades Ltda
+LLazer:Diversão
+^
+D2/1'12
+M15:05
+T-17.71
+Pmassao drogarias
+LSaúde:Remédios
+^
+D12/1'12
+M18hs  antena 7Dbi - WiFi
+T-14.40
+Pcabos & etc
+LEducação:Informática
+^
+D10/4'12
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D18/4'12
+M19:25
+T-25.00
+PGNV
+LAutomóvel:GNV
+^
+D14/5'12
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D27/5'12
+M9:50  sabão em pó
+T-3.29
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D27/5'12
+M9:50  água sanitária
+T-1.00
+Pcasa
+^
+D12/6'12
+M20:40
+T-18.40
+PGNV
+LAutomóvel:GNV
+^
+D6/7'12
+M?????? dia 6  ?????????
+T-19.40
+PGNV
+LAutomóvel:GNV
+^
+D28/7'12
+M?????? dia 6  ?????????
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D24/8'12
+T-15.00
+PGNV
+LAutomóvel:GNV
+^
+D23/8'12
+T-15.00
+PGNV
+LAutomóvel:GNV
+^
+D21/8'12
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D25/8'12
+T-15.00
+PGNV
+LAutomóvel:GNV
+^
+D31/8'12
+M7:30
+T-10.00
+PGNV
+LAutomóvel:GNV
+^
+D10/8'12
+M13hs - 2 mouses USB
+T-12.00
+PAC2L - com de informática
+^
+D17/4'13
+M8:33 ??
+T-20.00
+Pposto via expressa
+LAutomóvel:Álcool
+^
+D9/4'13
+M8:33 ??
+T-50.00
+Pposto via expressa
+LAutomóvel:Álcool
+^
+D22/6'13
+M19:23  16,95 x 1,04Kg Alcatra
+T-17.62
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D12/8'13
+Mcentral, 19:20hs, deu problema no 3oPistão, Gasolina falhando, GNV Ok
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D10/9'13
+MSAQUE ATM INTERAGENCIA
+T60.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D24/6'13
+M??????
+T-220.00
+Pdeposito UBB
+L[ITAÚ UBB Corrente]
+^
+D16/7'13
+MSAQUE ATM INTERAGENCIA
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D1/9'13
+M10:49
+T-18.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D5/11'13
+M19:19  - 2L Leite 1 choc
+T-5.57
+PSupermercados Tradição
+LAlimentação:Supermercado
+^
+D3/11'13
+M12:49
+T-62.38
+Pcelma Supermercados Celma
+LAlimentação:Supermercado
+^
+D2/11'13
+M18:13  - Nova América
+T-8.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D17/1'14
+M???
+T-25.00
+PGNV
+LAutomóvel:GNV
+^
+D15/1'14
+T-20.00
+PGNV
+LAutomóvel:GNV
+^
+D11/1'14
+M???
+T-25.00
+PGNV
+LAutomóvel:GNV
+^
+D19/4'14
+T-12.00
+PEstapar shopp paulista
+LAutomóvel:Estacionamento
+^
+D19/4'14
+M14:51  shop bonsucesso
+T-6.00
+PEstacionamento
+LAutomóvel:Estacionamento
+^
+D29/9'14
+T-50.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D30/9'14
+T-50.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D11/10'14
+M13:18 Caputchino - Denise doente
+T-3.00
+PRede D´Or São Luiz
+LAlimentação:Padaria
+^
+D5/11'14
+M16:30 ??? SAQUE NO BANCO 24 HORAS SAQUE NO BANCO 24 HORAS
+T40.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D5/11'14
+T-90.00
+PCombustível
+LAutomóvel:Álcool
+^
+D6/11'14
+T-38.00
+Prede posto rede macedo
+LAutomóvel:Álcool
+^
+D5/11'14
+T-40.00
+Prede posto rede macedo
+LAutomóvel:Álcool
+^
+D5/12'14
+M17h
+T-100.00
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D4/12'14
+M18h
+T-50.00
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D3/12'14
+M18h
+T-50.00
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D29/11'14
+M6h
+T-100.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D28/11'14
+M6h
+T-40.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D26/11'14
+M17h
+T-80.00
+PGasolina
+LAutomóvel:Gasolina
+^
+D11/12'14
+M16h
+T-80.50
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D9/12'14
+M17h
+T-78.00
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D15/12'14
+M13:30hs carga no ar condicionado
+T-140.00
+PGran Livina
+LAutomóvel:Manutenção
+^
+D15/12'14
+M17h
+T-70.00
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D17/12'14
+M18h
+T-90.00
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D23/12'14
+M18h
+T-80.00
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D26/12'14
+M19h
+T-80.00
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D28/1'15
+M21h
+T-90.00
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D26/1'15
+M19h
+T-80.00
+PPosto BAM BAM
+LAutomóvel:Gasolina
+^
+D15/8'16
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D17/8'16
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D28/3'16
+T400.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D27/4'15
+MSAQUE ATM INTERAGENCIA SAQUE NO ATM INTERAGÊNCIA
+T300.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D17/4'15
+MSAQUE ATM INTERAGENCIA
+T700.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D20/7'16
+T500.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D30/6'16
+T1,150.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D30/6'16
+T-0.01
+PIR - imposto de renda
+LImpostos:Imposto de renda
+^
+D4/7'16
+T300.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D26/9'16
+Màs 07:29 - irajá - ATM-IRJ-MZ01
+T-20.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D28/9'16
+Màs 16:56 - cinelândia - ATM-CNL-MZN02
+T-20.00
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D24/8'16
+Màs 17:47 - vicente - 
+T-16.40
+PMetrô Rio
+LDespesas de trabalho:Metro
+^
+D26/9'16
+T40.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D29/9'16
+T300.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D8/6'15
+T200.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D10/10'16
+M-60 cta luz -20 
+T940.00
+PAluguel Marcos/Regina
+^
+D10/12'16
+Mnão descontou a luz
+T1,000.00
+PAluguel Marcos/Regina
+^
+D13/12'16
+MDEPOSITO EM DINHEIRO NO ATM DEPOSITO EM DINHEIRO NO ATM DEPOSITO EM DINHEIRO NO ATM
+T-900.00
+Pdeposito Dinheiro->Santander
+L[Santander Corrente]
+^
+D10/1'17
+MCXE     000281 SAQUE    
+T850.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D20/12'16
+MSAQUE 24H 04598686      
+T300.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D27/5'16
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D12/5'16
+MSAQUE 24H 05474200      
+T60.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D8/3'17
+MSAQUE NO BANCO 24 HORAS SAQUE NO BANCO 24 HORAS
+T140.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D10/3'17
+T600.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D22/3'17
+T800.00
+PAluguel Marcos/Regina
+^
+D22/3'17
+MCEI     000022 DINHEIRO  CEI     000022 DINHEIRO 
+T-600.00
+Pdeposito Dinheiro->Itaú
+L[ITAÚ UBB Corrente]
+^
+D6/4'17
+T750.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D6/4'17
+MDEPOSITO EM DINHEIRO NO ATM DEPOSITO EM DINHEIRO NO ATM
+T-700.00
+Pdeposito Dinheiro->Santander
+L[Santander Corrente]
+^
+D20/4'17
+T1,000.00
+Pni me deu
+L[ni Dinheiro]
+^
+D24/4'17
+MAluguel Regina + 200 da Ni
+T-1,000.00
+Pdeposito Dinheiro->Santander
+L[Santander Corrente]
+^
+D10/5'17
+T-395.46
+PBAP Condomínio
+LContas a pagar:Condomínio
+^
+D22/5'17
+MSAQUE NO ATM INTERAGENCIA
+T1,000.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D30/5'17
+MSAQUE NO ATM INTERAGENCIA
+T500.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D11/4'17
+MCXE     000778 SAQUE    
+T20.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D10/5'17
+MCXE     001271 SAQUE    
+T450.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D17/5'17
+MCXE     000935 SAQUE    
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D22/5'17
+MCXE     001628 SAQUE    
+T300.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D22/5'17
+MCEI     000023 DINHEIRO 
+T-1,000.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D30/5'17
+T-500.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D5/6'17
+MSAQUE S/CARTAO CXE003269
+T50.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D8/6'17
+MSAQUE 24H 04464251 08/06
+T40.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D9/10'16
+T-50.00
+PAluguel Marcos/Regina
+^
+D9/11'16
+T-50.00
+PAluguel Marcos/Regina
+^
+D9/1'17
+T-50.00
+PAluguel Marcos/Regina
+^
+D19/4'17
+Mfalta o pagamento
+T-200.00
+PAluguel Marcos/Regina
+^
+D14/6'17
+MSAQUE 24H 07777154      
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D11/7'17
+MCXE     001628 SAQUE    
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D26/7'17
+MSAQUE 24H 03775855      
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D3/8'17
+T50.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D13/7'17
+MSAQUE 24H 01731801      
+T50.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D9/6'17
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D8/8'17
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D17/8'17
+MSAQUE NO BANCO 24 HORAS
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D5/9'17
+MSAQUE NO BANCO 24 HORAS
+T150.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D8/9'17
+T50.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D22/8'17
+T60.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D1/9'17
+T160.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D4/9'17
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D11/9'17
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D25/9'17
+T40.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D27/9'17
+MCXE     001461 SAQUE    
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D3/10'17
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D25/9'17
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D17/10'17
+T240.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D17/10'17
+T-200.00
+PBolso da NI
+L[ni Dinheiro]
+^
+D1/11'17
+MCXE     001305 SAQUE     CXE     001305 SAQUE    
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D13/11'17
+MSAQUE 24H 17464215       SAQUE 24H 17464215      
+T40.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D30/10'17
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D6/12'17
+M2 dias em novembro
+T-30.00
+PLeticia - Lucena - Letícia
+LDespesas com filho:Educação, livros, cadernos
+^
+D27/11'17
+MSAQUE 24H 00583500 25/11 SAQUE 24H 00583500 25/11
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D11/12'17
+MSAQUE 24H 14317507 10/12
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D12/1'18
+MCXE     000554 SAQUE    
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D15/1'18
+MSAQUE NO BANCO 24 HORAS SAQUE NO BANCO 24 HORAS
+T40.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D18/1'18
+M100 Dna Erli, 50 Rocha
+T170.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D26/1'18
+MSAQUE 24H 01395326      
+T50.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D1/2'18
+MCXE     002204 SAQUE    
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D9/2'18
+MCXE     001388 SAQUE    
+T40.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D9/2'18
+MSAQUE 24H 07886419      
+T50.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D16/2'18
+MSAQUE 24H 06365308      
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D23/2'18
+MCXE     000364 SAQUE    
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D5/3'18
+MCXE     002246 SAQUE    
+T200.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D5/3'18
+MCXE 000190 SAQUE 03/03  
+T420.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D3/4'18
+MSAQUE AVULSO
+T900.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D26/3'18
+MSAQUE 24H 11658952 25/03
+T300.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D28/3'18
+MSAQUE 24H 01107770      
+T90.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D2/4'18
+MSAQUE 24H 01870476 30/03
+T80.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D10/4'18
+MSAQUE S/CARTAO CXE000364
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D7/8'18
+MSAQUE 24H 00860791      
+T200.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D7/8'18
+MSAQUE 24H 00985820      
+T40.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D13/8'18
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D13/9'18
+MDEPOSITO EM DINHEIRO NO ATM DEPOSITO EM DINHEIRO NO ATM DEPOSITO EM DINHEIRO NO ATM
+T-900.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D23/8'18
+MSAQUE 24H 05778097      
+T420.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D16/9'18
+MSAQUE 24H 12533238 16/09
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D17/10'18
+MSAQUE 24H 03114048      
+T170.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D19/10'18
+MSAQUE 24H 07535958      
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D22/10'18
+MSAQUE 24H 17907411      
+T220.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D5/11'18
+MSAQUE 24H 20297800 04/11
+T260.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D10/12'18
+MCXE     001826 SAQUE    
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D9/1'19
+MCXE     001479 SAQUE    
+T150.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D21/1'19
+MSAQUE B24H
+T700.00
+Ppor no bolso
+L[Caixa Corrente]
+^
+D31/1'19
+MCXE     000331 SAQUE    
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D13/2'19
+MSAQUE S/CARTAO CXE000737
+T60.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D25/2'19
+MCXE     000794 SAQUE    
+T130.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D13/3'19
+MSAQUE S/CARTAO CXE000679
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D1/4'19
+MSAQUE 24H 05989066 30/03
+T350.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D2/4'19
+MSAQUE S/CARTAO CXE000398
+T320.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D11/4'19
+MSAQUE S/CARTAO CXE001909
+T300.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D22/4'19
+MCXE     000984 SAQUE    
+T100.00
+Ppor no bolso
+L[ITAÚ UBB Corrente]
+^
+D1/3'19
+MSAQUE BANCO 24HS
+T120.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D25/3'19
+MSAQUE BANCO 24HS
+T100.00
+Ppor no bolso
+L[Santander Corrente]
+^
+D11/4'19
+MSAQUE TERMINAL
+T150.00
+Ppor no bolso
+L[Santander Corrente]
+^
