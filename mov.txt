@@ -1,0 +1,4180 @@
+!Type:Oth A
+D5/7'02
+T0.00
+CX
+POpening Balance
+L[CTIS contra-cheque]
+^
+D31/3'02
+T2,673.14
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E3contos
+$3,000.00
+SDescontos trabalhistas:Contribuição sindical
+Esindiocalizar-se? jamais
+$-100.00
+SDescontos trabalhistas:INSS S-Salário
+$-157.30
+SDescontos trabalhistas:IRRF S-Salário
+$-300.36
+SDescontos trabalhistas:Vale Refeição
+$-24.20
+SSalários e ordenado:SA FGTS
+Efundo de garantia dos tolos
+$255.00
+^
+D5/7'02
+T-2,317.81
+N452242
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D7/11'02
+T-2,308.67
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D6/8'02
+T-2,303.20
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D4/9'02
+T-2,303.21
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D7/10'02
+T-1,253.36
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D6/12'02
+T-2,366.79
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D7/1'03
+T-2,297.09
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D6/2'03
+T-2,518.94
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D29/11'02
+T1,220.62
+P13o 1a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+$1,125.00
+SSalários e ordenado:SA FGTS
+$95.62
+^
+D29/11'02
+Msf: 1164,91
+T-1,125.00
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D8/5'02
+T-9.56
+PImpostos
+LImpostos:CPMF
+^
+D8/5'02
+T-370.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D8/5'02
+T-65.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D7/6'02
+T-8.84
+PImpostos
+LImpostos:CPMF
+^
+D7/6'02
+T-370.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D7/6'02
+T-65.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D7/6'02
+T-1,884.46
+POG Outros Gastos
+LMiscelânea
+^
+D8/5'02
+MDep ag/c  1446.23529-1 Cristiane Ribeiro Machado
+T-210.00
+PFotos
+LLazer:Fotos
+^
+D8/5'02
+Materior era= 1.863,58
+T-113.58
+POG Outros Gastos
+LMiscelânea
+^
+D8/4'02
+T-9.18
+PImpostos
+LImpostos:CPMF
+^
+D8/4'02
+T-370.00
+PAluguel Apto 01/308
+LContas a pagar:Aluguel
+^
+D8/4'02
+T-65.00
+PCondomínio Apto 01/308
+LContas a pagar:Condomínio
+^
+D8/4'02
+T-1,973.96
+POG Outros Gastos
+LMiscelânea
+^
+D10/3'03
+T-2,575.20
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D7/4'03
+T-2,287.76
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D7/5'03
+T-2,392.12
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D6/6'03
+T-2,392.12
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D8/5'02
+T-750.00
+PUBB F: MasterCard
+L[UBB MasterCard]
+^
+D8/5'02
+T-1,000.00
+Pdeposito
+L[ITAÚ UBB Corrente]
+^
+D7/7'03
+T-2,367.58
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D6/8'03
+T-2,339.97
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D5/9'03
+T-2,310.82
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D29/9'03
+T-3,329.86
+PFerias CTIS -> BB
+L[BB Corrente]
+^
+D6/11'03
+T-3,100.07
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/10'03
+T1,550.04
+P13o 1a - salário
+LSalários e ordenado:13o Salário
+^
+D31/10'03
+T-1,550.04
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D6/10'03
+T-2,310.82
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/10'03
+T3,350.55
+P0002 - Dias trabalhados
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:SA FGTS
+Ech nov/03
+$250.48
+^
+D5/12'03
+T-2,310.82
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D7/1'04
+T-2,310.82
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D10/12'03
+T1,023.15
+P13o 2a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+E12 dias úteis
+$3,131.07
+SDescontos trabalhistas:Desc Adto 13o Salário
+$-1,550.04
+SDescontos trabalhistas:IRRF S-13o Salário
+E27,50
+$-352.26
+SDescontos trabalhistas:INSS S-13o Salário
+E11
+$-205.62
+^
+D19/12'03
+T-1,023.15
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D31/12'03
+T2,561.30
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-205.62
+SDescontos trabalhistas:IRRF S-Salário
+$-352.26
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SSalários e ordenado:SA FGTS
+$250.48
+^
+D30/11'03
+T2,561.30
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-205.62
+SDescontos trabalhistas:IRRF S-Salário
+$-352.26
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SSalários e ordenado:SA FGTS
+$250.48
+^
+D30/9'03
+T2,310.82
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-205.62
+SDescontos trabalhistas:IRRF S-Salário
+$-352.26
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+^
+D31/8'03
+T2,561.30
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-205.62
+SDescontos trabalhistas:IRRF S-Salário
+$-352.26
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SSalários e ordenado:SA FGTS
+$250.48
+^
+D31/7'03
+T2,606.11
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-205.62
+SDescontos trabalhistas:IRRF S-Salário
+$-323.11
+SDescontos trabalhistas:Ass Médica
+$-160.70
+SDescontos trabalhistas:Ass méd Depende
+$-101.67
+SSalários e ordenado:SA FGTS
+$266.14
+^
+D14/9'03
+M9/set/2002 a 8/set/2003
+T3,663.84
+PFerias vendidas 30 Dias
+LSalários e ordenado:Bônus
+SSalários e ordenado:Bônus
+E0020 - Insufic de Saldo
+$262.37
+SSalários e ordenado:Ferias
+E0041 - Férias no mês
+$3,131.07
+SSalários e ordenado:Ferias
+E0076 - 1/3 Férias no mês
+$1,043.69
+SDescontos trabalhistas:IRRF S-Férias
+E0030  27,5
+$-639.28
+SDescontos trabalhistas:INSS S-Férias
+E0082  11,0
+$-205.62
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SSalários e ordenado:SA FGTS
+$333.98
+^
+D30/4'02
+T2,773.14
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,000.00
+SDescontos trabalhistas:INSS S-Salário
+$-157.30
+SDescontos trabalhistas:IRRF S-Salário
+$-300.36
+SDescontos trabalhistas:Vale Refeição
+E11
+$-24.20
+SSalários e ordenado:SA FGTS
+$255.00
+^
+D31/5'02
+T2,583.30
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,000.00
+SDescontos trabalhistas:INSS S-Salário
+$-157.30
+SDescontos trabalhistas:IRRF S-Salário
+$-300.36
+SDescontos trabalhistas:Vale Refeição
+$-24.20
+SDescontos trabalhistas:Ass Médica
+$-189.84
+SSalários e ordenado:SA FGTS
+$255.00
+^
+D30/6'02
+T2,572.81
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,000.00
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-296.38
+SDescontos trabalhistas:Vale Refeição
+$-24.20
+SDescontos trabalhistas:Ass Médica
+$-189.84
+SSalários e ordenado:SA FGTS
+$255.00
+^
+D31/7'02
+T2,558.19
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$2,900.04
+SSalários e ordenado:Atestado médico
+$99.95
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-296.38
+SDescontos trabalhistas:Ass Médica
+$-204.44
+SDescontos trabalhistas:Vale Refeição
+$-24.20
+SSalários e ordenado:SA FGTS
+$254.99
+^
+D31/8'02
+T2,558.21
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,000.00
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-296.38
+SDescontos trabalhistas:Ass Médica
+$-204.44
+SDescontos trabalhistas:Vale Refeição
+$-24.20
+SSalários e ordenado:SA FGTS
+$255.00
+^
+D5/9'02
+M1/mar/2002 à 8/set/2006
+T1,744.50
+PFerias gozadas
+LSalários e ordenado:Ferias
+SSalários e ordenado:Ferias
+E200 - férias
+$1,500.00
+SSalários e ordenado:1-3 ferias mes
+E204 - 1/3 Férias
+$500.00
+SDescontos trabalhistas:IRRF S-Férias
+E422 - IRRF s/Férias
+$-83.73
+SDescontos trabalhistas:INSS S-Férias
+E425 - Provisão INSS Férias
+$-171.77
+^
+D5/9'02
+T-1,744.50
+PFerias CTIS -> BB
+L[BB Corrente]
+^
+D30/9'02
+T1,550.86
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$1,500.00
+SSalários e ordenado:Devol prov INSS Férias
+$171.77
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-34.50
+SDescontos trabalhistas:Ass Médica
+$-204.44
+SDescontos trabalhistas:Vale Refeição
+$-7.70
+SSalários e ordenado:SA FGTS
+$297.50
+^
+D31/10'02
+T2,563.67
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,000.00
+SSalários e ordenado:Diferença de Ticket
+$6.82
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-296.38
+SDescontos trabalhistas:Ass Médica
+$-204.44
+SDescontos trabalhistas:Vale Refeição
+$-25.56
+SSalários e ordenado:SA FGTS
+$255.00
+^
+D30/11'02
+T2,621.79
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,000.00
+SSalários e ordenado:Diferença de Ticket
+$39.38
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-296.38
+SDescontos trabalhistas:Ass Médica
+$-204.44
+SSalários e ordenado:SA FGTS
+$255.00
+^
+D20/12'02
+T1,161.22
+P13o 2a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+E9/12 avos
+$2,500.00
+SDescontos trabalhistas:Desc Adto 13o Salário
+$-1,125.00
+SDescontos trabalhistas:IRRF S-13o Salário
+E27,50
+$-158.88
+SDescontos trabalhistas:INSS S-13o Salário
+E11
+$-171.77
+SSalários e ordenado:SA FGTS
+$116.87
+^
+D20/12'02
+T-1,044.35
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D31/12'02
+T2,552.09
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,000.00
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-296.38
+SDescontos trabalhistas:Ass Médica
+$-143.80
+SDescontos trabalhistas:Ass méd Depende
+$-90.96
+SSalários e ordenado:SA FGTS
+$255.00
+^
+D31/1'03
+T2,799.45
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Diferença Salário
+$200.14
+SSalários e ordenado:Diferença de Ticket
+$35.20
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-378.94
+SDescontos trabalhistas:Contr assist médica mensal
+$-31.00
+SDescontos trabalhistas:Ass Médica
+$-143.80
+SDescontos trabalhistas:Ass méd Depende
+E222
+$-90.96
+SSalários e ordenado:SA FGTS
+$280.51
+^
+D28/2'03
+T2,862.80
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Diferença Salário
+$283.53
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-401.87
+SDescontos trabalhistas:Ass Médica
+$-143.80
+SDescontos trabalhistas:Ass méd Depende
+$-90.96
+SSalários e ordenado:SA FGTS
+$287.60
+^
+D31/3'03
+T2,553.90
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-332.42
+SDescontos trabalhistas:Ass Médica
+$-143.80
+SDescontos trabalhistas:Ass méd Depende
+$-90.96
+SDescontos trabalhistas:Contribuição sindical
+$-104.36
+SSalários e ordenado:SA FGTS
+$266.14
+^
+D30/4'03
+T2,658.26
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-332.42
+SDescontos trabalhistas:Ass Médica
+$-143.80
+SDescontos trabalhistas:Ass méd Depende
+$-90.96
+SSalários e ordenado:SA FGTS
+$266.14
+^
+D31/5'03
+T2,658.26
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-171.77
+SDescontos trabalhistas:IRRF S-Salário
+$-332.42
+SDescontos trabalhistas:Ass Médica
+$-143.80
+SDescontos trabalhistas:Ass méd Depende
+$-90.96
+SSalários e ordenado:SA FGTS
+$266.14
+^
+D30/6'03
+T2,633.72
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-205.62
+SDescontos trabalhistas:IRRF S-Salário
+$-323.11
+SDescontos trabalhistas:Ass Médica
+$-143.80
+SDescontos trabalhistas:Ass méd Depende
+$-90.96
+SSalários e ordenado:SA FGTS
+$266.14
+^
+D31/1'04
+T2,518.97
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-264.00
+SDescontos trabalhistas:IRRF S-Salário
+$-336.21
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SSalários e ordenado:SA FGTS
+$250.48
+^
+D6/2'04
+T-2,268.49
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D29/2'04
+T2,518.97
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$31.00
+SDescontos trabalhistas:INSS S-Salário
+$-264.00
+SDescontos trabalhistas:IRRF S-Salário
+$-336.21
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SSalários e ordenado:SA FGTS
+$250.48
+^
+D5/3'04
+T-2,268.49
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/3'04
+T2,438.53
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,100.07
+SSalários e ordenado:Anuênio
+$62.00
+SDescontos trabalhistas:INSS S-Salário
+$-264.00
+SDescontos trabalhistas:IRRF S-Salário
+$-344.73
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SDescontos trabalhistas:Contribuição sindical
+$-105.40
+SSalários e ordenado:SA FGTS
+$252.96
+^
+D6/4'04
+T-2,185.57
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/4'04
+T3,506.59
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,410.08
+SSalários e ordenado:Anuênio
+$68.20
+SSalários e ordenado:Diferença Salário
+E0455
+$574.80
+SSalários e ordenado:Diferença 13o Salário
+E0489
+$347.21
+SDescontos trabalhistas:INSS S-Salário
+$-264.00
+SDescontos trabalhistas:IRRF S-Salário
+$-589.76
+SDescontos trabalhistas:Contribuição sindical
+ETx Sindical
+$-34.10
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SDescontos trabalhistas:IRRF S-13o Salário
+E0481
+$-95.49
+SSalários e ordenado:SA FGTS
+$352.02
+^
+D6/5'04
+T-3,154.57
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/5'04
+T3,252.52
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,410.08
+SSalários e ordenado:Anuênio
+$68.20
+SSalários e ordenado:Diferença Salário
+E0455
+$574.80
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-586.48
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SSalários e ordenado:SA FGTS
+$324.24
+^
+D7/6'04
+T-2,928.28
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/6'04
+T3,252.52
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,410.08
+SSalários e ordenado:Anuênio
+$68.20
+SSalários e ordenado:Diferença Salário
+E0455
+$574.80
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-586.48
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SSalários e ordenado:SA FGTS
+$324.24
+^
+D7/7'04
+T-2,928.28
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/6'04
+T1,739.14
+P13o 1a - salário
+LSalários e ordenado:13o Salário
+^
+D30/6'04
+Msf: 1744,14 
+T-1,739.14
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D31/7'04
+T3,252.52
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,410.08
+SSalários e ordenado:Anuênio
+$68.20
+SSalários e ordenado:Diferença Salário
+E0455
+$574.80
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-586.48
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SSalários e ordenado:SA FGTS
+$324.24
+^
+D6/8'04
+T-2,928.28
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/8'04
+T2,961.19
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,410.08
+SSalários e ordenado:Anuênio
+$68.20
+SSalários e ordenado:Diferença de Ticket
+E0339
+$139.70
+SSalários e ordenado:Restit IRRF MP 202
+E0447
+$27.50
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-400.91
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SDescontos trabalhistas:Vale Refeição
+E0310 tiq SINDPD - RJ
+$-2.20
+SDescontos trabalhistas:Vale Refeição
+E0345 desc tiq retroativo RJ
+$-21.12
+SSalários e ordenado:SA FGTS
+$278.26
+^
+D6/9'04
+T-2,682.93
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/9'04
+T2,815.21
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,410.08
+SSalários e ordenado:Anuênio
+$68.20
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-400.91
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Ass méd Depende
+$-228.48
+SDescontos trabalhistas:Vale Refeição
+E0310 tiq SINDPD - RJ
+$-2.10
+SSalários e ordenado:SA FGTS
+$278.26
+^
+D6/10'04
+T-2,536.95
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/10'04
+T3,043.79
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,410.08
+SSalários e ordenado:Anuênio
+$68.20
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-400.91
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Vale Refeição
+E0310 tiq SINDPD - RJ
+$-2.00
+SSalários e ordenado:SA FGTS
+$278.26
+^
+D6/11'04
+T-2,765.53
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/11'04
+T3,043.79
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,410.08
+SSalários e ordenado:Anuênio
+$68.20
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-400.91
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SDescontos trabalhistas:Vale Refeição
+E0310 tiq SINDPD - RJ
+$-2.00
+SSalários e ordenado:SA FGTS
+$278.26
+^
+D6/12'04
+T-2,765.53
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D22/12'04
+T-1,200.98
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D20/12'04
+T1,223.93
+P13o 2a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+$3,669.58
+SDescontos trabalhistas:Desc Adto 13o Salário
+$-1,739.14
+SDescontos trabalhistas:IRRF S-13o Salário
+E27,50
+$-453.51
+SDescontos trabalhistas:INSS S-13o Salário
+E11
+$-275.95
+SSalários e ordenado:SA FGTS
+Eñ aparece no site
+$22.95
+^
+D31/12'04
+T3,423.31
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$71.95
+SSalários e ordenado:Diferença Salário
+$286.96
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-530.78
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-2.30
+SDescontos trabalhistas:Contribuição sindical
+EDissidio
+$-35.98
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SSalários e ordenado:SA FGTS
+$316.52
+SSalários e ordenado:Diferença Salário
+E???
+$29.15
+^
+D6/1'05
+T-3,077.64
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/3'02
+T-255.00
+PFGTS
+L[CTIS FGTS]
+^
+D30/4'02
+T-255.00
+PFGTS
+L[CTIS FGTS]
+^
+D31/5'02
+T-255.00
+PFGTS
+L[CTIS FGTS]
+^
+D30/6'02
+T-255.00
+PFGTS
+L[CTIS FGTS]
+^
+D31/7'02
+T-254.99
+PFGTS
+L[CTIS FGTS]
+^
+D31/8'02
+T-255.00
+PFGTS
+L[CTIS FGTS]
+^
+D30/9'02
+T-297.50
+PFGTS
+L[CTIS FGTS]
+^
+D31/10'02
+T-255.00
+PFGTS
+L[CTIS FGTS]
+^
+D30/11'02
+T-255.00
+PFGTS
+L[CTIS FGTS]
+^
+D31/12'02
+T-255.00
+PFGTS
+L[CTIS FGTS]
+^
+D31/1'03
+T-280.51
+PFGTS
+L[CTIS FGTS]
+^
+D28/2'03
+T-287.60
+PFGTS
+L[CTIS FGTS]
+^
+D31/3'03
+T-266.14
+PFGTS
+L[CTIS FGTS]
+^
+D30/4'03
+T-266.14
+PFGTS
+L[CTIS FGTS]
+^
+D31/5'03
+T-266.14
+PFGTS
+L[CTIS FGTS]
+^
+D30/6'03
+T-266.14
+PFGTS
+L[CTIS FGTS]
+^
+D31/7'03
+T-266.14
+PFGTS
+L[CTIS FGTS]
+^
+D31/8'03
+T-250.48
+PFGTS
+L[CTIS FGTS]
+^
+D29/11'02
+T-95.62
+PFGTS
+L[CTIS FGTS]
+^
+D20/12'02
+T-116.87
+PFGTS
+L[CTIS FGTS]
+^
+D14/9'03
+T-333.98
+PFGTS
+L[CTIS FGTS]
+^
+D31/10'03
+T-250.48
+PFGTS
+L[CTIS FGTS]
+^
+D30/11'03
+T-250.48
+PFGTS
+L[CTIS FGTS]
+^
+D31/12'03
+T-250.48
+PFGTS
+L[CTIS FGTS]
+^
+D31/1'04
+T-250.48
+PFGTS
+L[CTIS FGTS]
+^
+D29/2'04
+T-250.48
+PFGTS
+L[CTIS FGTS]
+^
+D31/3'04
+T-252.96
+PFGTS
+L[CTIS FGTS]
+^
+D30/4'04
+T-352.02
+PFGTS
+L[CTIS FGTS]
+^
+D31/5'04
+T-324.24
+PFGTS
+L[CTIS FGTS]
+^
+D30/6'04
+T-324.24
+PFGTS
+L[CTIS FGTS]
+^
+D31/7'04
+T-324.24
+PFGTS
+L[CTIS FGTS]
+^
+D31/8'04
+T-278.26
+PFGTS
+L[CTIS FGTS]
+^
+D30/9'04
+T-278.26
+PFGTS
+L[CTIS FGTS]
+^
+D31/10'04
+T-278.26
+PFGTS
+L[CTIS FGTS]
+^
+D30/11'04
+T-278.26
+PFGTS
+L[CTIS FGTS]
+^
+D31/12'04
+T-316.52
+PFGTS
+L[CTIS FGTS]
+^
+D20/12'04
+T-22.95
+PFGTS
+L[CTIS FGTS]
+^
+D10/1'05
+T-29.15
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/1'05
+T3,526.98
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$71.95
+SSalários e ordenado:Diferença Salário
+$286.96
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-482.46
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-2.10
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SSalários e ordenado:Restit IRRF MP 202
+E0191
+$48.32
+SSalários e ordenado:SA FGTS
+$316.52
+^
+D31/1'05
+T-316.52
+PFGTS
+L[CTIS FGTS]
+^
+D9/2'05
+Mdoc: 257850
+T-3,210.46
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D28/2'05
+T3,247.97
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$71.95
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-403.54
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-1.80
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SSalários e ordenado:SA FGTS
+$293.57
+^
+D6/3'05
+T-2,954.40
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D28/2'05
+T-293.57
+PFGTS
+L[CTIS FGTS]
+^
+D31/3'05
+T3,156.60
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$107.93
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-413.44
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-2.20
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SSalários e ordenado:SA FGTS
+$296.44
+SDescontos trabalhistas:Contribuição sindical
+$-119.92
+^
+D31/3'05
+T-296.44
+PFGTS
+L[CTIS FGTS]
+^
+D6/4'05
+T-2,860.16
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/4'05
+T3,276.72
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$107.93
+SDescontos trabalhistas:INSS S-Salário
+$-275.95
+SDescontos trabalhistas:IRRF S-Salário
+$-413.44
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-2.00
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SSalários e ordenado:SA FGTS
+$296.44
+^
+D6/5'05
+T-2,980.28
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/4'05
+T-296.44
+PFGTS
+L[CTIS FGTS]
+^
+D1/6'05
+T-296.44
+PFGTS
+L[CTIS FGTS]
+^
+D31/5'05
+T3,263.91
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$107.93
+SDescontos trabalhistas:INSS S-Salário
+$-293.49
+SDescontos trabalhistas:IRRF S-Salário
+$-408.61
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-2.10
+SDescontos trabalhistas:Ass Médica
+$-33.89
+SSalários e ordenado:SA FGTS
+$296.44
+^
+D6/6'05
+MSALARIO
+T-2,967.47
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/6'05
+T3,259.99
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$107.93
+SDescontos trabalhistas:INSS S-Salário
+$-293.49
+SDescontos trabalhistas:IRRF S-Salário
+$-408.61
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-2.20
+SDescontos trabalhistas:Ass Médica
+$-37.71
+SSalários e ordenado:SA FGTS
+$296.44
+^
+D6/7'05
+MSALARIO
+T-2,963.55
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D29/6'05
+M9/set/2003 a 8/set/2004
+T3,865.08
+PFerias vendidas 30 Dias
+LSalários e ordenado:Ferias
+SSalários e ordenado:Ferias
+E038 - férias
+$3,705.56
+SSalários e ordenado:1-3 ferias mes
+E040 - 1/3 Férias
+$1,235.19
+SDescontos trabalhistas:IRRF S-Férias
+E030 - IRRF s/Férias
+$-748.29
+SDescontos trabalhistas:INSS S-Férias
+E082 - Provisão INSS Férias
+$-293.49
+SDescontos trabalhistas:Ass Médica
+$-33.89
+^
+D29/6'05
+T-3,865.08
+PFerias CTIS -> BB
+L[BB Corrente]
+^
+D30/6'05
+T-296.44
+PFGTS
+L[CTIS FGTS]
+^
+D6/8'05
+MDepósito Online
+T-3,597.63
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/7'05
+MContra-cheque PAGAMENTO DA CTIS
+T395.26
+PCTIS Contra-cheque
+LSalários e ordenado:Bônus
+SSalários e ordenado:Bônus
+E0020 - Insufic de Saldo
+$10.60
+SSalários e ordenado:Ferias
+$3,705.56
+SSalários e ordenado:1-3 ferias mes
+$1,235.19
+SDescontos trabalhistas:IRRF S-Férias
+$-748.29
+SDescontos trabalhistas:Desc Adto Férias
+$-3,865.08
+SDescontos trabalhistas:INSS S-Férias
+$-293.49
+SDescontos trabalhistas:Ass Médica
+$-44.49
+SSalários e ordenado:SA FGTS
+$395.26
+^
+D31/7'05
+Mzzzzzzzzzz      2.963,55
+T-395.26
+PFGTS
+L[CTIS FGTS]
+^
+D31/7'05
+M????
+T3,597.63
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+^
+D6/9'05
+MSALARIO
+T-2,948.56
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D1/9'05
+T-296.44
+N452243
+PFGTS
+L[CTIS FGTS]
+^
+D31/8'05
+T3,245.00
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$107.93
+SDescontos trabalhistas:INSS S-Salário
+$-293.49
+SDescontos trabalhistas:IRRF S-Salário
+$-408.61
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-2.30
+SDescontos trabalhistas:Ass Médica
+$-42.00
+SSalários e ordenado:Diferença Salário
+$-10.60
+SSalários e ordenado:SA FGTS
+$296.44
+^
+D30/9'05
+T3,297.80
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$107.93
+SDescontos trabalhistas:INSS S-Salário
+$-293.49
+SDescontos trabalhistas:IRRF S-Salário
+$-408.61
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-2.10
+SSalários e ordenado:SA FGTS
+$296.44
+^
+D1/10'05
+T-296.44
+PFGTS
+L[CTIS FGTS]
+^
+D6/10'05
+Mteste SALARIO
+T-3,001.36
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/10'05
+T3,297.90
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$107.93
+SDescontos trabalhistas:INSS S-Salário
+$-293.49
+SDescontos trabalhistas:IRRF S-Salário
+$-408.61
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-2.00
+SSalários e ordenado:SA FGTS
+$296.44
+^
+D1/11'05
+T-296.44
+PFGTS
+L[CTIS FGTS]
+^
+D6/11'05
+Mteste SALARIO
+T-3,001.46
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D6/12'05
+Mteste SALARIO
+T-3,001.46
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D1/12'05
+T-296.44
+PFGTS
+L[CTIS FGTS]
+^
+D30/11'05
+Mteste
+T3,297.90
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,597.63
+SSalários e ordenado:Anuênio
+$107.93
+SDescontos trabalhistas:INSS S-Salário
+$-293.49
+SDescontos trabalhistas:IRRF S-Salário
+$-408.61
+SDescontos trabalhistas:Vale Refeição
+E0223-Tiquete
+$-2.00
+SSalários e ordenado:SA FGTS
+$296.44
+^
+D30/11'05
+T1,852.78
+P13o 1a - salário
+LSalários e ordenado:13o Salário
+^
+D30/11'05
+Msf: 2488,41
+T-1,852.78
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D20/12'05
+T1,150.68
+P13o 2a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+$3,705.56
+SDescontos trabalhistas:Desc Adto 13o Salário
+$-1,852.78
+SDescontos trabalhistas:IRRF S-13o Salário
+E27,50
+$-408.61
+SDescontos trabalhistas:INSS S-13o Salário
+E11
+$-293.49
+^
+D20/12'05
+MSALARIO
+T-1,150.68
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D31/12'05
+T3,989.69
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$113.33
+SSalários e ordenado:Diferença de Ticket
+$95.40
+SSalários e ordenado:Diferença Salário
+$555.83
+SDescontos trabalhistas:INSS S-Salário
+$-293.49
+SDescontos trabalhistas:IRRF S-Salário
+$-612.42
+SDescontos trabalhistas:Vale Refeição
+$-2.20
+SSalários e ordenado:SA FGTS
+$355.73
+^
+D6/1'06
+MSALARIO
+T-3,633.96
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D1/1'06
+T-355.73
+PFGTS
+L[CTIS FGTS]
+^
+D10/1'06
+T120.15
+P13o 1a - salário
+LSalários e ordenado:13o Salário
+^
+D10/1'06
+MSALARIO
+T-120.15
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D31/1'06
+T3,446.63
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$113.33
+SDescontos trabalhistas:INSS S-Salário
+$-293.49
+SDescontos trabalhistas:IRRF S-Salário
+$-459.57
+SDescontos trabalhistas:Vale Refeição
+$-2.42
+SSalários e ordenado:SA FGTS
+$311.27
+^
+D1/2'06
+T-311.27
+PFGTS
+L[CTIS FGTS]
+^
+D6/2'06
+MSALARIO
+T-3,135.36
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D28/2'06
+T3,489.45
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$113.33
+SDescontos trabalhistas:INSS S-Salário
+$-293.49
+SDescontos trabalhistas:IRRF S-Salário
+$-417.19
+SDescontos trabalhistas:Vale Refeição
+$-1.98
+SSalários e ordenado:SA FGTS
+$311.27
+^
+D1/3'06
+T-311.27
+PFGTS
+L[CTIS FGTS]
+^
+D6/3'06
+MSALARIO
+T-3,178.18
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/3'06
+M11111111
+T3,393.38
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$151.10
+SDescontos trabalhistas:INSS S-Salário
+$-293.49
+SDescontos trabalhistas:IRRF S-Salário
+$-427.58
+SDescontos trabalhistas:Vale Refeição
+$-2.53
+SSalários e ordenado:SA FGTS
+$314.29
+SDescontos trabalhistas:Contribuição sindical
+$-125.92
+^
+D1/4'06
+T-314.29
+PFGTS
+L[CTIS FGTS]
+^
+D6/4'06
+MSALARIO
+T-3,079.09
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/4'06
+M11111111
+T3,509.21
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$151.10
+SDescontos trabalhistas:INSS S-Salário
+$-308.17
+SDescontos trabalhistas:IRRF S-Salário
+$-423.54
+SDescontos trabalhistas:Vale Refeição
+$-1.98
+SSalários e ordenado:SA FGTS
+$314.29
+^
+D1/5'06
+T-314.29
+PFGTS
+L[CTIS FGTS]
+^
+D8/5'06
+T-3,194.92
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/5'06
+T3,509.21
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$151.10
+SDescontos trabalhistas:INSS S-Salário
+$-308.17
+SDescontos trabalhistas:IRRF S-Salário
+$-423.54
+SDescontos trabalhistas:Vale Refeição
+$-1.98
+SSalários e ordenado:SA FGTS
+$314.29
+^
+D1/6'06
+T-314.29
+PFGTS
+L[CTIS FGTS]
+^
+D6/6'06
+MSALARIO
+T-3,194.48
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D26/6'06
+T4,146.33
+PFerias gozadas
+LSalários e ordenado:Ferias
+SSalários e ordenado:Ferias
+E0038 - férias
+$3,928.61
+SSalários e ordenado:1-3 ferias mes
+E0040 - 1/3 Férias
+$1,309.54
+SDescontos trabalhistas:IRRF S-Férias
+E0030 - IRRF s/Férias
+$-783.66
+SDescontos trabalhistas:INSS S-Férias
+E0082 - Provisão INSS Férias
+$-308.16
+^
+D26/6'06
+MSALARIO
+T-4,146.33
+PFerias CTIS -> BB
+L[BB Corrente]
+^
+D30/6'06
+T2,692.03
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$151.10
+SDescontos trabalhistas:INSS S-Salário
+$-308.17
+SDescontos trabalhistas:IRRF S-Salário
+$-423.54
+SDescontos trabalhistas:Vale Refeição
+$-1.98
+SSalários e ordenado:SA FGTS
+$314.29
+S
+$-817.18
+^
+D6/7'06
+MSALARIO
+T-2,692.03
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/7'06
+T870.68
+PFerias gozadas
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$629.59
+SSalários e ordenado:Anuênio
+$25.18
+SSalários e ordenado:Ferias
+$3,273.84
+SSalários e ordenado:1-3 ferias mes
+$1,091.28
+SSalários e ordenado:Devol prov INSS Férias
+$179.88
+SDescontos trabalhistas:Vale Refeição
+$-2.10
+SSalários e ordenado:Devol prov INSS Férias
+$-4,365.12
+SDescontos trabalhistas:Plano Odontológico
+$-14.25
+SSalários e ordenado:SA FGTS
+$52.38
+^
+D1/8'06
+T-52.38
+PFGTS
+L[CTIS FGTS]
+^
+D7/8'06
+MSALARIO
+T-818.30
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/8'06
+T3,494.62
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$151.10
+SDescontos trabalhistas:INSS S-Salário
+$-308.20
+SDescontos trabalhistas:IRRF S-Salário
+$-423.53
+SDescontos trabalhistas:Vale Refeição
+$-2.30
+SSalários e ordenado:SA FGTS
+$314.29
+SDescontos trabalhistas:Plano Odontológico
+$-14.25
+^
+D1/9'06
+T-314.29
+PFGTS
+L[CTIS FGTS]
+^
+D6/9'06
+MSALARIO
+T-3,180.33
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/7'06
+T-0.44
+P########ajuste da conta#########
+^
+D30/9'06
+T3,494.92
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$151.10
+SDescontos trabalhistas:INSS S-Salário
+$-308.20
+SDescontos trabalhistas:IRRF S-Salário
+$-423.53
+SDescontos trabalhistas:Vale Refeição
+$-2.00
+SSalários e ordenado:SA FGTS
+$314.29
+SDescontos trabalhistas:Plano Odontológico
+$-14.25
+^
+D1/10'06
+T-314.29
+PFGTS
+L[CTIS FGTS]
+^
+D6/10'06
+MSALARIO
+T-3,180.63
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D7/11'06
+MSALARIO
+T-3,180.53
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/10'06
+T3,494.82
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$151.10
+SDescontos trabalhistas:INSS S-Salário
+$-308.20
+SDescontos trabalhistas:IRRF S-Salário
+$-423.53
+SDescontos trabalhistas:Vale Refeição
+$-2.10
+SSalários e ordenado:SA FGTS
+$314.29
+SDescontos trabalhistas:Plano Odontológico
+$-14.25
+^
+D31/10'06
+M/////////////
+T-314.29
+PFGTS
+L[CTIS FGTS]
+^
+D30/11'06
+T3,494.82
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,777.51
+SSalários e ordenado:Anuênio
+$151.10
+SDescontos trabalhistas:INSS S-Salário
+$-308.20
+SDescontos trabalhistas:IRRF S-Salário
+$-423.53
+SDescontos trabalhistas:Vale Refeição
+$-2.10
+SSalários e ordenado:SA FGTS
+$314.29
+SDescontos trabalhistas:Plano Odontológico
+$-14.25
+^
+D6/12'06
+MSALARIO
+T-3,180.63
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/11'06
+T-314.29
+PFGTS
+L[CTIS FGTS]
+^
+D30/11'06
+T1,964.31
+P13o 1a - salário
+LSalários e ordenado:13o Salário
+^
+D20/12'06
+T1,318.12
+P13o 2a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+$3,705.56
+SDescontos trabalhistas:Desc Adto 13o Salário
+$-1,852.78
+SDescontos trabalhistas:IRRF S-13o Salário
+E27,50
+$-408.61
+SDescontos trabalhistas:INSS S-13o Salário
+E11
+$-293.49
+S
+$167.44
+^
+D30/11'06
+Msf: 2682,28
+T-1,964.31
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D31/12'06
+T3,841.45
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$155.63
+SDescontos trabalhistas:INSS S-Salário
+$-308.20
+SDescontos trabalhistas:IRRF S-Salário
+$-553.17
+SDescontos trabalhistas:Vale Refeição
+$-2.06
+SSalários e ordenado:SA FGTS
+$352.00
+SDescontos trabalhistas:Plano Odontológico
+$-14.25
+SSalários e ordenado:Diferença Salário
+$353.57
+SSalários e ordenado:Diferença de Ticket
+$6.00
+SDescontos trabalhistas:Contribuição sindical
+Edissídio
+$-38.91
+^
+D31/12'06
+T-352.00
+PFGTS
+L[CTIS FGTS]
+^
+D6/1'07
+MProventos
+T-3,489.45
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D20/12'06
+MProventos
+T-1,318.02
+P13o - salário DEPÓSITO
+L[BB Corrente]
+^
+D31/1'07
+T3,615.26
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$155.63
+SDescontos trabalhistas:INSS S-Salário
+$-308.20
+SDescontos trabalhistas:IRRF S-Salário
+$-430.20
+SDescontos trabalhistas:Vale Refeição
+$-2.27
+SSalários e ordenado:SA FGTS
+$323.71
+SDescontos trabalhistas:Plano Odontológico
+$-14.25
+^
+D6/2'07
+MProventos
+T-3,291.55
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/1'07
+T-323.71
+PFGTS
+L[CTIS FGTS]
+^
+D28/2'07
+T2,722.08
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$155.63
+SDescontos trabalhistas:INSS S-Salário
+$-308.20
+SDescontos trabalhistas:IRRF S-Salário
+$-430.20
+SDescontos trabalhistas:Vale Refeição
+$-1.96
+SSalários e ordenado:SA FGTS
+$323.71
+SEmpréstimo:Parcela
+$-893.49
+SDescontos trabalhistas:Plano Odontológico
+$-14.25
+^
+D28/2'07
+T-323.71
+PFGTS
+L[CTIS FGTS]
+^
+D6/3'07
+MProventos
+T-2,398.37
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/3'07
+M66666666666666666
+T2,623.41
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$194.54
+SDescontos trabalhistas:INSS S-Salário
+$-308.20
+SDescontos trabalhistas:IRRF S-Salário
+$-440.90
+SDescontos trabalhistas:Vale Refeição
+$-2.27
+SSalários e ordenado:SA FGTS
+$326.83
+SEmpréstimo:Parcela
+$-893.49
+SDescontos trabalhistas:Contribuição sindical
+$-129.69
+SDescontos trabalhistas:Plano Odontológico
+$-14.25
+^
+D31/3'07
+T-326.83
+PFGTS
+L[CTIS FGTS]
+^
+D6/4'07
+M666666666666666666 Proventos
+T-2,296.58
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/4'07
+T2,745.93
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$194.54
+SDescontos trabalhistas:INSS S-Salário
+$-318.37
+SDescontos trabalhistas:IRRF S-Salário
+$-436.11
+SDescontos trabalhistas:Vale Refeição
+$-2.06
+SSalários e ordenado:SA FGTS
+$326.83
+SEmpréstimo:Parcela
+$-893.49
+SDescontos trabalhistas:Plano Odontológico
+$-16.25
+^
+D30/4'07
+T-326.83
+PFGTS
+L[CTIS FGTS]
+^
+D6/5'07
+M1 Proventos
+T-2,419.10
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/5'07
+T2,744.50
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$194.54
+SDescontos trabalhistas:INSS S-Salário
+$-318.37
+SDescontos trabalhistas:IRRF S-Salário
+$-438.11
+SDescontos trabalhistas:Vale Refeição
+$-2.27
+SSalários e ordenado:SA FGTS
+$326.83
+SEmpréstimo:Parcela
+$-893.49
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SDescontos trabalhistas:Plano Odontológico
+E5/2007 ??
+$-0.61
+^
+D31/5'07
+T-326.83
+PFGTS
+L[CTIS FGTS]
+^
+D6/6'07
+Msf: 2507,20 Recebimento de Proventos
+T-2,417.67
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/6'07
+T2,745.32
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$194.54
+SDescontos trabalhistas:INSS S-Salário
+$-318.37
+SDescontos trabalhistas:IRRF S-Salário
+$-438.11
+SDescontos trabalhistas:Vale Refeição
+$-2.06
+SSalários e ordenado:SA FGTS
+$326.83
+SEmpréstimo:Parcela
+$-893.49
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+^
+D30/6'07
+T-326.83
+PFGTS
+L[CTIS FGTS]
+^
+D6/7'07
+MRecebimento de Proventos
+T-2,418.49
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/7'07
+T361.46
+PFerias gozadas
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E10dias
+$1,296.95
+SSalários e ordenado:13o Salário
+$2,042.69
+SSalários e ordenado:Anuênio
+$64.85
+SSalários e ordenado:Abono
+E10d
+$1,361.79
+SSalários e ordenado:Ferias
+E20d
+$2,723.59
+SSalários e ordenado:1-3 Abono
+$453.93
+SSalários e ordenado:1-3 ferias mes
+$907.86
+SDescontos trabalhistas:INSS S-Salário
+$-106.13
+SDescontos trabalhistas:IRRF S-Férias
+$-841.78
+SSalários e ordenado:Devol prov INSS Férias
+$-6,420.98
+SDescontos trabalhistas:INSS S-Férias
+$-212.24
+SDespesas de trabalho:Refeição
+$-0.72
+SEmpréstimo:Parcela
+$-893.49
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+^
+D7/8'07
+MRecebimento de Proventos
+T-361.46
+PFerias CTIS -> BB
+L[BB Corrente]
+^
+D5/7'07
+M/////////
+T6,420.98
+PFerias gozadas
+LSalários e ordenado:Ferias
+SSalários e ordenado:Ferias
+E0038 - férias
+$2,723.59
+SSalários e ordenado:1-3 ferias mes
+E0040 - 1/3 Férias
+$907.86
+SDescontos trabalhistas:IRRF S-Férias
+E0030 - IRRF s/Férias
+$-841.78
+SDescontos trabalhistas:INSS S-Férias
+E0082 - Provisão INSS Férias
+$-212.24
+SSalários e ordenado:13o Salário
+E0009 - 1a Parc 13oSal
+$2,042.69
+SSalários e ordenado:Abono
+E0039 - Abono pecuniário
+$1,361.79
+SSalários e ordenado:1-3 Abono
+E0056 - 1/3 abono pecuniário
+$453.93
+SDescontos trabalhistas:Plano Odontológico
+E0548 - desc plano odonto
+$-14.86
+^
+D5/7'07
+M////////// Recebimento de Proventos
+T-6,420.98
+PFerias CTIS -> BB
+L[BB Corrente]
+^
+D31/8'07
+T3,638.50
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$194.54
+SDescontos trabalhistas:INSS S-Salário
+$-318.37
+SDescontos trabalhistas:IRRF S-Salário
+$-438.11
+SDescontos trabalhistas:Vale Refeição
+$-2.37
+SSalários e ordenado:SA FGTS
+$326.83
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+^
+D31/8'07
+T-326.83
+PFGTS
+L[CTIS FGTS]
+^
+D5/9'07
+MRecebimento de Proventos
+T-3,311.67
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D30/9'07
+T3,638.91
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$194.54
+SDescontos trabalhistas:INSS S-Salário
+$-318.37
+SDescontos trabalhistas:IRRF S-Salário
+$-438.11
+SDescontos trabalhistas:Vale Refeição
+$-1.96
+SSalários e ordenado:SA FGTS
+$326.83
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+^
+D30/9'07
+T-326.83
+PFGTS
+L[CTIS FGTS]
+^
+D5/10'07
+MRecebimento de Proventos
+T-3,312.08
+PSalário CTIS -> BB
+L[BB Corrente]
+^
+D31/10'07
+T3,638.60
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$194.54
+SDescontos trabalhistas:INSS S-Salário
+$-318.37
+SDescontos trabalhistas:IRRF S-Salário
+$-438.11
+SDescontos trabalhistas:Vale Refeição
+$-2.27
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$326.83
+^
+D8/11'07
+T-3,311.77
+PSalário CTIS -> BB
+L[Santander Corrente]
+^
+D30/11'07
+T3,638.81
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$194.54
+SDescontos trabalhistas:INSS S-Salário
+$-318.37
+SDescontos trabalhistas:IRRF S-Salário
+$-438.11
+SDescontos trabalhistas:Vale Refeição
+$-2.06
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$326.83
+^
+D30/11'07
+T-326.83
+PFGTS
+L[CTIS FGTS]
+^
+D6/12'07
+T-3,311.98
+PSalário CTIS -> BB
+L[Santander Corrente]
+^
+D20/12'07
+T1,293.02
+P13o 2a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+$3,890.84
+SDescontos trabalhistas:Desc Adto 13o Salário
+$-2,042.69
+SDescontos trabalhistas:IRRF S-13o Salário
+E27,50
+$-384.61
+SDescontos trabalhistas:INSS S-13o Salário
+E11
+$-318.37
+SSalários e ordenado:SA FGTS
+$147.85
+^
+D20/12'07
+MProventos
+T-1,145.17
+P13o - salário DEPÓSITO
+L[Santander Corrente]
+^
+D21/12'07
+T-147.85
+PFGTS
+L[CTIS FGTS]
+^
+D31/12'07
+T3,509.10
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$3,890.84
+SSalários e ordenado:Anuênio
+$0.00
+SDescontos trabalhistas:INSS S-Salário
+$-318.37
+SDescontos trabalhistas:IRRF S-Salário
+$-357.71
+SDescontos trabalhistas:Vale Refeição
+$-2.06
+SSalários e ordenado:SA FGTS
+$311.26
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+^
+D5/1'08
+T-3,197.84
+PSalário CTIS -> BB
+L[Santander Corrente]
+^
+D31/12'07
+T-311.26
+PFGTS
+L[CTIS FGTS]
+^
+D31/10'07
+T-326.83
+PFGTS
+L[CTIS FGTS]
+^
+D31/1'08
+T4,527.31
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$4,287.70
+SSalários e ordenado:Anuênio
+$0.00
+SDescontos trabalhistas:INSS S-Salário
+$-318.37
+SDescontos trabalhistas:IRRF S-Salário
+$-690.36
+SDescontos trabalhistas:Vale Refeição
+$-2.42
+SSalários e ordenado:SA FGTS
+$408.03
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:Diferença Salário
+$291.81
+SSalários e ordenado:Diferença de Ticket
+$44.80
+SSalários e ordenado:Diferença Salário
+$419.82
+SSalários e ordenado:Diferença 13o Salário
+$101.16
+^
+D31/1'08
+T-408.03
+PFGTS
+L[CTIS FGTS]
+^
+D7/2'08
+T-4,119.28
+PSalário CTIS -> BB
+L[Santander Corrente]
+^
+D29/2'08
+T-384.69
+PFGTS
+L[CTIS FGTS]
+^
+D28/2'08
+T4,241.28
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$4,287.70
+SSalários e ordenado:Diferença Salário
+$419.82
+SSalários e ordenado:Diferença 13o Salário
+$101.16
+SDescontos trabalhistas:INSS S-Salário
+$-318.37
+SDescontos trabalhistas:IRRF S-Salário
+$-610.12
+SDescontos trabalhistas:Vale Refeição
+$-2.20
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SDescontos trabalhistas:Vale Refeição
+E2a via
+$-6.54
+SSalários e ordenado:SA FGTS
+$384.69
+^
+D5/3'08
+T-3,856.59
+PSalário CTIS -> BB
+L[Santander Corrente]
+^
+D31/3'08
+M1212
+T3,659.98
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E0002
+$4,287.70
+SDescontos trabalhistas:INSS S-Salário
+E0003
+$-334.28
+SDescontos trabalhistas:IRRF S-Salário
+E0004
+$-462.47
+SDescontos trabalhistas:Contribuição sindical
+E0012
+$-142.92
+SDescontos trabalhistas:Vale Refeição
+E0223
+$-2.20
+SDescontos trabalhistas:Vale Refeição
+E0279
+$-14.00
+SDescontos trabalhistas:Plano Odontológico
+E0548
+$-14.86
+SSalários e ordenado:SA FGTS
+$343.01
+^
+D31/3'08
+T-343.01
+PFGTS
+L[CTIS FGTS]
+^
+D4/4'08
+MLIQUIDO DE VENCIM
+T-3,316.97
+PSalário CTIS -> BB
+L[Santander Corrente]
+^
+D30/4'08
+T3,816.79
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$4,287.70
+SDescontos trabalhistas:INSS S-Salário
+$-334.28
+SDescontos trabalhistas:IRRF S-Salário
+$-462.47
+SDescontos trabalhistas:Vale Refeição
+$-2.31
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$343.01
+^
+D30/4'08
+T-343.01
+PFGTS
+L[CTIS FGTS]
+^
+D7/5'08
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,473.78
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/5'08
+M22222222222222
+T3,816.90
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$4,287.70
+SDescontos trabalhistas:INSS S-Salário
+$-334.28
+SDescontos trabalhistas:IRRF S-Salário
+$-462.47
+SDescontos trabalhistas:Vale Refeição
+$-2.20
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$343.01
+^
+D30/5'08
+T-343.01
+PFGTS
+L[CTIS FGTS]
+^
+D7/6'08
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,473.89
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D4/7'08
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-1,396.76
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D31/10'08
+T4,764.12
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$4,287.70
+SDescontos trabalhistas:INSS S-Salário
+$-334.28
+SDescontos trabalhistas:IRRF S-Salário
+$-462.47
+SDescontos trabalhistas:IRRF S-Salário
+Edevolução
+$947.44
+SDespesas de trabalho:Refeição
+$-2.42
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$343.01
+^
+D6/11'08
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-4,421.11
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/11'08
+T3,816.90
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$4,287.70
+SDescontos trabalhistas:INSS S-Salário
+$-334.28
+SDescontos trabalhistas:IRRF S-Salário
+$-462.47
+SDespesas de trabalho:Refeição
+$-2.20
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$343.01
+^
+D5/12'08
+MLIQUIDO DE VENCIM
+T-3,473.89
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D28/11'08
+Msf: 2499,47  LIQUIDO DE VENCIM
+T-1,786.54
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D19/12'08
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-1,469.54
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/12'08
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,421.48
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/10'08
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-1,283.41
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D27/11'08
+T1,929.46
+P13o 1a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+$1,786.54
+SSalários e ordenado:SA FGTS
+$142.92
+^
+D18/12'08
+T1,643.71
+P13o 2a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+$3,844.64
+SDescontos trabalhistas:Desc Adto 13o Salário
+$-1,786.54
+SDescontos trabalhistas:IRRF S-13o Salário
+E27,50
+$-373.38
+SDescontos trabalhistas:INSS S-13o Salário
+E11
+$-334.28
+SSalários e ordenado:SA FGTS
+$174.17
+SSalários e ordenado:Bônus
+E0326 - médias de gratificaão - 13o salário
+$119.10
+^
+D18/12'08
+T-174.17
+PFGTS
+L[CTIS FGTS]
+^
+D30/6'08
+T1,545.40
+PCTIS Contra-cheque
+LSalários e ordenado:Atestado médico
+SSalários e ordenado:Atestado médico
+E13 dias
+$1,858.00
+SDescontos trabalhistas:INSS S-Salário
+$-204.38
+SSalários e ordenado:Diferença de Ticket
+$-242.00
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$148.64
+^
+D5/9'08
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-887.69
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D31/8'08
+T1,257.39
+PCTIS Contra-cheque
+LSalários e ordenado:Dias Trabalhados
+SSalários e ordenado:Dias Trabalhados
+E002 - 15,00
+$2,143.85
+SDescontos trabalhistas:INSS S-Salário
+E003 - 11,00
+$-256.28
+SDescontos trabalhistas:IRRF S-Salário
+$-35.81
+SDescontos trabalhistas:Desc SALDO insuficiente
+$-14.86
+SDescontos trabalhistas:INSS S-Férias
+$-855.51
+SSalários e ordenado:Ferias
+E7 dias
+$1,000.46
+SSalários e ordenado:Ferias
+E23 dias
+$3,287.24
+SDescontos trabalhistas:Desc Adto Férias
+$-4,512.29
+SDescontos trabalhistas:IRRF S-Férias
+E27,50
+$-947.44
+SSalários e ordenado:1-3 ferias mes
+$333.49
+SSalários e ordenado:1-3 ferias mes
+$1,095.74
+SDescontos trabalhistas:INSS S-Férias
+$-78.00
+SDescontos trabalhistas:INSS S-Férias
+$-256.28
+SSalários e ordenado:Ticket mensal
+$121.00
+SSalários e ordenado:Ticket mensal
+$-121.00
+SDescontos trabalhistas:Vale Refeição
+$-1.76
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.70
+^
+D30/9'08
+T1,828.42
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E002 - 7 dias trabalhados
+$1,000.46
+SDescontos trabalhistas:INSS S-Salário
+$-78.00
+SDescontos trabalhistas:IRRF S-Salário
+$-105.43
+SDescontos trabalhistas:Desc Adto Férias
+Eférias pagas mês anterior
+$3,287.24
+SDescontos trabalhistas:IRRF S-Férias
+EIRRF dif férias
+$-947.44
+SSalários e ordenado:1-3 ferias mes
+Emês anterior
+$1,095.74
+SSalários e ordenado:Bônus
+Egratificação
+$1,429.23
+SSalários e ordenado:Ticket mensal
+Ecredito vale retroativo
+$66.00
+SDescontos trabalhistas:Vale Refeição
+E5 dias
+$0.55
+SSalários e ordenado:Ticket mensal
+$-66.00
+SDescontos trabalhistas:Desc Adto Férias
+$-4,382.98
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+S
+$-1.10
+SSalários e ordenado:SA FGTS
+$545.01
+^
+D5/10'08
+T-545.01
+PFGTS
+L[CTIS FGTS]
+^
+D4/12'08
+T-343.01
+PFGTS
+L[CTIS FGTS]
+^
+D5/11'08
+T-343.01
+PFGTS
+L[CTIS FGTS]
+^
+D3/7'08
+T-148.64
+PFGTS
+L[CTIS FGTS]
+^
+D4/9'08
+T-369.70
+PFGTS
+L[CTIS FGTS]
+^
+D27/11'08
+T-142.92
+PFGTS
+L[CTIS FGTS]
+^
+D31/12'08
+T4,782.17
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-334.28
+SDescontos trabalhistas:IRRF S-Salário
+$-634.69
+SDespesas de trabalho:Refeição
+$-2.64
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$427.30
+SSalários e ordenado:Diferença Salário
+$727.77
+^
+D5/1'09
+T-427.30
+PFGTS
+L[CTIS FGTS]
+^
+D5/1'09
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-4,354.87
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D29/12'08
+T3,421.48
+P########ajuste da conta#########
+^
+D30/1'09
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-69.00
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/2'09
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-1,712.68
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D31/1'09
+T2,190.43
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E10dias
+$1,537.86
+SDescontos trabalhistas:INSS S-Salário
+$-111.43
+SDescontos trabalhistas:IRRF S-Salário
+$-441.76
+SDespesas de trabalho:Refeição
+$-0.72
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SDescontos trabalhistas:INSS S-Férias
+$-222.85
+SDescontos trabalhistas:Contribuição sindical
+$-46.14
+SDescontos trabalhistas:Desc Adto Férias
+$-3,421.48
+SSalários e ordenado:Ferias
+$3,075.71
+SSalários e ordenado:1-3 ferias mes
+$1,025.24
+SSalários e ordenado:Diferença férias
+$333.11
+SSalários e ordenado:SA FGTS
+$477.75
+^
+D29/1'09
+MCCT?
+T69.00
+PCTIS Contra-cheque
+LSalários e ordenado:Diferença de Ticket
+^
+D6/3'09
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,813.25
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D28/2'09
+Mera: 956,19    331,27
+T4,182.34
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.28
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+^
+D5/3'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D5/2'09
+T-477.75
+PFGTS
+L[CTIS FGTS]
+^
+D31/3'09
+Mera: 956,19    331,27
+T4,028.19
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.64
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+SDescontos trabalhistas:Contribuição sindical
+$-153.79
+^
+D7/4'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D7/4'09
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,659.10
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D7/5'09
+T-3,813.13
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D5/6'09
+MLIQUIDO DE VENCIM
+T-3,813.13
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/8'09
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,812.77
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/7'09
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,813.01
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/4'09
+Mera: 956,19    331,27
+T4,182.22
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.40
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+^
+D30/4'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D31/5'09
+Mera: 956,19    331,27
+T4,182.22
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.40
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+^
+D31/5'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D30/6'09
+Mera: 956,19    331,27
+T4,182.10
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.52
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+^
+D30/6'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D30/7'09
+Mera: 956,19    331,27
+T4,181.86
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.76
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+^
+D30/7'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D30/8'09
+Mera: 956,19    331,27
+T4,182.10
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.52
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+^
+D30/8'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D4/9'09
+MLIQUIDO DE VENCIM
+T-3,813.01
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/9'09
+Mera: 956,19    331,27
+T4,182.10
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.52
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+^
+D30/9'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D6/10'09
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,813.01
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/10'09
+T4,182.10
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.52
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+^
+D30/10'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D8/11'09
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,813.01
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D26/11'09
+T2,491.33
+P13o 1a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+$2,306.79
+SSalários e ordenado:SA FGTS
+$184.54
+^
+D26/11'09
+T-184.54
+PFGTS
+L[CTIS FGTS]
+^
+D27/11'09
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-2,306.79
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D4/12'09
+MLIQUIDO DE VENCIM doc: 11204 LIQUIDO DE VENCIM
+T-3,813.13
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/11'09
+T4,182.22
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.40
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+^
+D30/11'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D30/12'09
+T4,181.98
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,613.57
+SDescontos trabalhistas:INSS S-Salário
+$-354.08
+SDescontos trabalhistas:IRRF S-Salário
+$-429.10
+SDespesas de trabalho:Refeição
+$-2.64
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$369.09
+^
+D30/12'09
+T-369.09
+PFGTS
+L[CTIS FGTS]
+^
+D5/1'10
+MLIQUIDO DE VENCIM
+T-3,812.89
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/1'10
+T3,524.79
+PFerias gozadas
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E10dias
+$1,614.75
+SSalários e ordenado:Abono
+E10dias
+$1,577.56
+SSalários e ordenado:Ferias
+E20dias
+$3,155.11
+SSalários e ordenado:Diferença férias
+E20dias
+$153.79
+SSalários e ordenado:1-3 Abono
+E10
+$525.85
+SSalários e ordenado:Diferença abono
+$76.89
+SSalários e ordenado:1-3 ferias mes
+E20
+$1,051.70
+SSalários e ordenado:Diferença férias mes
+E20
+$51.27
+SSalários e ordenado:Diferença Salário
+$922.71
+SSalários e ordenado:Diferença de Ticket
+$86.40
+SSalários e ordenado:Diferença férias
+$25.63
+SSalários e ordenado:Diferença 13o Salário
+$230.68
+SDescontos trabalhistas:INSS S-Salário
+$-118.03
+SDescontos trabalhistas:IRRF S-Salário
+$-71.36
+SDescontos trabalhistas:Desc SALDO insuficiente
+$-21.74
+SDescontos trabalhistas:IRRF S-Férias
+$-349.70
+SDescontos trabalhistas:Desc Adto Férias
+$-5,709.61
+SDescontos trabalhistas:INSS S-Férias
+$-236.05
+SDescontos trabalhistas:Vale Refeição
+$-0.60
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$574.40
+^
+D5/2'10
+T-574.40
+PFGTS
+L[CTIS FGTS]
+^
+D5/2'10
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-2,950.39
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D8/3'10
+T4,385.53
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,844.25
+SDescontos trabalhistas:INSS S-Salário
+$-375.82
+SDescontos trabalhistas:IRRF S-Salário
+$-453.15
+SDespesas de trabalho:Refeição
+$-2.43
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$387.54
+^
+D8/3'10
+T-387.54
+PFGTS
+L[CTIS FGTS]
+^
+D8/3'10
+MLIQUIDO DE VENCIM
+T-3,997.99
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D8/4'10
+Msf: 4858,04  LIQUIDO DE VENCIM
+T-3,836.01
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/3'10
+T4,223.55
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,844.25
+SDescontos trabalhistas:INSS S-Salário
+$-375.82
+SDescontos trabalhistas:IRRF S-Salário
+$-453.15
+SDespesas de trabalho:Refeição
+$-2.94
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$387.54
+SDescontos EPS:Contribuição sindical
+$-161.47
+^
+D30/3'10
+T-387.54
+PFGTS
+L[CTIS FGTS]
+^
+D7/5'10
+MLIQUIDO DE VENCIM
+T-3,997.86
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/4'10
+T4,385.27
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,844.25
+SDescontos trabalhistas:INSS S-Salário
+$-375.82
+SDescontos trabalhistas:IRRF S-Salário
+$-453.15
+SDespesas de trabalho:Refeição
+$-2.69
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$387.54
+^
+D30/4'10
+T-387.54
+PFGTS
+L[CTIS FGTS]
+^
+D30/5'10
+T4,385.27
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$4,844.25
+SDescontos trabalhistas:INSS S-Salário
+$-375.82
+SDescontos trabalhistas:IRRF S-Salário
+$-453.15
+SDespesas de trabalho:Refeição
+$-2.69
+SDescontos trabalhistas:Plano Odontológico
+$-14.86
+SSalários e ordenado:SA FGTS
+$387.54
+^
+D30/5'10
+T-387.54
+PFGTS
+L[CTIS FGTS]
+^
+D7/6'10
+MLIQUIDO DE VENCIM
+T-3,997.73
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/7'10
+MLIQUIDO DE VENCIM
+T-3,998.92
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/8'10
+Msf: 4084,12   LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,989.14
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/9'10
+MLIQUIDO DE VENCIM
+T-3,995.76
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D5/10'10
+MLIQUIDO DE VENCIM
+T-3,958.30
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D5/11'10
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,958.43
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D29/11'10
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-2,422.13
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D20/12'10
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-1,589.09
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/12'10
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-3,958.43
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D3/2'11
+T8,225.79
+PFerias gozadas
+LSalários e ordenado:1a parcela 13o
+SSalários e ordenado:1a parcela 13o
+E009
+$2,422.13
+SSalários e ordenado:Ferias
+E20
+$3,229.50
+SSalários e ordenado:Abono
+E10
+$1,614.75
+SSalários e ordenado:1-3 ferias mes
+E20
+$1,076.50
+SSalários e ordenado:1-3 Abono
+$538.25
+SDescontos trabalhistas:IRRF S-Férias
+E22,50
+$-334.54
+SDescontos trabalhistas:INSS S-Férias
+E11
+$-270.57
+SDescontos trabalhistas:Ass Médica
+$-36.56
+SDescontos trabalhistas:Plano Odontológico
+$-13.67
+^
+D7/1'11
+MLIQUIDO DE VENCIM
+T-3,958.05
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D3/2'11
+MLIQUIDO DE VENCIM
+T-8,225.79
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D4/2'11
+MLIQUIDO DE VENCIM
+T-4,782.91
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/5'11
+MLIQUIDO DE VENCIM
+T-4,186.27
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D4/3'11
+T-2,652.16
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/4'11
+T-4,014.69
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/6'11
+MLIQUIDO DE VENCIM
+T-4,180.25
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/12'11
+MLIQUIDO DE VENCIM LIQUIDO DE VENCIM LIQUIDO DE VENCIM
+T-4,462.64
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D5/7'13
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-4,266.46
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/9'13
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-4,266.63
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D9/8'13
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T4,000.00
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D17/1'14
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-6,036.09
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D9/12'13
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,214.38
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D2/12'13
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-2,947.68
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/1'14
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-4,503.79
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D19/12'13
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-2,191.95
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D4/10'13
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-4,266.80
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/11'13
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE 
+T-4,104.86
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/10'14
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-4,484.86
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D5/12'14
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-4,134.17
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/11'14
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,213.69
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D7/1'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,301.31
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/3'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,230.69
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/2'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,279.69
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/11'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-4,730.65
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D27/11'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-7,443.21
+PFerias CTIS -> STD
+L[Santander Corrente]
+^
+D29/4'16
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,859.55
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/1'15
+T5,821.17
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$6,768.51
+SDescontos trabalhistas:INSS S-Salário
+$-513.01
+SDescontos trabalhistas:IRRF S-Salário
+$-795.27
+SDespesas de trabalho:Refeição
+$-4.20
+SDescontos trabalhistas:Contr assist médica mensal
+$-176.34
+SSalários e ordenado:SA FGTS
+$541.48
+^
+D30/1'15
+T-541.48
+PFGTS
+L[CTIS FGTS]
+^
+D7/4'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,182.28
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D7/5'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,408.30
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D5/6'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,408.30
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/7'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,408.10
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D13/7'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-7,999.27
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/8'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-3,599.39
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D4/9'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-4,176.88
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/10'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,786.08
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D6/11'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,704.69
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D27/11'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-3,588.67
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D18/12'15
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-2,216.60
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D29/1'16
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,666.72
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D29/2'16
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132 LIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,662.33
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/3'16
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,610.80
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D28/2'15
+T5,836.56
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$6,768.51
+SDescontos trabalhistas:INSS S-Salário
+$-513.01
+SDescontos trabalhistas:IRRF S-Salário
+$-795.27
+SDespesas de trabalho:Refeição
+$-3.80
+SDescontos trabalhistas:Contr assist médica mensal
+$-58.78
+SDescontos trabalhistas:co-part - Ass méd Depende
+$-102.57
+SSalários e ordenado:SA FGTS
+$541.48
+^
+D28/2'15
+T-541.48
+PFGTS
+L[CTIS FGTS]
+^
+D30/3'15
+T5,723.76
+PCTIS Contra-cheque
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E30d
+$6,768.51
+SDescontos trabalhistas:INSS S-Salário
+$-513.01
+SDescontos trabalhistas:IRRF S-Salário
+$-746.62
+SDespesas de trabalho:Refeição
+$-4.40
+SDescontos trabalhistas:Contribuição sindical
+$-225.62
+SDescontos trabalhistas:Ass Médica
+$-96.58
+SSalários e ordenado:SA FGTS
+$541.48
+^
+D30/3'15
+T-541.48
+PFGTS
+L[CTIS FGTS]
+^
+D29/7'16
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,859.33
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D30/5'16
+MLIQUIDO DE VENCIMENTO              CTIS TECNO 01644731000132
+T-5,859.11
+PSalário CTIS -> Santander
+L[Santander Corrente]
+^
+D29/4'13
+T6,526.19
+PFerias gozadas
+LSalários e ordenado:Ferias
+SSalários e ordenado:Ferias
+E20
+$3,930.23
+SSalários e ordenado:Abono
+E10
+$1,965.12
+SSalários e ordenado:1-3 ferias mes
+E20
+$1,310.08
+SSalários e ordenado:1-3 Abono
+E10
+$655.04
+SDescontos trabalhistas:IRRF S-Férias
+E27,5
+$-472.04
+SDescontos trabalhistas:INSS S-Férias
+E11
+$-304.99
+SDescontos trabalhistas:Ass Médica
+$-53.34
+SDescontos trabalhistas:Ass méd Depende
+$-503.91
+^
+D29/12'11
+T6,574.09
+PFerias gozadas
+LSalários e ordenado:Ferias
+SSalários e ordenado:Ferias
+E20
+$3,683.44
+SSalários e ordenado:Abono
+E10
+$1,841.72
+SSalários e ordenado:1-3 ferias mes
+E20
+$1,227.81
+SSalários e ordenado:1-3 Abono
+E10
+$613.91
+SDescontos trabalhistas:IRRF S-Férias
+E27,5
+$-465.58
+SDescontos trabalhistas:INSS S-Férias
+E11
+$-270.72
+SDescontos trabalhistas:Ass Médica
+$-42.00
+SDescontos trabalhistas:Plano Odontológico
+$-14.49
+^
+D29/11'15
+T7,443.21
+PFerias gozadas
+LSalários e ordenado:1-3 ferias mes
+SSalários e ordenado:1-3 ferias mes
+E30
+$2,392.44
+SSalários e ordenado:Ferias
+E30
+$7,177.33
+SDescontos trabalhistas:IRRF S-Férias
+E27,5
+$-1,516.97
+SDescontos trabalhistas:INSS S-Férias
+E11
+$-513.01
+SDescontos trabalhistas:Ass Médica
+$-96.58
+^
+D20/12'11
+T2,136.24
+P13o 2a - salário
+LSalários e ordenado:13o Salário
+SSalários e ordenado:13o Salário
+$5,525.16
+SDescontos trabalhistas:Desc Adto 13o Salário
+$-2,422.13
+SDescontos trabalhistas:IRRF S-13o Salário
+E27,50
+$-560.70
+SDescontos trabalhistas:INSS S-13o Salário
+E11
+$-406.09
+SSalários e ordenado:SA FGTS
+$0.00
+SSalários e ordenado:Bônus
+E0326 - médias de gratificaão - 13o salário
+$0.00
+^
+D3/3'11
+Mdia 04/03/2011
+T2,652.16
+PCTIS Contra-cheque ret férias
+LSalários e ordenado:Pagamento bruto
+SSalários e ordenado:Pagamento bruto
+E10
+$1,711.64
+SSalários e ordenado:1a parcela 13o
+$2,422.13
+SSalários e ordenado:Abono
+E10
+$1,614.75
+SSalários e ordenado:Ferias
+E20
+$3,229.50
+SSalários e ordenado:Diferença férias
+E20
+$193.77
+SSalários e ordenado:1-3 Abono
+E10
+$538.25
+SSalários e ordenado:Diferença abono
+$96.89
+SSalários e ordenado:1-3 ferias mes
+E20
+$1,076.50
+SSalários e ordenado:Diferença 1-3 férias
+E20
+$64.59
+SSalários e ordenado:Diferença Salário CCT
+$581.31
+SSalários e ordenado:Diferença 1-3 abono férias
+$32.30
+SSalários e ordenado:Diferença 13o Salário CCT
+$145.33
+SDescontos trabalhistas:INSS S-Salário
+E11
+$-135.29
+SDescontos trabalhistas:IRRF S-Férias
+$-37.69
+SDescontos trabalhistas:IRRF S-Férias
+$-334.54
+SDescontos trabalhistas:Desc Adto Férias
+$-8,225.79
+SDescontos trabalhistas:INSS S-Férias
+$-270.57
+SDescontos trabalhistas:Vale Refeição
+$-0.69
+SDescontos trabalhistas:Ass Médica
+$-36.56
+SDescontos trabalhistas:Plano Odontológico
+$-13.67
+^
