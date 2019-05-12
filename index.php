@@ -1,7 +1,17 @@
 <?php
 ob_start();
+$arrDados=[		['!Type:'	,'Tipo'				],
+				['L'		,'Lancamento'		],
+				['S'		,'Lancamento_##'	],
+				['$'		,'Valor_#'			],
+				['E'		,'Memo_#'			],
+				['P'		,'Favorecido'		],
+				['D'		,'Data'				],
+				['T'		,'Valor'			],
+				['M'		,'Memo'				],
+				['N'		,'Documento'		],
+				[''			,'Obs'				]	];
 
-//$arr=explode("^",separarCampos(abrirArquivo("mov.txt")));
 $arr=explode("^",abrirArquivo("mov.txt"));
 
 foreach ($arr as $item => $val){
@@ -10,43 +20,32 @@ foreach ($arr as $item => $val){
 	print_r(separarCampos($val));
 }
 
-
-
-
-function abrirArquivo($arq){
-//echo "arq($arq)";
-
-	$a = fopen($arq,"r");
-	echo $a."<br>";
-	$ret="";
-	while (!feof ($a)){
-		$ret.= fgets($a,8192);
-
-	}
-	fclose($a);
-	return $ret;
-}
+function abrirArquivo($arq){$ret="";$a=fopen($arq,"r");while(!feof($a))$ret.=fgets($a,8192);fclose($a);return $ret;}
 
 function separarCampos($texto){
+	global $arrDados;
 	$texto=str_replace(chr(10),"",$texto);
-	$arr=explode(chr(13),$texto);
-print_r($arr);echo "<br>";
+	$arr=explode(chr(13),$texto);print_r($arr);echo "<br>";
 	$str_json="{";
 	$detalhe=0;
 	foreach($arr as $item){
 		$str="";
-		if(substr($item,0,5)=='!Type'	)	$str="{'Tipo'=>'"								.substr($item,6)."'"		;else
-		if(substr($item,0,1)=='L'		)	$str="{'Lancamento'=>'"							.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='S'		)	$str="{'Lancamento_".(++$detalhe)."'=>'"		.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='$'		)	$str="{'Valor_".$detalhe."'=>'"					.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='E'		)	$str="{'Memo_".$detalhe."'=>'"					.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='P'		)	$str="{'Favorecido'=>'"							.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='D'		)	$str="{'Data'=>'"								.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='T'		)	$str="{'Valor'=>'"								.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='M'		)	$str="{'Memo'=>'"								.substr($item,1)."'"		;else
-		if(substr($item,0,1)=='N'		)	$str="{'Documento'=>'"							.substr($item,1)."'"		;else
-		if($item!='')						$str="{'Obs'=>'$item'";else continue;
-		$str_json.="$str},";
+		foreach($arrDados as $dado){
+			$tam=strlen($dado[0]);
+			if(substr($item,0,$tam)==$dado[0]){
+				if($dado[0]!=''){
+					if(strpos($dado[1],'_##')>0){
+						$dado[1]=str_replace('_##',('_'.(++$detalhe)),$dado[1]);
+					}else
+					if(strpos($dado[1],'_#')>0){
+						$dado[1]=str_replace('_#',"_$detalhe",$dado[1]);
+					}
+				}
+				if($item!='')$str="{'".$dado[1]."'=>'".substr($item,($tam))."'";
+				break;
+			}
+		}
+		if($str!='')$str_json.="$str},";
 	}
 	return "$str_json}";
 }
